@@ -1,0 +1,128 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;500;600;700;800&family=Manrope:wght@400;500;600;700&display=swap');
+
+body.produtos-page-body {
+    margin: 0;
+    padding: 0;
+}
+
+.produtosPage {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 0.9rem;
+    width: 100%;
+    box-sizing: border-box;
+    overflow-x: hidden;
+}
+
+.conteudo-container {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    max-width: 100%;
+    box-sizing: border-box;
+}
+
+.conteudo-container .categoria-grid {
+    width: min(1200px, 100%);
+    margin-left: auto;
+    margin-right: auto;
+}
+
+@media (min-width: 901px) {
+    .conteudo-container .categoria-grid {
+        width: 90vw;
+        max-width: 90vw;
+    }
+}
+
+@media (max-width: 900px) {
+    .conteudo-container .categoria-grid {
+        width: 90vw;
+        max-width: 90vw;
+        padding-left: 0;
+        padding-right: 0;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .conteudo-container .card-produto {
+        width: 100%;
+        max-width: 90vw;
+        box-sizing: border-box;
+        margin-left: auto;
+        margin-right: auto;
+    }
+}
+
+.titulo-container {
+    width: 80%;
+    height: 7rem;
+    border-radius: 1rem;
+    border: 2px solid rgb(255, 230, 0);
+    display: flex;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    justify-content: center;
+    align-items: center;
+}
+
+.titulo-container:hover {
+    border-color: rgb(255, 221, 31);
+    box-shadow: 0 0 10px rgb(255, 255, 255);
+    transform: translateY(2px);
+    transition: all 0.3s ease;
+}
+
+.titulo-container h1 {
+    color: rgb(245, 245, 245);
+    font-size: 2.5rem;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);
+    font-family: 'Outfit', sans-serif;
+    text-transform: uppercase;
+}
+
+.navegacao-categorias {
+    width: auto;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    gap: 0.6rem;
+    margin: 0;
+    position: fixed;
+    left: 1rem;
+    bottom: 1rem;
+    z-index: 1300;
+}
+
+.nav-categoria-btn {
+    width: 2.5rem;
+    height: 2.5rem;
+    border: 1px solid rgba(255, 230, 0, 0.85);
+    border-radius: 0.6rem;
+    background: rgba(0, 28, 185, 0.92);
+    color: #ffe100;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    text-decoration: none;
+    font-size: 1.2rem;
+    font-weight: 800;
+    cursor: pointer;
+    transition: transform 0.2s ease, background-color 0.2s ease;
+}
+
+.nav-categoria-btn:hover {
+    transform: translateY(-1px);
+    background: #0a33d7;
+}
+
+@media (max-width: 900px) {
+    .navegacao-categorias {
+        left: 0.75rem;
+        bottom: 0.75rem;
+    }
+}

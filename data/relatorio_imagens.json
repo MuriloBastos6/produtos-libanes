@@ -1,0 +1,4772 @@
+{
+  "summary": {
+    "categorias": 18,
+    "produtos": 529,
+    "matched": 538,
+    "fallback": 0,
+    "category_without_folder": 0
+  },
+  "details": [
+    {
+      "categoria": "promoçoes",
+      "id": "uva-passa-preta",
+      "descricao": "UVA PASSA PRETA",
+      "imagem": "/images/frutas/UVA_PASSA_PRETA.jpg",
+      "status": "linked-by-id",
+      "score": 999.0,
+      "arquivo_sugerido": "UVA_PASSA_PRETA.jpg"
+    },
+    {
+      "categoria": "promoçoes",
+      "id": "linhaa-dourada",
+      "descricao": "LINHAÇA DOURADA",
+      "imagem": "/images/produtosnaturais/LINHACA_DOURADA.jpg",
+      "status": "linked-by-id",
+      "score": 999.0,
+      "arquivo_sugerido": "LINHACA_DOURADA.jpg"
+    },
+    {
+      "categoria": "promoçoes",
+      "id": "aveia-em-flocos-laminada-n2",
+      "descricao": "AVEIA EM FLOCOS LAMINADA Nº2",
+      "imagem": "/images/produtosnaturais/AVEIA_EM_FLOCOS_LAMINADA.jpg",
+      "status": "linked-by-id",
+      "score": 999.0,
+      "arquivo_sugerido": "AVEIA_EM_FLOCOS_LAMINADA.jpg"
+    },
+    {
+      "categoria": "promoçoes",
+      "id": "aveia-em-flocos-n3",
+      "descricao": "AVEIA EM FLOCOS Nº3",
+      "imagem": "/images/produtosnaturais/AVEIA_EM_FLOCOS.jpg",
+      "status": "linked-by-id",
+      "score": 999.0,
+      "arquivo_sugerido": "AVEIA_EM_FLOCOS.jpg"
+    },
+    {
+      "categoria": "promoçoes",
+      "id": "farinha-de-aveia-n6",
+      "descricao": "FARINHA DE AVEIA Nº6",
+      "imagem": "/images/farinhas/farinha-de-aveia.jpg",
+      "status": "linked-by-id",
+      "score": 999.0,
+      "arquivo_sugerido": "farinha-de-aveia.jpg"
+    },
+    {
+      "categoria": "promoçoes",
+      "id": "farelo-de-aveia-n7",
+      "descricao": "FARELO DE AVEIA Nº7",
+      "imagem": "/images/produtosnaturais/FARELO_DE_AVEIA.jpg",
+      "status": "linked-by-id",
+      "score": 999.0,
+      "arquivo_sugerido": "FARELO_DE_AVEIA.jpg"
+    },
+    {
+      "categoria": "promoçoes",
+      "id": "amendoim-hanner",
+      "descricao": "AMENDOIM HANNER",
+      "imagem": "/images/amendoim/amendoim-hanner.jpg",
+      "status": "linked-by-id",
+      "score": 999.0,
+      "arquivo_sugerido": "amendoim-hanner.jpg"
+    },
+    {
+      "categoria": "promoçoes",
+      "id": "milho-pipoca-zanella",
+      "descricao": "MILHO PIPOCA ZANELLA",
+      "imagem": "/images/graos/MILHO_DE_PIPOCA.jpg",
+      "status": "linked-by-id",
+      "score": 999.0,
+      "arquivo_sugerido": "MILHO_DE_PIPOCA.jpg"
+    },
+    {
+      "categoria": "promoçoes",
+      "id": "amido-de-milho-integrada",
+      "descricao": "AMIDO DE MILHO INTEGRADA",
+      "imagem": "/images/panificacao/AMIDO_DE_MILHO_INTEGRADA.jpg",
+      "status": "linked-by-id",
+      "score": 999.0,
+      "arquivo_sugerido": "AMIDO_DE_MILHO_INTEGRADA.jpg"
+    },
+    {
+      "categoria": "amendoim",
+      "id": "amendoa-w4-ts",
+      "descricao": "CASTANHA  W4 T.S",
+      "imagem": "/images/amendoim/amendoa-w4-t.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "amendoa-w4-t.jpg"
+    },
+    {
+      "categoria": "amendoim",
+      "id": "amendoa-w4-t",
+      "descricao": "CASTANHA  W4 T.",
+      "imagem": "/images/amendoim/amendoa-w4-t.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "amendoa-w4-t.jpg"
+    },
+    {
+      "categoria": "amendoim",
+      "id": "amendoa-confeitada-colorida",
+      "descricao": "AMENDOA CONFEITADA COLORIDA",
+      "imagem": "/images/amendoim/amendoa-confeita-colorida.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "amendoa-confeita-colorida.jpg"
+    },
+    {
+      "categoria": "amendoim",
+      "id": "amendoa-crua",
+      "descricao": "AMENDOA CRUA",
+      "imagem": "/images/amendoim/amendoa-crua.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "amendoa-crua.jpg"
+    },
+    {
+      "categoria": "amendoim",
+      "id": "amendoa-confeitada-branca",
+      "descricao": "AMENDOA CONFEITADA BRANCA",
+      "imagem": "/images/amendoim/amendoa-confeitada-branca.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "amendoa-confeitada-branca.jpg"
+    },
+    {
+      "categoria": "amendoim",
+      "id": "amendoa-defumada",
+      "descricao": "AMENDOA DEFUMADA",
+      "imagem": "/images/amendoim/amendoa-defumada.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "amendoa-defumada.jpg"
+    },
+    {
+      "categoria": "amendoim",
+      "id": "amendoa-torrada-e-salgada",
+      "descricao": "AMENDOA TORRADA E SALGADA",
+      "imagem": "/images/amendoim/amendoa-torrada-salgada.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "amendoa-torrada-salgada.jpg"
+    },
+    {
+      "categoria": "amendoim",
+      "id": "amendoim-caramelizado",
+      "descricao": "AMENDOIM CARAMELIZADO",
+      "imagem": "/images/amendoim/amendoim-caramelizado.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "amendoim-caramelizado.jpg"
+    },
+    {
+      "categoria": "amendoim",
+      "id": "amendoim-caramelizado-c-coco",
+      "descricao": "AMENDOIM CARAMELIZADO C/ COCO",
+      "imagem": "/images/amendoim/amendoim-caramelizado-com-coco.png",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "amendoim-caramelizado-com-coco.png"
+    },
+    {
+      "categoria": "amendoim",
+      "id": "amendoim-caramelizado-c-gergelim",
+      "descricao": "AMENDOIM CARAMELIZADO C/ GERGELIM",
+      "imagem": "/images/amendoim/amendoim-caramelizado-com-gergelim.webp",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "amendoim-caramelizado-com-gergelim.webp"
+    },
+    {
+      "categoria": "amendoim",
+      "id": "amendoim-caramelizado-c-mel",
+      "descricao": "AMENDOIM CARAMELIZADO C/ MEL",
+      "imagem": "/images/amendoim/amendoim-caramelizado.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "amendoim-caramelizado.jpg"
+    },
+    {
+      "categoria": "amendoim",
+      "id": "amendoim-casca-cru",
+      "descricao": "AMENDOIM CASCA CRU",
+      "imagem": "/images/amendoim/amendoim-casca-cru.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "amendoim-casca-cru.jpg"
+    },
+    {
+      "categoria": "amendoim",
+      "id": "amendoim-casca-torrado",
+      "descricao": "AMENDOIM CASCA TORRADO",
+      "imagem": "/images/amendoim/amendoim-casca-torrado.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "amendoim-casca-torrado.jpg"
+    },
+    {
+      "categoria": "amendoim",
+      "id": "amendoim-frito-c-alho-c-pele",
+      "descricao": "AMENDOIM FRITO C/ ALHO C/ PELE",
+      "imagem": "/images/amendoim/amendoim-frito-c-alho-c-pele.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "amendoim-frito-c-alho-c-pele.jpg"
+    },
+    {
+      "categoria": "amendoim",
+      "id": "amendoim-frito-c-alho-s-pele",
+      "descricao": "AMENDOIM FRITO C/ ALHO S/ PELE",
+      "imagem": "/images/amendoim/amendoim-frito-com-alho-sem-pele.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "amendoim-frito-com-alho-sem-pele.jpg"
+    },
+    {
+      "categoria": "amendoim",
+      "id": "amendoim-frito-c-sal-c-pele",
+      "descricao": "AMENDOIM FRITO C/ SAL C/ PELE",
+      "imagem": "/images/amendoim/amendoim-frito-com-sal-com-pele.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "amendoim-frito-com-sal-com-pele.jpg"
+    },
+    {
+      "categoria": "amendoim",
+      "id": "amendoim-frito-c-sal-spele",
+      "descricao": "AMENDOIM FRITO C/ SAL  S/PELE",
+      "imagem": "/images/amendoim/amendoim-frito-com-sal-sem-pele.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "amendoim-frito-com-sal-sem-pele.jpg"
+    },
+    {
+      "categoria": "amendoim",
+      "id": "amendoim-hanner",
+      "descricao": "AMENDOIM HANNER",
+      "imagem": "/images/amendoim/amendoim-hanner.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "amendoim-hanner.jpg"
+    },
+    {
+      "categoria": "amendoim",
+      "id": "amendoim-hps",
+      "descricao": "AMENDOIM HPS",
+      "imagem": "/images/amendoim/amendoim-hps.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "amendoim-hps.jpg"
+    },
+    {
+      "categoria": "amendoim",
+      "id": "amendoim-ovinho",
+      "descricao": "AMENDOIM OVINHO",
+      "imagem": "/images/amendoim/amendoim-ovinho.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "amendoim-ovinho.jpg"
+    },
+    {
+      "categoria": "amendoim",
+      "id": "amendoim-ovinho-salsa-e-cebola",
+      "descricao": "AMENDOIM OVINHO SALSA E CEBOLA",
+      "imagem": "/images/amendoim/amendoim-ovinho-cebola-salsa.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "amendoim-ovinho-cebola-salsa.jpg"
+    },
+    {
+      "categoria": "amendoim",
+      "id": "amendoim-s-pele",
+      "descricao": "AMENDOIM S/ PELE",
+      "imagem": "/images/amendoim/amendoim-s-pele.jpeg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "amendoim-s-pele.jpeg"
+    },
+    {
+      "categoria": "amendoim",
+      "id": "amendoim-s-pele-torrado-c-sal",
+      "descricao": "AMENDOIM S/ PELE TORRADO C/ SAL",
+      "imagem": "/images/amendoim/AMENDOIM-S- PELE-TORRADO-C-sAL.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "AMENDOIM-S- PELE-TORRADO-C-sAL.jpg"
+    },
+    {
+      "categoria": "amendoim",
+      "id": "amendoim-s-pele-torrado-s-sal",
+      "descricao": "AMENDOIM S/ PELE TORRADO S/ SAL",
+      "imagem": "/images/amendoim/amendoim-s-pele-torrado-s-sal.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "amendoim-s-pele-torrado-s-sal.jpg"
+    },
+    {
+      "categoria": "amendoim",
+      "id": "castanha-de-caju-caramelizada",
+      "descricao": "CASTANHA DE CAJU CARAMELIZADA",
+      "imagem": "/images/amendoim/CASTANHA_DE_CAJU_CARAMELIZADA.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "CASTANHA_DE_CAJU_CARAMELIZADA.jpg"
+    },
+    {
+      "categoria": "amendoim",
+      "id": "castanha-de-caju-caramelizada-açai",
+      "descricao": "CASTANHA DE CAJU CARAMELIZADA AÇAÍ",
+      "imagem": "/images/amendoim/castanha-de-caju-caramelizada-acai.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "castanha-de-caju-caramelizada-acai.jpg"
+    },
+    {
+      "categoria": "amendoim",
+      "id": "castanha-de-caju-w1-assada",
+      "descricao": "CASTANHA DE CAJU W1 ASSADA",
+      "imagem": "/images/amendoim/castanha-de-caju-w1-assada.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "castanha-de-caju-w1-assada.jpg"
+    },
+    {
+      "categoria": "amendoim",
+      "id": "castanha-de-caju-w1-crua",
+      "descricao": "CASTANHA DE CAJU W1 CRUA",
+      "imagem": "/images/amendoim/castanha-de-caju-w1-crua.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "castanha-de-caju-w1-crua.jpg"
+    },
+    {
+      "categoria": "amendoim",
+      "id": "castanha-de-caju-w1-t",
+      "descricao": "CASTANHA DE CAJU W1 T.",
+      "imagem": "/images/amendoim/castanha-de-caju-w1-t.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "castanha-de-caju-w1-t.jpg"
+    },
+    {
+      "categoria": "amendoim",
+      "id": "castanha-de-caju-w1-ts",
+      "descricao": "CASTANHA DE CAJU W1 T.S",
+      "imagem": "/images/amendoim/castanha-de-caju-w1-t-s.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "castanha-de-caju-w1-t-s.jpg"
+    },
+    {
+      "categoria": "amendoim",
+      "id": "castanha-do-para-large-paratini",
+      "descricao": "CASTANHA DO PARA LARGE PARATINI",
+      "imagem": "/images/amendoim/PARA_LARGE.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "PARA_LARGE.jpg"
+    },
+    {
+      "categoria": "amendoim",
+      "id": "castanha-do-para-media-paratini",
+      "descricao": "CASTANHA DO PARA MEDIA PARATINI",
+      "imagem": "/images/amendoim/PARA_MEDIA.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "PARA_MEDIA.jpg"
+    },
+    {
+      "categoria": "amendoim",
+      "id": "castanha-do-para-pequena-paratini",
+      "descricao": "CASTANHA DO PARA PEQUENA PARATINI",
+      "imagem": "/images/amendoim/PARA_PEQUENA.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "PARA_PEQUENA.jpg"
+    },
+    {
+      "categoria": "amendoim",
+      "id": "castanha-do-para-quebrada-paratini",
+      "descricao": "CASTANHA DO PARA QUEBRADA PARATINI",
+      "imagem": "/images/amendoim/PARA_QUEBRADA.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "PARA_QUEBRADA.jpg"
+    },
+    {
+      "categoria": "amendoim",
+      "id": "crocante-bacon-balsamo",
+      "descricao": "CROCANTE BACON BALSAMO",
+      "imagem": "/images/amendoim/CROCANTE_BACON.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "CROCANTE_BACON.jpg"
+    },
+    {
+      "categoria": "amendoim",
+      "id": "crocante-c-salsa-balsamo",
+      "descricao": "CROCANTE C/ SALSA BALSAMO",
+      "imagem": "/images/amendoim/CROCANTE_SALSA.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "CROCANTE_SALSA.jpg"
+    },
+    {
+      "categoria": "amendoim",
+      "id": "crocante-com-pimenta-balsamo",
+      "descricao": "CROCANTE COM  PIMENTA BALSAMO",
+      "imagem": "/images/amendoim/CROCANTE_PIMENTA.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "CROCANTE_PIMENTA.jpg"
+    },
+    {
+      "categoria": "amendoim",
+      "id": "crocante-confeitado",
+      "descricao": "CROCANTE CONFEITADO",
+      "imagem": "/images/amendoim/CROCANTE_CONFEITADO.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "CROCANTE_CONFEITADO.jpg"
+    },
+    {
+      "categoria": "amendoim",
+      "id": "crocante-japones-balsamo",
+      "descricao": "CROCANTE JAPONES BALSAMO",
+      "imagem": "/images/amendoim/CROCANTE_JAPONES.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "CROCANTE_JAPONES.jpg"
+    },
+    {
+      "categoria": "amendoim",
+      "id": "crocante-natural-balsamo",
+      "descricao": "CROCANTE NATURAL BALSAMO",
+      "imagem": "/images/amendoim/CROCANTE_NATURAL.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "CROCANTE_NATURAL.jpg"
+    },
+    {
+      "categoria": "amendoim",
+      "id": "crocante-vp-bacon",
+      "descricao": "CROCANTE VP BACON",
+      "imagem": "/images/amendoim/CROCANTE_BACON.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "CROCANTE_BACON.jpg"
+    },
+    {
+      "categoria": "amendoim",
+      "id": "crocante-vp-com-pimenta",
+      "descricao": "CROCANTE VP COM PIMENTA",
+      "imagem": "/images/amendoim/CROCANTE_PIMENTA.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "CROCANTE_PIMENTA.jpg"
+    },
+    {
+      "categoria": "amendoim",
+      "id": "crocante-vp-com-salsa",
+      "descricao": "CROCANTE VP COM SALSA",
+      "imagem": "/images/amendoim/CROCANTE_SALSA.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "CROCANTE_SALSA.jpg"
+    },
+    {
+      "categoria": "amendoim",
+      "id": "crocante-vp-japones",
+      "descricao": "CROCANTE VP JAPONES",
+      "imagem": "/images/amendoim/CROCANTE_JAPONES.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "CROCANTE_JAPONES.jpg"
+    },
+    {
+      "categoria": "amendoim",
+      "id": "crocante-vp-natural",
+      "descricao": "CROCANTE VP NATURAL",
+      "imagem": "/images/amendoim/CROCANTE_NATURAL.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "CROCANTE_NATURAL.jpg"
+    },
+    {
+      "categoria": "amendoim",
+      "id": "macadamia-torrada-ssal",
+      "descricao": "MACADAMIA TORRADA S/SAL",
+      "imagem": "/images/amendoim/MACADAMIA_S_SAL.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "MACADAMIA_S_SAL.jpg"
+    },
+    {
+      "categoria": "amendoim",
+      "id": "mix-de-castanhas",
+      "descricao": "MIX DE CASTANHAS",
+      "imagem": "/images/amendoim/MIX_CASTANHA.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "MIX_CASTANHA.jpg"
+    },
+    {
+      "categoria": "amendoim",
+      "id": "nozes-mariposa",
+      "descricao": "NOZES MARIPOSA",
+      "imagem": "/images/amendoim/MARIPOSA.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "MARIPOSA.jpg"
+    },
+    {
+      "categoria": "amendoim",
+      "id": "nozes-quartos",
+      "descricao": "NOZES QUARTOS",
+      "imagem": "/images/amendoim/NOZES_QUARTS.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "NOZES_QUARTS.jpg"
+    },
+    {
+      "categoria": "amendoim",
+      "id": "xerem-de-amendoim",
+      "descricao": "XEREM DE AMENDOIM",
+      "imagem": "/images/amendoim/XEREM_AMENDOIM.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "XEREM_AMENDOIM.jpg"
+    },
+    {
+      "categoria": "arroz",
+      "id": "arroz-agulha-br",
+      "descricao": "ARROZ AGULHA BR",
+      "imagem": "/images/arroz/ARROZ_AGULHA_BR.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "ARROZ_AGULHA_BR.jpg"
+    },
+    {
+      "categoria": "arroz",
+      "id": "arroz-agulha-vmbr",
+      "descricao": "ARROZ AGULHA VM/BR",
+      "imagem": "/images/arroz/ARROZ_AGULHA_VM_BR.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "ARROZ_AGULHA_VM_BR.jpg"
+    },
+    {
+      "categoria": "arroz",
+      "id": "arroz-arboreo",
+      "descricao": "ARROZ ARBOREO",
+      "imagem": "/images/arroz/ARROZ_ARBOREO.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "ARROZ_ARBOREO.jpg"
+    },
+    {
+      "categoria": "arroz",
+      "id": "arroz-cateto-br",
+      "descricao": "ARROZ CATETO BR",
+      "imagem": "/images/arroz/arroz-cateto-br.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "arroz-cateto-br.jpg"
+    },
+    {
+      "categoria": "arroz",
+      "id": "arroz-cateto-vmbr",
+      "descricao": "ARROZ CATETO VM/BR",
+      "imagem": "/images/arroz/ARROZ_CATETO_VM_BR.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "ARROZ_CATETO_VM_BR.jpg"
+    },
+    {
+      "categoria": "arroz",
+      "id": "arroz-preto",
+      "descricao": "ARROZ PRETO",
+      "imagem": "/images/arroz/ARROZ_PRETO.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "ARROZ_PRETO.jpg"
+    },
+    {
+      "categoria": "arroz",
+      "id": "arroz-sete-graos",
+      "descricao": "ARROZ SETE GRAOS",
+      "imagem": "/images/arroz/ARROZ_SETE_GRAO.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "ARROZ_SETE_GRAO.jpg"
+    },
+    {
+      "categoria": "arroz",
+      "id": "arroz-vermelho",
+      "descricao": "ARROZ VERMELHO",
+      "imagem": "/images/arroz/ARROZ_VERMELHO.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "ARROZ_VERMELHO.jpg"
+    },
+    {
+      "categoria": "sucrilhos",
+      "id": "cer-choco-boll",
+      "descricao": "CER. CHOCO BOLL",
+      "imagem": "/images/sucrilhos/CER_CHOCOBOLL.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "CER_CHOCOBOLL.jpg"
+    },
+    {
+      "categoria": "sucrilhos",
+      "id": "cer-corn-flakes",
+      "descricao": "CER. CORN FLAKES",
+      "imagem": "/images/sucrilhos/CER_CRONFLAKES.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "CER_CRONFLAKES.jpg"
+    },
+    {
+      "categoria": "sucrilhos",
+      "id": "cer-corn-honey-g10",
+      "descricao": "CER. CORN HONEY G10",
+      "imagem": "/images/sucrilhos/CER_HONEY.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "CER_HONEY.jpg"
+    },
+    {
+      "categoria": "sucrilhos",
+      "id": "cer-corn-sugar-g01",
+      "descricao": "CER. CORN SUGAR G01",
+      "imagem": "/images/sucrilhos/CER_SUGAR.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "CER_SUGAR.jpg"
+    },
+    {
+      "categoria": "sucrilhos",
+      "id": "cer-corn-sugar-banana-g06",
+      "descricao": "CER. CORN SUGAR BANANA G06",
+      "imagem": "/images/sucrilhos/CER_SUGAR_BANANA.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "CER_SUGAR_BANANA.jpg"
+    },
+    {
+      "categoria": "sucrilhos",
+      "id": "cer-corn-sugar-leite-cond-g05",
+      "descricao": "CER. CORN SUGAR LEITE COND G05",
+      "imagem": "/images/sucrilhos/CER_SUGAR.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "CER_SUGAR.jpg"
+    },
+    {
+      "categoria": "sucrilhos",
+      "id": "cer-corn-sugar-mascavo-g18",
+      "descricao": "CER. CORN SUGAR MASCAVO G18",
+      "imagem": "/images/sucrilhos/CER_MASCAVO.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "CER_MASCAVO.jpg"
+    },
+    {
+      "categoria": "sucrilhos",
+      "id": "cer-fruit-rings-g07",
+      "descricao": "CER. FRUIT RINGS G07",
+      "imagem": "/images/sucrilhos/CER_FRUTI_RINGS.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "CER_FRUTI_RINGS.jpg"
+    },
+    {
+      "categoria": "cha",
+      "id": "anis-estrelado",
+      "descricao": "ANIS ESTRELADO",
+      "imagem": "/images/cha/ANIS_ESTRELADO.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "ANIS_ESTRELADO.jpg"
+    },
+    {
+      "categoria": "cha",
+      "id": "ch-ashwagandha-em-p",
+      "descricao": "CHÁ ASHWAGANDHA EM PÓ",
+      "imagem": "/images/cha/CHA_ASHWAGANDHA.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "CHA_ASHWAGANDHA.jpg"
+    },
+    {
+      "categoria": "cha",
+      "id": "ch-barbatimo",
+      "descricao": "CHÁ BARBATIMÃO",
+      "imagem": "/images/cha/BARBATIMAO.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "BARBATIMAO.jpg"
+    },
+    {
+      "categoria": "cha",
+      "id": "ch-boldo-chile",
+      "descricao": "CHÁ BOLDO CHILE",
+      "imagem": "/images/cha/BOLDO_DO_CHILE.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "BOLDO_DO_CHILE.jpg"
+    },
+    {
+      "categoria": "cha",
+      "id": "ch-camomila",
+      "descricao": "CHÁ CAMOMILA",
+      "imagem": "/images/cha/CAMOMILA.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "CAMOMILA.jpg"
+    },
+    {
+      "categoria": "cha",
+      "id": "ch-canela-de-velho",
+      "descricao": "CHÁ CANELA DE VELHO",
+      "imagem": "/images/cha/CANELA_DE_VELHO.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "CANELA_DE_VELHO.jpg"
+    },
+    {
+      "categoria": "cha",
+      "id": "ch-capim-limao",
+      "descricao": "CHÁ CAPIM LIMAO",
+      "imagem": "/images/cha/CAPIM_LIMAO.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "CAPIM_LIMAO.jpg"
+    },
+    {
+      "categoria": "cha",
+      "id": "ch-carqueja",
+      "descricao": "CHÁ CARQUEJA",
+      "imagem": "/images/cha/CARQUEJA.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "CARQUEJA.jpg"
+    },
+    {
+      "categoria": "cha",
+      "id": "ch-casca-de-aroeira",
+      "descricao": "CHÁ CASCA DE AROEIRA",
+      "imagem": "/images/cha/CASCA_DE_AROEIRA.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "CASCA_DE_AROEIRA.jpg"
+    },
+    {
+      "categoria": "cha",
+      "id": "ch-cavalinha",
+      "descricao": "CHÁ CAVALINHA",
+      "imagem": "/images/cha/CAVALINHA.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "CAVALINHA.jpg"
+    },
+    {
+      "categoria": "cha",
+      "id": "catuaba-em-p",
+      "descricao": "CATUABA EM PÓ",
+      "imagem": "/images/cha/CATUABA.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "CATUABA.jpg"
+    },
+    {
+      "categoria": "cha",
+      "id": "ch-chapeu-de-couro",
+      "descricao": "CHÁ CHAPEU DE COURO",
+      "imagem": "/images/cha/CHAPEU_DE_COURO.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "CHAPEU_DE_COURO.jpg"
+    },
+    {
+      "categoria": "cha",
+      "id": "ch-dente-de-leao",
+      "descricao": "CHÁ DENTE DE LEAO",
+      "imagem": "/images/cha/DENTE_DE_LEAO.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "DENTE_DE_LEAO.jpg"
+    },
+    {
+      "categoria": "cha",
+      "id": "ch-erva-doce-espanhola",
+      "descricao": "CHÁ ERVA DOCE ESPANHOLA",
+      "imagem": "/images/cha/ERVA_DOCE_ESP.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "ERVA_DOCE_ESP.jpg"
+    },
+    {
+      "categoria": "cha",
+      "id": "ch-erva-de-so-joo",
+      "descricao": "CHÁ ERVA DE SÃO JOÃO",
+      "imagem": "/images/cha/ERVA_DE_SAO_JOAO.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "ERVA_DE_SAO_JOAO.jpg"
+    },
+    {
+      "categoria": "cha",
+      "id": "ch-espinheira-santa-grada",
+      "descricao": "CHÁ ESPINHEIRA SANTA GRAÚDA",
+      "imagem": "/images/cha/ESPINHEIRA_SANTA_GRAUDA.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "ESPINHEIRA_SANTA_GRAUDA.jpg"
+    },
+    {
+      "categoria": "cha",
+      "id": "ch-espinheira-santa",
+      "descricao": "CHÁ ESPINHEIRA SANTA",
+      "imagem": "/images/cha/ESPINHEIRA_SANTA.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "ESPINHEIRA_SANTA.jpg"
+    },
+    {
+      "categoria": "cha",
+      "id": "ch-folha-de-amora",
+      "descricao": "CHÁ FOLHA DE AMORA",
+      "imagem": "/images/cha/FOLHA_DE_MARACUJA.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "FOLHA_DE_MARACUJA.jpg"
+    },
+    {
+      "categoria": "cha",
+      "id": "ch-folha-de-graviola",
+      "descricao": "CHÁ FOLHA DE GRAVIOLA",
+      "imagem": "/images/cha/FOLHA_DE_GRAVIOLA.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "FOLHA_DE_GRAVIOLA.jpg"
+    },
+    {
+      "categoria": "cha",
+      "id": "ch-folha-de-maracuja",
+      "descricao": "CHÁ FOLHA DE MARACUJA",
+      "imagem": "/images/cha/FOLHA_DE_MARACUJA.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "FOLHA_DE_MARACUJA.jpg"
+    },
+    {
+      "categoria": "cha",
+      "id": "ch-folha-de-oliveira",
+      "descricao": "CHÁ FOLHA DE OLIVEIRA",
+      "imagem": "/images/cha/FOLHA_DE_OLIVEIRA.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "FOLHA_DE_OLIVEIRA.jpg"
+    },
+    {
+      "categoria": "cha",
+      "id": "ch-ginkgo-biloba",
+      "descricao": "CHÁ GINKGO BILOBA",
+      "imagem": "/images/cha/cha-ginko-biloba.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "cha-ginko-biloba.jpg"
+    },
+    {
+      "categoria": "cha",
+      "id": "ch-guaco",
+      "descricao": "CHÁ GUACO",
+      "imagem": "/images/cha/GUACO.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "GUACO.jpg"
+    },
+    {
+      "categoria": "cha",
+      "id": "ch-hibisco-flor",
+      "descricao": "CHÁ HIBISCO FLOR",
+      "imagem": "/images/cha/HIBISCO.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "HIBISCO.jpg"
+    },
+    {
+      "categoria": "cha",
+      "id": "ch-hortela",
+      "descricao": "CHÁ DE HORTELÃ",
+      "imagem": "/images/cha/cha-de-hortela.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "cha-de-hortela.jpg"
+    },
+    {
+      "categoria": "cha",
+      "id": "ch-marapuama-p",
+      "descricao": "CHÁ MARAPUAMA PÓ",
+      "imagem": "/images/cha/MARAPUAMA.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "MARAPUAMA.jpg"
+    },
+    {
+      "categoria": "cha",
+      "id": "ch-mate-verde",
+      "descricao": "CHÁ MATE VERDE",
+      "imagem": "/images/cha/MATE_VERDE.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "MATE_VERDE.jpg"
+    },
+    {
+      "categoria": "cha",
+      "id": "ch-melissa",
+      "descricao": "CHÁ MELISSA",
+      "imagem": "/images/cha/MELISSA.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "MELISSA.jpg"
+    },
+    {
+      "categoria": "cha",
+      "id": "ch-mulungu",
+      "descricao": "CHÁ MULUNGU",
+      "imagem": "/images/cha/MULUNGU.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "MULUNGU.jpg"
+    },
+    {
+      "categoria": "cha",
+      "id": "ora-pro-nobis-p",
+      "descricao": "ORA PRO NOBIS PÓ",
+      "imagem": "/images/cha/ORA_PRO_NOBIS.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "ORA_PRO_NOBIS.jpg"
+    },
+    {
+      "categoria": "cha",
+      "id": "ch-pata-de-vaca",
+      "descricao": "CHÁ PATA DE VACA",
+      "imagem": "/images/cha/PATA_DE_VACA.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "PATA_DE_VACA.jpg"
+    },
+    {
+      "categoria": "cha",
+      "id": "ch-pau-tenente",
+      "descricao": "CHÁ PAU TENENTE",
+      "imagem": "/images/cha/PAU_TENENTE.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "PAU_TENENTE.jpg"
+    },
+    {
+      "categoria": "cha",
+      "id": "ch-pico-preto",
+      "descricao": "CHÁ PICÃO PRETO",
+      "imagem": "/images/cha/PICAO_PRETO.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "PICAO_PRETO.jpg"
+    },
+    {
+      "categoria": "cha",
+      "id": "ch-quebra-pedra",
+      "descricao": "CHÁ QUEBRA PEDRA",
+      "imagem": "/images/cha/QUEBRA_PEDRA.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "QUEBRA_PEDRA.jpg"
+    },
+    {
+      "categoria": "cha",
+      "id": "ch-sene",
+      "descricao": "CHÁ SENE",
+      "imagem": "/images/cha/SENE.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "SENE.jpg"
+    },
+    {
+      "categoria": "cha",
+      "id": "ch-unha-de-gato-rasurada",
+      "descricao": "CHÁ UNHA DE GATO RASURADA",
+      "imagem": "/images/cha/UNHA_DE_GATO_RASURADA.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "UNHA_DE_GATO_RASURADA.jpg"
+    },
+    {
+      "categoria": "cha",
+      "id": "ch-uxi-amarelo",
+      "descricao": "CHÁ UXI AMARELO",
+      "imagem": "/images/cha/UXI_AMARELO.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "UXI_AMARELO.jpg"
+    },
+    {
+      "categoria": "farinhas",
+      "id": "abobora-em-p",
+      "descricao": "ABOBORA EM PÓ",
+      "imagem": "/images/farinhas/farinha-de-leite-em-po.png",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "farinha-de-leite-em-po.png"
+    },
+    {
+      "categoria": "farinhas",
+      "id": "farinha-acaraje",
+      "descricao": "FARINHA ACARAJE",
+      "imagem": "/images/farinhas/farinha-de-acarje.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "farinha-de-acarje.jpg"
+    },
+    {
+      "categoria": "farinhas",
+      "id": "farinha-baianinha-grossa",
+      "descricao": "FARINHA BAIANINHA GROSSA",
+      "imagem": "/images/farinhas/farinha-baianinha-grossa.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "farinha-baianinha-grossa.jpg"
+    },
+    {
+      "categoria": "farinhas",
+      "id": "farinha-baianinha-fina",
+      "descricao": "FARINHA BAIANINHA FINA",
+      "imagem": "/images/farinhas/farinha-baianinha-fina.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "farinha-baianinha-fina.jpg"
+    },
+    {
+      "categoria": "farinhas",
+      "id": "farinha-d-agua-ce",
+      "descricao": "FARINHA D AGUA CE",
+      "imagem": "/images/farinhas/farinha-d-agua-ce.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "farinha-d-agua-ce.jpg"
+    },
+    {
+      "categoria": "farinhas",
+      "id": "farinha-d-agua-pa",
+      "descricao": "FARINHA D AGUA PA",
+      "imagem": "/images/farinhas/farinha-d-agua-pa.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "farinha-d-agua-pa.jpg"
+    },
+    {
+      "categoria": "farinhas",
+      "id": "farinha-de-amendoa",
+      "descricao": "FARINHA DE AMENDOA",
+      "imagem": "/images/farinhas/farinha-de-amendoa.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "farinha-de-amendoa.jpg"
+    },
+    {
+      "categoria": "farinhas",
+      "id": "farinha-de-amendoim",
+      "descricao": "FARINHA DE AMENDOIM",
+      "imagem": "/images/farinhas/farinha-de-amendoim.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "farinha-de-amendoim.jpg"
+    },
+    {
+      "categoria": "farinhas",
+      "id": "farinha-de-arroz-branco",
+      "descricao": "FARINHA DE ARROZ BRANCO",
+      "imagem": "/images/farinhas/farinha-de-arroz-branco.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "farinha-de-arroz-branco.jpg"
+    },
+    {
+      "categoria": "farinhas",
+      "id": "farinha-de-arroz-integral",
+      "descricao": "FARINHA DE ARROZ INTEGRAL",
+      "imagem": "/images/farinhas/farinha-de-arroz-integral.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "farinha-de-arroz-integral.jpg"
+    },
+    {
+      "categoria": "farinhas",
+      "id": "farinha-de-aveia-n6",
+      "descricao": "FARINHA DE AVEIA Nº6",
+      "imagem": "/images/farinhas/farinha-de-aveia.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "farinha-de-aveia.jpg"
+    },
+    {
+      "categoria": "farinhas",
+      "id": "farinha-de-banana-verde",
+      "descricao": "FARINHA DE BANANA VERDE",
+      "imagem": "/images/farinhas/farinha-de-banana-verde.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "farinha-de-banana-verde.jpg"
+    },
+    {
+      "categoria": "farinhas",
+      "id": "farinha-de-berinjela",
+      "descricao": "FARINHA DE BERINJELA",
+      "imagem": "/images/farinhas/farinha-de-beringela.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "farinha-de-beringela.jpg"
+    },
+    {
+      "categoria": "farinhas",
+      "id": "farinha-de-batata-doce",
+      "descricao": "FARINHA DE BATATA DOCE",
+      "imagem": "/images/farinhas/farinha-de-batata-doce.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "farinha-de-batata-doce.jpg"
+    },
+    {
+      "categoria": "farinhas",
+      "id": "farinha-de-beterraba",
+      "descricao": "FARINHA DE BETERRABA",
+      "imagem": "/images/farinhas/farinha-de-beteraba.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "farinha-de-beteraba.jpg"
+    },
+    {
+      "categoria": "farinhas",
+      "id": "farinha-de-chia",
+      "descricao": "FARINHA DE CHIA",
+      "imagem": "/images/farinhas/farinha-de-chia.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "farinha-de-chia.jpg"
+    },
+    {
+      "categoria": "farinhas",
+      "id": "farinha-de-coco",
+      "descricao": "FARINHA DE COCO",
+      "imagem": "/images/farinhas/farinha-de-coco.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "farinha-de-coco.jpg"
+    },
+    {
+      "categoria": "farinhas",
+      "id": "farinha-de-copioba",
+      "descricao": "FARINHA DE COPIOBA",
+      "imagem": "/images/farinhas/farinha-de-copioba.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "farinha-de-copioba.jpg"
+    },
+    {
+      "categoria": "farinhas",
+      "id": "farinha-de-gengibre",
+      "descricao": "FARINHA DE GENGIBRE",
+      "imagem": "/images/farinhas/farinha-de-gengibre.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "farinha-de-gengibre.jpg"
+    },
+    {
+      "categoria": "farinhas",
+      "id": "farinha-de-gro-de-bico",
+      "descricao": "FARINHA DE GRÃO DE BICO",
+      "imagem": "/images/farinhas/farinha-de-grao-de-bico.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "farinha-de-grao-de-bico.jpg"
+    },
+    {
+      "categoria": "farinhas",
+      "id": "farinha-de-linhaca-dourada",
+      "descricao": "FARINHA DE LINHACA DOURADA",
+      "imagem": "/images/farinhas/farinha-de-linhaca-dourada.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "farinha-de-linhaca-dourada.jpg"
+    },
+    {
+      "categoria": "farinhas",
+      "id": "farinha-de-linhaca-marrom",
+      "descricao": "FARINHA DE LINHACA MARROM",
+      "imagem": "/images/farinhas/farinha-de-linhaca-marrom.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "farinha-de-linhaca-marrom.jpg"
+    },
+    {
+      "categoria": "farinhas",
+      "id": "farinha-de-mandioca-fina",
+      "descricao": "FARINHA DE MANDIOCA FINA",
+      "imagem": "/images/farinhas/farinha-de-mandioca-fina.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "farinha-de-mandioca-fina.jpg"
+    },
+    {
+      "categoria": "farinhas",
+      "id": "farinha-de-mandioca-grossa",
+      "descricao": "FARINHA DE MANDIOCA GROSSA",
+      "imagem": "/images/farinhas/farinha-de-mandioca-grossa.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "farinha-de-mandioca-grossa.jpg"
+    },
+    {
+      "categoria": "farinhas",
+      "id": "farinha-de-mandioca-torrada",
+      "descricao": "FARINHA DE MANDIOCA TORRADA",
+      "imagem": "/images/farinhas/farinha-de-mandioca-torrada.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "farinha-de-mandioca-torrada.jpg"
+    },
+    {
+      "categoria": "farinhas",
+      "id": "farinha-de-maracuja",
+      "descricao": "FARINHA DE MARACUJA",
+      "imagem": "/images/farinhas/farinha-de-maracuja.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "farinha-de-maracuja.jpg"
+    },
+    {
+      "categoria": "farinhas",
+      "id": "farinha-de-milho-amarela",
+      "descricao": "FARINHA DE MILHO AMARELA",
+      "imagem": "/images/farinhas/farinha-de-milho-amarela.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "farinha-de-milho-amarela.jpg"
+    },
+    {
+      "categoria": "farinhas",
+      "id": "farinha-de-milho-branca",
+      "descricao": "FARINHA DE MILHO BRANCA",
+      "imagem": "/images/farinhas/farinha-de-milho-branca.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "farinha-de-milho-branca.jpg"
+    },
+    {
+      "categoria": "farinhas",
+      "id": "farinha-de-rosca-marrocos",
+      "descricao": "FARINHA DE ROSCA MARROCOS",
+      "imagem": "/images/farinhas/farinha-de-rosca.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "farinha-de-rosca.jpg"
+    },
+    {
+      "categoria": "farinhas",
+      "id": "farinha-de-rosca-agmar",
+      "descricao": "FARINHA DE ROSCA AGMAR",
+      "imagem": "/images/farinhas/farinha-de-rosca.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "farinha-de-rosca.jpg"
+    },
+    {
+      "categoria": "farinhas",
+      "id": "farinha-de-trigo-integral",
+      "descricao": "FARINHA DE TRIGO INTEGRAL",
+      "imagem": "/images/farinhas/farinha-de-trigo-integral.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "farinha-de-trigo-integral.jpg"
+    },
+    {
+      "categoria": "farinhas",
+      "id": "farinha-fina-pernambuco",
+      "descricao": "FARINHA FINA PERNAMBUCO",
+      "imagem": "/images/farinhas/farinha-fina-pernanbuco.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "farinha-fina-pernanbuco.jpg"
+    },
+    {
+      "categoria": "farinhas",
+      "id": "farinha-panko-karui",
+      "descricao": "FARINHA PANKO KARUI",
+      "imagem": "/images/farinhas/farinha-panko.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "farinha-panko.jpg"
+    },
+    {
+      "categoria": "farinhas",
+      "id": "farinha-quebradinha",
+      "descricao": "FARINHA QUEBRADINHA",
+      "imagem": "/images/farinhas/farinha-quebradinha.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "farinha-quebradinha.jpg"
+    },
+    {
+      "categoria": "farinhas",
+      "id": "farinha-de-uva",
+      "descricao": "FARINHA DE UVA",
+      "imagem": "/images/farinhas/farinha-de-uva.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "farinha-de-uva.jpg"
+    },
+    {
+      "categoria": "farinhas",
+      "id": "farinha-de-semente-de-abbora",
+      "descricao": "FARINHA DE SEMENTE DE ABÓBORA",
+      "imagem": "/images/farinhas/farinha-de-semente-de-abobora.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "farinha-de-semente-de-abobora.jpg"
+    },
+    {
+      "categoria": "graos",
+      "id": "canjica-amarela",
+      "descricao": "CANJICA AMARELA",
+      "imagem": "/images/graos/CANJICA_AMARELA.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "CANJICA_AMARELA.jpg"
+    },
+    {
+      "categoria": "graos",
+      "id": "canjica-branca",
+      "descricao": "CANJICA BRANCA",
+      "imagem": "/images/graos/CANJICA_BRANCA.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "CANJICA_BRANCA.jpg"
+    },
+    {
+      "categoria": "graos",
+      "id": "canjiquinha-g-2",
+      "descricao": "CANJIQUINHA G-2",
+      "imagem": "/images/graos/CANJIQUINHA_G-2.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "CANJIQUINHA_G-2.jpg"
+    },
+    {
+      "categoria": "graos",
+      "id": "canjiquinha-g-3",
+      "descricao": "CANJIQUINHA G-3",
+      "imagem": "/images/graos/CANJIQUINHA_G-3.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "CANJIQUINHA_G-3.jpg"
+    },
+    {
+      "categoria": "graos",
+      "id": "canjiquinha-g-4",
+      "descricao": "CANJIQUINHA G-4",
+      "imagem": "/images/graos/CANJIQUINHA_G-4.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "CANJIQUINHA_G-4.jpg"
+    },
+    {
+      "categoria": "graos",
+      "id": "cevada-em-gro",
+      "descricao": "CEVADA EM GRÃO",
+      "imagem": "/images/graos/CEVADA_EM_GRAO.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "CEVADA_EM_GRAO.jpg"
+    },
+    {
+      "categoria": "graos",
+      "id": "ervilha-inteira",
+      "descricao": "ERVILHA INTEIRA",
+      "imagem": "/images/graos/ERVILHA_INTERIRA.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "ERVILHA_INTERIRA.jpg"
+    },
+    {
+      "categoria": "graos",
+      "id": "ervilha-partida",
+      "descricao": "ERVILHA PARTIDA",
+      "imagem": "/images/graos/ERVILHA_PARTIDA.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "ERVILHA_PARTIDA.jpg"
+    },
+    {
+      "categoria": "graos",
+      "id": "fava-argentina",
+      "descricao": "FAVA ARGENTINA",
+      "imagem": "/images/graos/FAVA_ARGENTINA.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "FAVA_ARGENTINA.jpg"
+    },
+    {
+      "categoria": "graos",
+      "id": "fava-manteiga",
+      "descricao": "FAVA  MANTEIGA",
+      "imagem": "/images/graos/FAVA_MANTEIGA.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "FAVA_MANTEIGA.jpg"
+    },
+    {
+      "categoria": "graos",
+      "id": "fava-branca",
+      "descricao": "FAVA BRANCA",
+      "imagem": "/images/graos/FAVA_BRANCA.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "FAVA_BRANCA.jpg"
+    },
+    {
+      "categoria": "graos",
+      "id": "fava-preta",
+      "descricao": "FAVA PRETA",
+      "imagem": "/images/graos/FAVA_PRETA.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "FAVA_PRETA.jpg"
+    },
+    {
+      "categoria": "graos",
+      "id": "fava-vermelha",
+      "descricao": "FAVA VERMELHA",
+      "imagem": "/images/graos/FAVA_VERMELHA.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "FAVA_VERMELHA.jpg"
+    },
+    {
+      "categoria": "graos",
+      "id": "feijo-andu",
+      "descricao": "FEIJÃO ANDU",
+      "imagem": "/images/graos/FEIJAO_ANDU.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "FEIJAO_ANDU.jpg"
+    },
+    {
+      "categoria": "graos",
+      "id": "feijo-azuki",
+      "descricao": "FEIJÃO AZUKI",
+      "imagem": "/images/graos/FEIJAO_AZUKI.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "FEIJAO_AZUKI.jpg"
+    },
+    {
+      "categoria": "graos",
+      "id": "feijo-bolinha",
+      "descricao": "FEIJÃO BOLINHA",
+      "imagem": "/images/graos/FEIJAO_BOLINHA.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "FEIJAO_BOLINHA.jpg"
+    },
+    {
+      "categoria": "graos",
+      "id": "feijo-branco",
+      "descricao": "FEIJÃO BRANCO",
+      "imagem": "/images/graos/FEIJAO_BRANCO.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "FEIJAO_BRANCO.jpg"
+    },
+    {
+      "categoria": "graos",
+      "id": "feijo-carioca",
+      "descricao": "FEIJÃO CARIOCA",
+      "imagem": "/images/graos/FEIJAO_CARIOCA.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "FEIJAO_CARIOCA.jpg"
+    },
+    {
+      "categoria": "graos",
+      "id": "feijo-de-corda",
+      "descricao": "FEIJÃO DE CORDA",
+      "imagem": "/images/graos/FEIJAO_DE_CORDA.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "FEIJAO_DE_CORDA.jpg"
+    },
+    {
+      "categoria": "graos",
+      "id": "feijo-fradinho",
+      "descricao": "FEIJÃO FRADINHO",
+      "imagem": "/images/graos/FEIJAO_FRADINHO.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "FEIJAO_FRADINHO.jpg"
+    },
+    {
+      "categoria": "graos",
+      "id": "feijo-fradinho-quebrado",
+      "descricao": "FEIJÃO FRADINHO QUEBRADO",
+      "imagem": "/images/graos/FEIJAO_FRADINHO.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "FEIJAO_FRADINHO.jpg"
+    },
+    {
+      "categoria": "graos",
+      "id": "feijo-jalo",
+      "descricao": "FEIJÃO JALO",
+      "imagem": "/images/graos/FEIJAO_JALO.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "FEIJAO_JALO.jpg"
+    },
+    {
+      "categoria": "graos",
+      "id": "feijo-manteiga",
+      "descricao": "FEIJÃO MANTEIGA",
+      "imagem": "/images/graos/FEIJAO_MANTEIGA.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "FEIJAO_MANTEIGA.jpg"
+    },
+    {
+      "categoria": "graos",
+      "id": "feijo-moyashi",
+      "descricao": "FEIJÃO MOYASHI",
+      "imagem": "/images/graos/FEIJAO_MOYASHI.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "FEIJAO_MOYASHI.jpg"
+    },
+    {
+      "categoria": "graos",
+      "id": "feijo-preto",
+      "descricao": "FEIJÃO PRETO",
+      "imagem": "/images/graos/FEIJAO_PRETO.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "FEIJAO_PRETO.jpg"
+    },
+    {
+      "categoria": "graos",
+      "id": "feijo-rajado-arg-i",
+      "descricao": "FEIJÃO RAJADO ARG I",
+      "imagem": "/images/graos/FEIJAO_RAJADO.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "FEIJAO_RAJADO.jpg"
+    },
+    {
+      "categoria": "graos",
+      "id": "feijo-rosinha",
+      "descricao": "FEIJÃO ROSINHA",
+      "imagem": "/images/graos/FEIJAO_ROSINHA.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "FEIJAO_ROSINHA.jpg"
+    },
+    {
+      "categoria": "graos",
+      "id": "feijo-roxo",
+      "descricao": "FEIJÃO ROXÃO",
+      "imagem": "/images/graos/FEIJAO_ROXAo.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "FEIJAO_ROXAo.jpg"
+    },
+    {
+      "categoria": "graos",
+      "id": "feijo-roxinho",
+      "descricao": "FEIJÃO ROXINHO",
+      "imagem": "/images/graos/FEIJAO_ROXINHO.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "FEIJAO_ROXINHO.jpg"
+    },
+    {
+      "categoria": "graos",
+      "id": "feijo-vermelho",
+      "descricao": "FEIJÃO VERMELHO",
+      "imagem": "/images/graos/FEIJAO_VERMELHO.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "FEIJAO_VERMELHO.jpg"
+    },
+    {
+      "categoria": "graos",
+      "id": "feijo-vinagre",
+      "descricao": "FEIJÃO VINAGRE",
+      "imagem": "/images/graos/FEIJAO_VINAGRE.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "FEIJAO_VINAGRE.jpg"
+    },
+    {
+      "categoria": "graos",
+      "id": "gro-de-bico-12mm",
+      "descricao": "GRÃO DE BICO 12MM",
+      "imagem": "/images/graos/GRAO_DE_BICO_12MM.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "GRAO_DE_BICO_12MM.jpg"
+    },
+    {
+      "categoria": "graos",
+      "id": "gro-de-bico-9mm",
+      "descricao": "GRÃO DE BICO 9MM",
+      "imagem": "/images/graos/GRAO_DE_BICO_9MM.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "GRAO_DE_BICO_9MM.jpg"
+    },
+    {
+      "categoria": "graos",
+      "id": "lentilha",
+      "descricao": "LENTILHA",
+      "imagem": "/images/graos/LENTILHA.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "LENTILHA.jpg"
+    },
+    {
+      "categoria": "graos",
+      "id": "lentilha-vermelha",
+      "descricao": "LENTILHA VERMELHA",
+      "imagem": "/images/graos/LENTILHA_VERMELHA.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "LENTILHA_VERMELHA.jpg"
+    },
+    {
+      "categoria": "graos",
+      "id": "milho-comum",
+      "descricao": "MILHO COMUM",
+      "imagem": "/images/graos/MILHO_COMUM.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "MILHO_COMUM.jpg"
+    },
+    {
+      "categoria": "graos",
+      "id": "milho-mostarda-e-mel",
+      "descricao": "MILHO MOSTARDA E MEL",
+      "imagem": "/images/graos/MILHO_MOSTARDE_MEL.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "MILHO_MOSTARDE_MEL.jpg"
+    },
+    {
+      "categoria": "graos",
+      "id": "milho-pipoca-zanella",
+      "descricao": "MILHO PIPOCA ZANELLA",
+      "imagem": "/images/graos/MILHO_DE_PIPOCA.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "MILHO_DE_PIPOCA.jpg"
+    },
+    {
+      "categoria": "graos",
+      "id": "milho-pipoca-prego",
+      "descricao": "MILHO PIPOCA PREGO",
+      "imagem": "/images/graos/MILHO_DE_PIPOCA_PREGO.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "MILHO_DE_PIPOCA_PREGO.jpg"
+    },
+    {
+      "categoria": "graos",
+      "id": "milho-pipoca",
+      "descricao": "MILHO PIPOCA",
+      "imagem": "/images/graos/MILHO_DE_PIPOCA.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "MILHO_DE_PIPOCA.jpg"
+    },
+    {
+      "categoria": "graos",
+      "id": "soja-em-gros",
+      "descricao": "SOJA EM GRÃOS",
+      "imagem": "/images/graos/SOJA_EM_GRAO.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "SOJA_EM_GRAO.jpg"
+    },
+    {
+      "categoria": "graos",
+      "id": "trigo-em-gro",
+      "descricao": "TRIGO EM GRÃO",
+      "imagem": "/images/graos/TRIGO_EM_GRAO.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "TRIGO_EM_GRAO.jpg"
+    },
+    {
+      "categoria": "panificacao",
+      "id": "amido-de-milho-integrada",
+      "descricao": "AMIDO DE MILHO INTEGRADA",
+      "imagem": "/images/panificacao/AMIDO_DE_MILHO_INTEGRADA.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "AMIDO_DE_MILHO_INTEGRADA.jpg"
+    },
+    {
+      "categoria": "panificacao",
+      "id": "fecula-de-batata",
+      "descricao": "FECULA DE BATATA",
+      "imagem": "/images/panificacao/FECULA_DE_BATATA.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "FECULA_DE_BATATA.jpg"
+    },
+    {
+      "categoria": "panificacao",
+      "id": "fecula-mandioca-brasil",
+      "descricao": "FECULA MANDIOCA BRASIL",
+      "imagem": "/images/panificacao/FECULA_DE_MANDIOCA.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "FECULA_DE_MANDIOCA.jpg"
+    },
+    {
+      "categoria": "panificacao",
+      "id": "fecula-mandioca-brasom",
+      "descricao": "FECULA MANDIOCA BRASOM",
+      "imagem": "/images/panificacao/FECULA_DE_MANIDOCA_BRASOM.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "FECULA_DE_MANIDOCA_BRASOM.jpg"
+    },
+    {
+      "categoria": "panificacao",
+      "id": "fibra-de-maa-integral",
+      "descricao": "FIBRA DE MAÇA INTEGRAL",
+      "imagem": "/images/panificacao/FIBRA_DE_MACA_INTEGRAL.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "FIBRA_DE_MACA_INTEGRAL.jpg"
+    },
+    {
+      "categoria": "panificacao",
+      "id": "fibra-de-trigo-fina",
+      "descricao": "FIBRA DE TRIGO FINA",
+      "imagem": "/images/panificacao/FIBRA_DE_TRIGO_FINA.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "FIBRA_DE_TRIGO_FINA.jpg"
+    },
+    {
+      "categoria": "panificacao",
+      "id": "fibra-de-trigo-grossa",
+      "descricao": "FIBRA DE TRIGO GROSSA",
+      "imagem": "/images/panificacao/FIBRA_DE_TRIGO_GROSSA.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "FIBRA_DE_TRIGO_GROSSA.jpg"
+    },
+    {
+      "categoria": "panificacao",
+      "id": "fuba-italiano",
+      "descricao": "FUBA ITALIANO",
+      "imagem": "/images/panificacao/FUBA_ITALIANO.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "FUBA_ITALIANO.jpg"
+    },
+    {
+      "categoria": "panificacao",
+      "id": "fuba-mimoso-integrada",
+      "descricao": "FUBA MIMOSO INTEGRADA",
+      "imagem": "/images/panificacao/FUBA_MIMOSO.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "FUBA_MIMOSO.jpg"
+    },
+    {
+      "categoria": "panificacao",
+      "id": "floco-de-milho",
+      "descricao": "FLOCÃO DE MILHO",
+      "imagem": "/images/panificacao/FLOCAO_DE_MILHO.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "FLOCAO_DE_MILHO.jpg"
+    },
+    {
+      "categoria": "panificacao",
+      "id": "flocao-de-arroz-coringa",
+      "descricao": "FLOCAO DE ARROZ CORINGA",
+      "imagem": "/images/panificacao/FLOCAO_DEA_ARROZ_CORINGA.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "FLOCAO_DEA_ARROZ_CORINGA.jpg"
+    },
+    {
+      "categoria": "panificacao",
+      "id": "floco-de-milho-coringa",
+      "descricao": "FLOCÃO DE MILHO CORINGA",
+      "imagem": "/images/panificacao/FLOCAO_DE_MILHO_CORINGA.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "FLOCAO_DE_MILHO_CORINGA.jpg"
+    },
+    {
+      "categoria": "panificacao",
+      "id": "gelatina-incolor",
+      "descricao": "GELATINA INCOLOR",
+      "imagem": "/images/panificacao/GELATINA_INCOLOR.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "GELATINA_INCOLOR.jpg"
+    },
+    {
+      "categoria": "panificacao",
+      "id": "levedo-de-cerveja",
+      "descricao": "LEVEDO DE CERVEJA",
+      "imagem": "/images/panificacao/LEVEDO_DE_CERVEJA.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "LEVEDO_DE_CERVEJA.jpg"
+    },
+    {
+      "categoria": "panificacao",
+      "id": "polvilho-azedo-brasil",
+      "descricao": "POLVILHO AZEDO BRASIL",
+      "imagem": "/images/panificacao/POLVILHO_AZEDO.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "POLVILHO_AZEDO.jpg"
+    },
+    {
+      "categoria": "panificacao",
+      "id": "polvilho-doce-olinda",
+      "descricao": "POLVILHO DOCE OLINDA",
+      "imagem": "/images/panificacao/POLVILHO_DOCE.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "POLVILHO_DOCE.jpg"
+    },
+    {
+      "categoria": "panificacao",
+      "id": "prot-text-soja-bacon",
+      "descricao": "PROT TEXT SOJA BACON",
+      "imagem": "/images/panificacao/PROT_TEXT_SOJA_BACON.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "PROT_TEXT_SOJA_BACON.jpg"
+    },
+    {
+      "categoria": "panificacao",
+      "id": "prot-text-soja-gran-car-10mm",
+      "descricao": "PROT TEXT SOJA GRAN CAR 10MM",
+      "imagem": "/images/panificacao/PROT_CAR_10MM.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "PROT_CAR_10MM.jpg"
+    },
+    {
+      "categoria": "panificacao",
+      "id": "prot-text-soja-gran-car-35mm",
+      "descricao": "PROT TEXT SOJA GRAN CAR 35MM",
+      "imagem": "/images/panificacao/PROT_CAR_35MM.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "PROT_CAR_35MM.jpg"
+    },
+    {
+      "categoria": "panificacao",
+      "id": "prot-text-soja-gran-car-48mm",
+      "descricao": "PROT TEXT SOJA GRAN CAR 4.8MM",
+      "imagem": "/images/panificacao/PROT_CAR_4,8MM.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "PROT_CAR_4,8MM.jpg"
+    },
+    {
+      "categoria": "panificacao",
+      "id": "prot-text-soja-gran-nat-10mm",
+      "descricao": "PROT TEXT SOJA GRAN NAT 10MM",
+      "imagem": "/images/panificacao/PROT_NAT_10MM.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "PROT_NAT_10MM.jpg"
+    },
+    {
+      "categoria": "panificacao",
+      "id": "prot-text-soja-gran-nat-35mm",
+      "descricao": "PROT TEXT SOJA GRAN NAT 35MM",
+      "imagem": "/images/panificacao/PROT_NAT_35MM.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "PROT_NAT_35MM.jpg"
+    },
+    {
+      "categoria": "panificacao",
+      "id": "prot-text-soja-gran-nat-48mm",
+      "descricao": "PROT TEXT SOJA GRAN NAT 4.8MM",
+      "imagem": "/images/panificacao/PROT_NAT_4,8MM.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "PROT_NAT_4,8MM.jpg"
+    },
+    {
+      "categoria": "panificacao",
+      "id": "sagu",
+      "descricao": "SAGU",
+      "imagem": "/images/panificacao/SAGU.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "SAGU.jpg"
+    },
+    {
+      "categoria": "panificacao",
+      "id": "tapioca-granulada",
+      "descricao": "TAPIOCA GRANULADA",
+      "imagem": "/images/panificacao/TAPIOCA_GRANULADA.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "TAPIOCA_GRANULADA.jpg"
+    },
+    {
+      "categoria": "panificacao",
+      "id": "trigo-p-kibe-marrocos",
+      "descricao": "TRIGO P/ KIBE MARROCOS",
+      "imagem": "/images/panificacao/TRIGO_P_KIBE.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "TRIGO_P_KIBE.jpg"
+    },
+    {
+      "categoria": "especiarias",
+      "id": "alho-frito",
+      "descricao": "ALHO FRITO",
+      "imagem": "/images/especiarias/ALHO_FRITO.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "ALHO_FRITO.jpg"
+    },
+    {
+      "categoria": "especiarias",
+      "id": "alho-granulado",
+      "descricao": "ALHO GRANULADO",
+      "imagem": "/images/especiarias/ALHO_GRANULADO.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "ALHO_GRANULADO.jpg"
+    },
+    {
+      "categoria": "especiarias",
+      "id": "alho-moido",
+      "descricao": "ALHO MOIDO",
+      "imagem": "/images/especiarias/ALHO_MOIDO.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "ALHO_MOIDO.jpg"
+    },
+    {
+      "categoria": "especiarias",
+      "id": "amaciante-de-carne",
+      "descricao": "AMACIANTE DE CARNE",
+      "imagem": "/images/especiarias/AMACIANTE_DE_CARNE.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "AMACIANTE_DE_CARNE.jpg"
+    },
+    {
+      "categoria": "especiarias",
+      "id": "bicarbonato-de-sodio-raudi",
+      "descricao": "BICARBONATO DE SODIO RAUDI",
+      "imagem": "/images/especiarias/BICARBONATO_DE_SODIO_RAUDI.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "BICARBONATO_DE_SODIO_RAUDI.jpg"
+    },
+    {
+      "categoria": "especiarias",
+      "id": "bicarbonato-de-sodio-solvay",
+      "descricao": "BICARBONATO DE SODIO SOLVAY",
+      "imagem": "/images/especiarias/BICARBONATO_DE_SODIO_SOLVAY.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "BICARBONATO_DE_SODIO_SOLVAY.jpg"
+    },
+    {
+      "categoria": "especiarias",
+      "id": "canela-casca-6-cm",
+      "descricao": "CANELA CASCA 6 CM",
+      "imagem": "/images/especiarias/CANELA_CASCA_6CM.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "CANELA_CASCA_6CM.jpg"
+    },
+    {
+      "categoria": "especiarias",
+      "id": "canela-em-po",
+      "descricao": "CANELA EM PO",
+      "imagem": "/images/especiarias/CANELA_EM_PO.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "CANELA_EM_PO.jpg"
+    },
+    {
+      "categoria": "especiarias",
+      "id": "cebola-moida",
+      "descricao": "CEBOLA MOIDA",
+      "imagem": "/images/especiarias/CEBOLA_MOIDA.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "CEBOLA_MOIDA.jpg"
+    },
+    {
+      "categoria": "especiarias",
+      "id": "cravo-da-india",
+      "descricao": "CRAVO DA INDIA",
+      "imagem": "/images/especiarias/CRAVO_DA_INDIA.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "CRAVO_DA_INDIA.jpg"
+    },
+    {
+      "categoria": "especiarias",
+      "id": "cravo-em-p",
+      "descricao": "CRAVO EM PÓ",
+      "imagem": "/images/especiarias/CRAVO_EM_PO.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "CRAVO_EM_PO.jpg"
+    },
+    {
+      "categoria": "especiarias",
+      "id": "creme-de-cebola",
+      "descricao": "CREME DE CEBOLA",
+      "imagem": "/images/especiarias/CREME_DE_CEBOLA.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "CREME_DE_CEBOLA.jpg"
+    },
+    {
+      "categoria": "especiarias",
+      "id": "tempero-ervas-finas",
+      "descricao": "TEMPERO ERVAS FINAS",
+      "imagem": "/images/especiarias/TEMPERO_ERVAS_FINAS.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "TEMPERO_ERVAS_FINAS.jpg"
+    },
+    {
+      "categoria": "especiarias",
+      "id": "tempero-limo-e-ervas-finas",
+      "descricao": "TEMPERO LIMÃO E ERVAS FINAS",
+      "imagem": "/images/especiarias/TEMPERO_LIMAO_ERVAS_FINAS.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "TEMPERO_LIMAO_ERVAS_FINAS.jpg"
+    },
+    {
+      "categoria": "especiarias",
+      "id": "tempero-oregano-argentino",
+      "descricao": "TEMPERO OREGANO ARGENTINO",
+      "imagem": "/images/especiarias/OREGANO_ARGENTINO.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "OREGANO_ARGENTINO.jpg"
+    },
+    {
+      "categoria": "especiarias",
+      "id": "sal-do-himalaia-fino",
+      "descricao": "SAL DO HIMALAIA FINO",
+      "imagem": "/images/especiarias/SAL_DO_HIMALAIA_FINO.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "SAL_DO_HIMALAIA_FINO.jpg"
+    },
+    {
+      "categoria": "especiarias",
+      "id": "sal-do-himalaia-grosso",
+      "descricao": "SAL DO HIMALAIA GROSSO",
+      "imagem": "/images/especiarias/SAL_DO_HIMALAIA_GROSSO.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "SAL_DO_HIMALAIA_GROSSO.jpg"
+    },
+    {
+      "categoria": "especiarias",
+      "id": "sal-marinho-integral-ouromar",
+      "descricao": "SAL MARINHO INTEGRAL OUROMAR",
+      "imagem": "/images/especiarias/SAL_MARINHO_OUROMAR.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "SAL_MARINHO_OUROMAR.jpg"
+    },
+    {
+      "categoria": "especiarias",
+      "id": "sal-marinho-integral-ouromar-churrasco",
+      "descricao": "SAL MARINHO INTEGRAL OUROMAR CHURRASCO",
+      "imagem": "/images/especiarias/SAL_OUROMAR_CHURRASCO.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "SAL_OUROMAR_CHURRASCO.jpg"
+    },
+    {
+      "categoria": "especiarias",
+      "id": "sal-marinho-integral-al-andalus",
+      "descricao": "SAL MARINHO INTEGRAL AL ANDALUS",
+      "imagem": "/images/especiarias/SAL_MARINHO_ANDALUS.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "SAL_MARINHO_ANDALUS.jpg"
+    },
+    {
+      "categoria": "especiarias",
+      "id": "sal-marinho-integral-serto",
+      "descricao": "SAL MARINHO INTEGRAL SERTÃO",
+      "imagem": "/images/especiarias/SAL_MARINHO_SERTAO.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "SAL_MARINHO_SERTAO.jpg"
+    },
+    {
+      "categoria": "especiarias",
+      "id": "sal-marinho-cimsal",
+      "descricao": "SAL MARINHO CIMSAL",
+      "imagem": "/images/especiarias/SAL_MARINHO.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "SAL_MARINHO.jpg"
+    },
+    {
+      "categoria": "especiarias",
+      "id": "sal-marinho-cimsal-grosso",
+      "descricao": "SAL MARINHO CIMSAL GROSSO",
+      "imagem": "/images/especiarias/SAL_MARINHO_GROSSO.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "SAL_MARINHO_GROSSO.jpg"
+    },
+    {
+      "categoria": "especiarias",
+      "id": "tempero-acafro",
+      "descricao": "TEMPERO ACAFRÃO",
+      "imagem": "/images/especiarias/TEMPERO_ACAFRAO.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "TEMPERO_ACAFRAO.jpg"
+    },
+    {
+      "categoria": "especiarias",
+      "id": "tempero-alecrim",
+      "descricao": "TEMPERO ALECRIM",
+      "imagem": "/images/especiarias/TEMPERO_ALECRIM.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "TEMPERO_ALECRIM.jpg"
+    },
+    {
+      "categoria": "especiarias",
+      "id": "tempero-ana-maria",
+      "descricao": "TEMPERO ANA  MARIA",
+      "imagem": "/images/especiarias/TEMPERO_ANA_MARIA.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "TEMPERO_ANA_MARIA.jpg"
+    },
+    {
+      "categoria": "especiarias",
+      "id": "tempero-ana-maria-sem-sdio",
+      "descricao": "TEMPERO ANA MARIA SEM SÓDIO",
+      "imagem": "/images/especiarias/TEMPERO_ANA_MARIA.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "TEMPERO_ANA_MARIA.jpg"
+    },
+    {
+      "categoria": "especiarias",
+      "id": "tempero-baiano-em-gros",
+      "descricao": "TEMPERO BAIANO EM GRÃOS",
+      "imagem": "/images/especiarias/TEMPERO_BAIANO_EM_GRAO.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "TEMPERO_BAIANO_EM_GRAO.jpg"
+    },
+    {
+      "categoria": "especiarias",
+      "id": "tempero-baiano-c-pimenta",
+      "descricao": "TEMPERO BAIANO C/ PIMENTA",
+      "imagem": "/images/especiarias/TEMPERO_BAIANO_SEM_PIMENTA.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "TEMPERO_BAIANO_SEM_PIMENTA.jpg"
+    },
+    {
+      "categoria": "especiarias",
+      "id": "tempero-baiano-s-pimenta",
+      "descricao": "TEMPERO BAIANO S/ PIMENTA",
+      "imagem": "/images/especiarias/TEMPERO_BAIANO_SEM_PIMENTA.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "TEMPERO_BAIANO_SEM_PIMENTA.jpg"
+    },
+    {
+      "categoria": "especiarias",
+      "id": "tempero-brasileirinho",
+      "descricao": "TEMPERO BRASILEIRINHO",
+      "imagem": "/images/especiarias/TEMPERO_BRASILEIRINHO.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "TEMPERO_BRASILEIRINHO.jpg"
+    },
+    {
+      "categoria": "especiarias",
+      "id": "tempero-bife-acebolado",
+      "descricao": "TEMPERO BIFE ACEBOLADO",
+      "imagem": "/images/especiarias/TEMPERO_BIFE_ACEBOLADO.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "TEMPERO_BIFE_ACEBOLADO.jpg"
+    },
+    {
+      "categoria": "especiarias",
+      "id": "tempero-caipira",
+      "descricao": "TEMPERO CAIPIRA",
+      "imagem": "/images/especiarias/TEMPERO_CAIPIRA.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "TEMPERO_CAIPIRA.jpg"
+    },
+    {
+      "categoria": "especiarias",
+      "id": "tempero-caldo-de-bacon",
+      "descricao": "TEMPERO CALDO DE BACON",
+      "imagem": "/images/especiarias/TEMPERO_CALDO_DE_BACON.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "TEMPERO_CALDO_DE_BACON.jpg"
+    },
+    {
+      "categoria": "especiarias",
+      "id": "tempero-caldo-de-carne",
+      "descricao": "TEMPERO CALDO DE CARNE",
+      "imagem": "/images/especiarias/TEMPERO_CALDO_DE_CARNE.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "TEMPERO_CALDO_DE_CARNE.jpg"
+    },
+    {
+      "categoria": "especiarias",
+      "id": "tempero-caldo-de-galinha",
+      "descricao": "TEMPERO CALDO DE GALINHA",
+      "imagem": "/images/especiarias/TEMPERO_CALDO_DE_GALINHA.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "TEMPERO_CALDO_DE_GALINHA.jpg"
+    },
+    {
+      "categoria": "especiarias",
+      "id": "tempero-cebolaalhosalsa",
+      "descricao": "TEMPERO CEBOLA/ALHO/SALSA",
+      "imagem": "/images/especiarias/TEMPERO_CEBOLA_ALHO_SALSA.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "TEMPERO_CEBOLA_ALHO_SALSA.jpg"
+    },
+    {
+      "categoria": "especiarias",
+      "id": "tempero-do-chef",
+      "descricao": "TEMPERO DO CHEF",
+      "imagem": "/images/especiarias/TEMPERO_DO_CHEF.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "TEMPERO_DO_CHEF.jpg"
+    },
+    {
+      "categoria": "especiarias",
+      "id": "tempero-chimichurri",
+      "descricao": "TEMPERO CHIMICHURRI",
+      "imagem": "/images/especiarias/TEMPERO_CHIMICHURI.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "TEMPERO_CHIMICHURI.jpg"
+    },
+    {
+      "categoria": "especiarias",
+      "id": "tempero-chimichurri-defumado",
+      "descricao": "TEMPERO CHIMICHURRI DEFUMADO",
+      "imagem": "/images/especiarias/TEMPERO_CHIMICHURI_DEFUMADO.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "TEMPERO_CHIMICHURI_DEFUMADO.jpg"
+    },
+    {
+      "categoria": "especiarias",
+      "id": "tempero-chimichurri-c-pimenta",
+      "descricao": "TEMPERO CHIMICHURRI C/ PIMENTA",
+      "imagem": "/images/especiarias/TEMPERO_CHIMICHURI_COM_PIMENTA.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "TEMPERO_CHIMICHURI_COM_PIMENTA.jpg"
+    },
+    {
+      "categoria": "especiarias",
+      "id": "tempero-coentro-em-gros",
+      "descricao": "TEMPERO COENTRO EM GRÃOS",
+      "imagem": "/images/especiarias/TEMPERO_COENTRO_EM_GRAO.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "TEMPERO_COENTRO_EM_GRAO.jpg"
+    },
+    {
+      "categoria": "especiarias",
+      "id": "tempero-coentro-moido",
+      "descricao": "TEMPERO COENTRO MOIDO",
+      "imagem": "/images/especiarias/TEMPERO_COENTRO_MOIDO.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "TEMPERO_COENTRO_MOIDO.jpg"
+    },
+    {
+      "categoria": "especiarias",
+      "id": "tempero-colorau-bola-azul",
+      "descricao": "TEMPERO COLORAU BOLA AZUL",
+      "imagem": "/images/especiarias/TEMPERO_COLORAL_BOLA_AZUL.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "TEMPERO_COLORAL_BOLA_AZUL.jpg"
+    },
+    {
+      "categoria": "especiarias",
+      "id": "tempero-colorau-paraiba",
+      "descricao": "TEMPERO COLORAU PARAIBA",
+      "imagem": "/images/especiarias/TEMPERO_COLORAL_PARAIBA.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "TEMPERO_COLORAL_PARAIBA.jpg"
+    },
+    {
+      "categoria": "especiarias",
+      "id": "tempero-completo",
+      "descricao": "TEMPERO COMPLETO",
+      "imagem": "/images/especiarias/TEMPERO_COMPLETO.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "TEMPERO_COMPLETO.jpg"
+    },
+    {
+      "categoria": "especiarias",
+      "id": "tempero-cominho-em-gros",
+      "descricao": "TEMPERO COMINHO EM GRÃOS",
+      "imagem": "/images/especiarias/TEMPERO_COMINHO_EM_GRAO.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "TEMPERO_COMINHO_EM_GRAO.jpg"
+    },
+    {
+      "categoria": "especiarias",
+      "id": "tempero-cominho-p",
+      "descricao": "TEMPERO COMINHO PÓ",
+      "imagem": "/images/especiarias/TEMPERO_COMINHO_EM_PO.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "TEMPERO_COMINHO_EM_PO.jpg"
+    },
+    {
+      "categoria": "especiarias",
+      "id": "tempero-conquista-sogra",
+      "descricao": "TEMPERO CONQUISTA SOGRA",
+      "imagem": "/images/especiarias/TEMPERO_CONQUISTA_SOGRA.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "TEMPERO_CONQUISTA_SOGRA.jpg"
+    },
+    {
+      "categoria": "especiarias",
+      "id": "tempero-curcuma",
+      "descricao": "TEMPERO CURCUMA",
+      "imagem": "/images/especiarias/TEMPERO_CURCUMA.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "TEMPERO_CURCUMA.jpg"
+    },
+    {
+      "categoria": "especiarias",
+      "id": "tempero-curry",
+      "descricao": "TEMPERO CURRY",
+      "imagem": "/images/especiarias/TEMPERO_CURRY.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "TEMPERO_CURRY.jpg"
+    },
+    {
+      "categoria": "especiarias",
+      "id": "tempero-edu-guedes",
+      "descricao": "TEMPERO EDU GUEDES",
+      "imagem": "/images/especiarias/TEMPERO_EDU_GUEDES.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "TEMPERO_EDU_GUEDES.jpg"
+    },
+    {
+      "categoria": "especiarias",
+      "id": "tempero-fit-completo",
+      "descricao": "TEMPERO FIT COMPLETO",
+      "imagem": "/images/especiarias/TEMPERO_FIT_COMPLETO.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "TEMPERO_FIT_COMPLETO.jpg"
+    },
+    {
+      "categoria": "especiarias",
+      "id": "tempero-folha-de-louro",
+      "descricao": "TEMPERO FOLHA DE LOURO",
+      "imagem": "/images/especiarias/TEMPERO_FOLHA_DE_LOURO.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "TEMPERO_FOLHA_DE_LOURO.jpg"
+    },
+    {
+      "categoria": "especiarias",
+      "id": "tempero-fumaa",
+      "descricao": "TEMPERO FUMAÇA",
+      "imagem": "/images/especiarias/TEMPERO_FUMACA.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "TEMPERO_FUMACA.jpg"
+    },
+    {
+      "categoria": "especiarias",
+      "id": "tempero-frango-gourmet",
+      "descricao": "TEMPERO FRANGO GOURMET",
+      "imagem": "/images/especiarias/TEMPERO_P_FRANGO_GOURMET.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "TEMPERO_P_FRANGO_GOURMET.jpg"
+    },
+    {
+      "categoria": "especiarias",
+      "id": "tempero-gaucho",
+      "descricao": "TEMPERO GAUCHO",
+      "imagem": "/images/especiarias/TEMPERO_GAUCHO.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "TEMPERO_GAUCHO.jpg"
+    },
+    {
+      "categoria": "especiarias",
+      "id": "tempero-gourmet",
+      "descricao": "TEMPERO GOURMET",
+      "imagem": "/images/especiarias/TEMPERO_GOURMET.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "TEMPERO_GOURMET.jpg"
+    },
+    {
+      "categoria": "especiarias",
+      "id": "tempero-glutamato",
+      "descricao": "TEMPERO GLUTAMATO",
+      "imagem": "/images/especiarias/TEMPERO_GLUTAMATO.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "TEMPERO_GLUTAMATO.jpg"
+    },
+    {
+      "categoria": "especiarias",
+      "id": "tempero-lemon-pepper",
+      "descricao": "TEMPERO LEMON PEPPER",
+      "imagem": "/images/especiarias/TEMPERO_LEMON_PEPPER.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "TEMPERO_LEMON_PEPPER.jpg"
+    },
+    {
+      "categoria": "especiarias",
+      "id": "tempero-lemon-pepper-sem-sdio",
+      "descricao": "TEMPERO LEMON PEPPER SEM SÓDIO",
+      "imagem": "/images/especiarias/TEMPERO_LEMON_PEPPER.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "TEMPERO_LEMON_PEPPER.jpg"
+    },
+    {
+      "categoria": "especiarias",
+      "id": "tempero-mineiro",
+      "descricao": "TEMPERO MINEIRO",
+      "imagem": "/images/especiarias/TEMPERO_MINEIRO.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "TEMPERO_MINEIRO.jpg"
+    },
+    {
+      "categoria": "especiarias",
+      "id": "tempero-nordestino",
+      "descricao": "TEMPERO NORDESTINO",
+      "imagem": "/images/especiarias/TEMPERO_NORDESTINO.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "TEMPERO_NORDESTINO.jpg"
+    },
+    {
+      "categoria": "especiarias",
+      "id": "tempero-orange-pepper",
+      "descricao": "TEMPERO ORANGE PEPPER",
+      "imagem": "/images/especiarias/TEMPERO_ORANGE_PEPPER.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "TEMPERO_ORANGE_PEPPER.jpg"
+    },
+    {
+      "categoria": "especiarias",
+      "id": "tempero-paprica-defumada",
+      "descricao": "TEMPERO PAPRICA DEFUMADA",
+      "imagem": "/images/especiarias/TEMPERO_PAPRICA_DEFUMADA.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "TEMPERO_PAPRICA_DEFUMADA.jpg"
+    },
+    {
+      "categoria": "especiarias",
+      "id": "tempero-paprica-doce",
+      "descricao": "TEMPERO PAPRICA DOCE",
+      "imagem": "/images/especiarias/TEMPERO_PAPRICA_DOCE.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "TEMPERO_PAPRICA_DOCE.jpg"
+    },
+    {
+      "categoria": "especiarias",
+      "id": "tempero-paprica-doce-defumada",
+      "descricao": "TEMPERO PAPRICA DOCE DEFUMADA",
+      "imagem": "/images/especiarias/TEMPERO_PAPRICA_DEFUMADA.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "TEMPERO_PAPRICA_DEFUMADA.jpg"
+    },
+    {
+      "categoria": "especiarias",
+      "id": "tempero-paprica-picante",
+      "descricao": "TEMPERO PAPRICA PICANTE",
+      "imagem": "/images/especiarias/TEMPERO_PAPRICA_PICANTE.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "TEMPERO_PAPRICA_PICANTE.jpg"
+    },
+    {
+      "categoria": "especiarias",
+      "id": "tempero-para-feijao",
+      "descricao": "TEMPERO PARA FEIJAO",
+      "imagem": "/images/especiarias/TEMPERO_PARA_FEIJAO.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "TEMPERO_PARA_FEIJAO.jpg"
+    },
+    {
+      "categoria": "especiarias",
+      "id": "tempero-pega-esposa",
+      "descricao": "TEMPERO PEGA ESPOSA",
+      "imagem": "/images/especiarias/TEMPERO_PEGA_ESPOSA.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "TEMPERO_PEGA_ESPOSA.jpg"
+    },
+    {
+      "categoria": "especiarias",
+      "id": "tempero-pega-marido",
+      "descricao": "TEMPERO PEGA MARIDO",
+      "imagem": "/images/especiarias/TEMPERO_PEGA_MARIDO.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "TEMPERO_PEGA_MARIDO.jpg"
+    },
+    {
+      "categoria": "especiarias",
+      "id": "tempero-pimenta-calabresa",
+      "descricao": "TEMPERO PIMENTA CALABRESA",
+      "imagem": "/images/especiarias/TEMPERO_PIMENTA_CALABRESA.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "TEMPERO_PIMENTA_CALABRESA.jpg"
+    },
+    {
+      "categoria": "especiarias",
+      "id": "pimenta-do-reino-em-gros",
+      "descricao": "PIMENTA DO REINO EM GRÃOS",
+      "imagem": "/images/especiarias/PIMENTA_DO_REINO_EM_GRAO.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "PIMENTA_DO_REINO_EM_GRAO.jpg"
+    },
+    {
+      "categoria": "especiarias",
+      "id": "pimenta-do-reino-em-p",
+      "descricao": "PIMENTA DO REINO EM PÓ",
+      "imagem": "/images/especiarias/PIMENTA_DO_REINO_EM_PO.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "PIMENTA_DO_REINO_EM_PO.jpg"
+    },
+    {
+      "categoria": "especiarias",
+      "id": "tempero-salsa-desidratada",
+      "descricao": "TEMPERO SALSA DESIDRATADA",
+      "imagem": "/images/especiarias/TEMPERO_SALSA_DESI.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "TEMPERO_SALSA_DESI.jpg"
+    },
+    {
+      "categoria": "especiarias",
+      "id": "tempero-tempera-tudo",
+      "descricao": "TEMPERO TEMPERA TUDO",
+      "imagem": "/images/especiarias/TEMPERO_TEMPERA_TUDO.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "TEMPERO_TEMPERA_TUDO.jpg"
+    },
+    {
+      "categoria": "especiarias",
+      "id": "tempero-vinagrete",
+      "descricao": "TEMPERO VINAGRETE",
+      "imagem": "/images/especiarias/TEMPERO_VINAGRETE.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "TEMPERO_VINAGRETE.jpg"
+    },
+    {
+      "categoria": "frutas",
+      "id": "ameixa-scaroo",
+      "descricao": "AMEIXA S/CAROÇO",
+      "imagem": "/images/frutas/AMEIXA_S_CAROCO.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "AMEIXA_S_CAROCO.jpg"
+    },
+    {
+      "categoria": "frutas",
+      "id": "cranberry",
+      "descricao": "CRANBERRY",
+      "imagem": "/images/frutas/CRANBERRY.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "CRANBERRY.jpg"
+    },
+    {
+      "categoria": "frutas",
+      "id": "damasco-jumbo",
+      "descricao": "DAMASCO JUMBO",
+      "imagem": "/images/frutas/DAMASCO_JUMBO.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "DAMASCO_JUMBO.jpg"
+    },
+    {
+      "categoria": "frutas",
+      "id": "frutas-cristalizadas",
+      "descricao": "FRUTAS CRISTALIZADAS",
+      "imagem": "/images/frutas/FRUTAS_CRISTALIZADA.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "FRUTAS_CRISTALIZADA.jpg"
+    },
+    {
+      "categoria": "frutas",
+      "id": "goji-berry",
+      "descricao": "GOJI BERRY",
+      "imagem": "/images/frutas/GOJI_BERRY.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "GOJI_BERRY.jpg"
+    },
+    {
+      "categoria": "frutas",
+      "id": "laranja-desidratada-fatias",
+      "descricao": "LARANJA DESIDRATADA FATIAS",
+      "imagem": "/images/frutas/LARANJA_DESIDRATADA_FATIAS.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "LARANJA_DESIDRATADA_FATIAS.jpg"
+    },
+    {
+      "categoria": "frutas",
+      "id": "maa-desidratada-fatias",
+      "descricao": "MAÇA DESIDRATADA FATIAS",
+      "imagem": "/images/frutas/MACA_DESIDRATADA_FATIAS.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "MACA_DESIDRATADA_FATIAS.jpg"
+    },
+    {
+      "categoria": "frutas",
+      "id": "morango-chips",
+      "descricao": "MORANGO CHIPS",
+      "imagem": "/images/frutas/MORANGO_CHIPS.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "MORANGO_CHIPS.jpg"
+    },
+    {
+      "categoria": "frutas",
+      "id": "mix-de-frutas-desidratadas",
+      "descricao": "MIX DE FRUTAS DESIDRATADAS",
+      "imagem": "/images/frutas/MIX_DE_FRUTAS_DESIDRATADA.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "MIX_DE_FRUTAS_DESIDRATADA.jpg"
+    },
+    {
+      "categoria": "frutas",
+      "id": "mix-de-frutas-tropicais",
+      "descricao": "MIX DE FRUTAS TROPICAIS",
+      "imagem": "/images/frutas/MIX_DE_FRUTAS_TROPICAIS.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "MIX_DE_FRUTAS_TROPICAIS.jpg"
+    },
+    {
+      "categoria": "frutas",
+      "id": "tamara-c-caroo-jumbo",
+      "descricao": "TAMARA C/ CAROÇO JUMBO",
+      "imagem": "/images/frutas/TAMARA_C_CAROCO_JUMBO.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "TAMARA_C_CAROCO_JUMBO.jpg"
+    },
+    {
+      "categoria": "frutas",
+      "id": "tamara-s-caroo",
+      "descricao": "TAMARA S/ CAROÇO",
+      "imagem": "/images/frutas/TAMARA_S_CAROCO.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "TAMARA_S_CAROCO.jpg"
+    },
+    {
+      "categoria": "frutas",
+      "id": "tamara-jumbo-recheada",
+      "descricao": "TAMARA JUMBO RECHEADA",
+      "imagem": "/images/frutas/TAMARA_JUMBO_RECHEADA.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "TAMARA_JUMBO_RECHEADA.jpg"
+    },
+    {
+      "categoria": "frutas",
+      "id": "uva-passa-branca",
+      "descricao": "UVA PASSA BRANCA",
+      "imagem": "/images/frutas/UVA_PASSA_BRANCA.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "UVA_PASSA_BRANCA.jpg"
+    },
+    {
+      "categoria": "frutas",
+      "id": "uva-passa-preta",
+      "descricao": "UVA PASSA PRETA",
+      "imagem": "/images/frutas/UVA_PASSA_PRETA.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "UVA_PASSA_PRETA.jpg"
+    },
+    {
+      "categoria": "sementes",
+      "id": "alpiste",
+      "descricao": "ALPISTE",
+      "imagem": "/images/sementes/ALPISTE.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "ALPISTE.jpg"
+    },
+    {
+      "categoria": "sementes",
+      "id": "gergelim-branco",
+      "descricao": "GERGELIM BRANCO",
+      "imagem": "/images/sementes/GERGELIM_BRANCO.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "GERGELIM_BRANCO.jpg"
+    },
+    {
+      "categoria": "sementes",
+      "id": "gergelim-cpele",
+      "descricao": "GERGELIM C/PELE",
+      "imagem": "/images/sementes/GERGELIM_C_PELE.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "GERGELIM_C_PELE.jpg"
+    },
+    {
+      "categoria": "sementes",
+      "id": "gergelim-preto",
+      "descricao": "GERGELIM PRETO",
+      "imagem": "/images/sementes/GERGELIM_PRETO.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "GERGELIM_PRETO.jpg"
+    },
+    {
+      "categoria": "sementes",
+      "id": "germen-de-trigo-tostado",
+      "descricao": "GERMEN DE TRIGO TOSTADO",
+      "imagem": "/images/sementes/GERME_DE_TRIGO_TOSTADO.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "GERME_DE_TRIGO_TOSTADO.jpg"
+    },
+    {
+      "categoria": "sementes",
+      "id": "girassol-graudo",
+      "descricao": "GIRASSOL GRAUDO",
+      "imagem": "/images/sementes/GIRASSOL_GRUADO.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "GIRASSOL_GRUADO.jpg"
+    },
+    {
+      "categoria": "sementes",
+      "id": "girassol-miudo",
+      "descricao": "GIRASSOL MIUDO",
+      "imagem": "/images/sementes/GIRASSOL_MIUDO.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "GIRASSOL_MIUDO.jpg"
+    },
+    {
+      "categoria": "sementes",
+      "id": "mix-de-quinoa",
+      "descricao": "MIX DE QUINOA",
+      "imagem": "/images/sementes/MIX_DE_QUINOA.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "MIX_DE_QUINOA.jpg"
+    },
+    {
+      "categoria": "sementes",
+      "id": "mix-de-vegetais",
+      "descricao": "MIX DE VEGETAIS",
+      "imagem": "/images/sementes/MIX_DE_VEGETAIS.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "MIX_DE_VEGETAIS.jpg"
+    },
+    {
+      "categoria": "sementes",
+      "id": "paino",
+      "descricao": "PAINÇO",
+      "imagem": "/images/sementes/PAINCO.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "PAINCO.jpg"
+    },
+    {
+      "categoria": "sementes",
+      "id": "pepita-de-girassol",
+      "descricao": "PEPITA DE GIRASSOL",
+      "imagem": "/images/sementes/PEPITA_DE_GIRASSOL.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "PEPITA_DE_GIRASSOL.jpg"
+    },
+    {
+      "categoria": "sementes",
+      "id": "quinoa-em-flocos",
+      "descricao": "QUINOA EM FLOCOS",
+      "imagem": "/images/sementes/QUINOA_EM_FLOCOS.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "QUINOA_EM_FLOCOS.jpg"
+    },
+    {
+      "categoria": "sementes",
+      "id": "quinoa-em-gros",
+      "descricao": "QUINOA EM GRÃOS",
+      "imagem": "/images/sementes/QUINOA_EM_GRAO.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "QUINOA_EM_GRAO.jpg"
+    },
+    {
+      "categoria": "sementes",
+      "id": "semente-de-abobora",
+      "descricao": "SEMENTE DE ABOBORA",
+      "imagem": "/images/sementes/SEMENTE_DE_ABOBORA.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "SEMENTE_DE_ABOBORA.jpg"
+    },
+    {
+      "categoria": "sementes",
+      "id": "semente-de-chia",
+      "descricao": "SEMENTE DE CHIA",
+      "imagem": "/images/sementes/SEMENTE_DE_CHIA.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "SEMENTE_DE_CHIA.jpg"
+    },
+    {
+      "categoria": "sementes",
+      "id": "semente-de-sucupira",
+      "descricao": "SEMENTE DE SUCUPIRA",
+      "imagem": "/images/sementes/SEMENTE_DE_SUCUPIRA.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "SEMENTE_DE_SUCUPIRA.jpg"
+    },
+    {
+      "categoria": "produtosnaturais",
+      "id": "albumina",
+      "descricao": "ALBUMINA",
+      "imagem": "/images/produtosnaturais/ALBUMINA.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "ALBUMINA.jpg"
+    },
+    {
+      "categoria": "produtosnaturais",
+      "id": "aucar-de-coco",
+      "descricao": "AÇUCAR  DE COCO",
+      "imagem": "/images/produtosnaturais/ACUCAR_DE_COCO.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "ACUCAR_DE_COCO.jpg"
+    },
+    {
+      "categoria": "produtosnaturais",
+      "id": "aucar-demerara-native",
+      "descricao": "AÇUCAR  DEMERARA NATIVE",
+      "imagem": "/images/produtosnaturais/ACUCAR_DEMERARA_NATIVE.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "ACUCAR_DEMERARA_NATIVE.jpg"
+    },
+    {
+      "categoria": "produtosnaturais",
+      "id": "aucar-jr",
+      "descricao": "AÇUCAR  JR",
+      "imagem": "/images/produtosnaturais/ACUCAR_JR.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "ACUCAR_JR.jpg"
+    },
+    {
+      "categoria": "produtosnaturais",
+      "id": "aa-em-p",
+      "descricao": "AÇAÍ EM PÓ",
+      "imagem": "/images/produtosnaturais/ACAI_EM_PO.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "ACAI_EM_PO.jpg"
+    },
+    {
+      "categoria": "produtosnaturais",
+      "id": "aveia-em-flocos-n3",
+      "descricao": "AVEIA EM FLOCOS Nº3",
+      "imagem": "/images/produtosnaturais/AVEIA_EM_FLOCOS.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "AVEIA_EM_FLOCOS.jpg"
+    },
+    {
+      "categoria": "produtosnaturais",
+      "id": "aveia-em-flocos-finos-n5",
+      "descricao": "AVEIA EM FLOCOS FINOS Nº5",
+      "imagem": "/images/produtosnaturais/AVEIA_EM_FLOCOS_FINOS.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "AVEIA_EM_FLOCOS_FINOS.jpg"
+    },
+    {
+      "categoria": "produtosnaturais",
+      "id": "aveia-em-flocos-laminada-n2",
+      "descricao": "AVEIA EM FLOCOS LAMINADA Nº2",
+      "imagem": "/images/produtosnaturais/AVEIA_EM_FLOCOS_LAMINADA.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "AVEIA_EM_FLOCOS_LAMINADA.jpg"
+    },
+    {
+      "categoria": "produtosnaturais",
+      "id": "cacau-em-po-100-alcalino",
+      "descricao": "CACAU EM PO 100% ALCALINO",
+      "imagem": "/images/produtosnaturais/CACAU_EM_PO_100.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "CACAU_EM_PO_100.jpg"
+    },
+    {
+      "categoria": "produtosnaturais",
+      "id": "coco-ralado-fino",
+      "descricao": "COCO RALADO FINO",
+      "imagem": "/images/produtosnaturais/COCO_RALADO_FINO.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "COCO_RALADO_FINO.jpg"
+    },
+    {
+      "categoria": "produtosnaturais",
+      "id": "coco-ralado-flocos-tok",
+      "descricao": "COCO RALADO FLOCOS TOK",
+      "imagem": "/images/produtosnaturais/COCO_RALADO_EM_FLOCOS.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "COCO_RALADO_EM_FLOCOS.jpg"
+    },
+    {
+      "categoria": "produtosnaturais",
+      "id": "coco-ralado-flocos-dino",
+      "descricao": "COCO RALADO FLOCOS DINO",
+      "imagem": "/images/produtosnaturais/COCO_RALADO_EM_FLOCOS.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "COCO_RALADO_EM_FLOCOS.jpg"
+    },
+    {
+      "categoria": "produtosnaturais",
+      "id": "coco-ralado-medio",
+      "descricao": "COCO RALADO MEDIO",
+      "imagem": "/images/produtosnaturais/COCO_RALADO_MEDIO.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "COCO_RALADO_MEDIO.jpg"
+    },
+    {
+      "categoria": "produtosnaturais",
+      "id": "colageno-rbr",
+      "descricao": "COLAGENO RBR",
+      "imagem": "/images/produtosnaturais/COLAGENO.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "COLAGENO.jpg"
+    },
+    {
+      "categoria": "produtosnaturais",
+      "id": "creatina",
+      "descricao": "CREATINA",
+      "imagem": "/images/produtosnaturais/CREATINA.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "CREATINA.jpg"
+    },
+    {
+      "categoria": "produtosnaturais",
+      "id": "chocolate-em-p-50",
+      "descricao": "CHOCOLATE EM PÓ 50%",
+      "imagem": "/images/produtosnaturais/CHOCOLATE_EM_PO.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "CHOCOLATE_EM_PO.jpg"
+    },
+    {
+      "categoria": "produtosnaturais",
+      "id": "chocolate-em-p-32",
+      "descricao": "CHOCOLATE EM PÓ 32%",
+      "imagem": "/images/produtosnaturais/CHOCOLATE_EM_PO_32.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "CHOCOLATE_EM_PO_32.jpg"
+    },
+    {
+      "categoria": "produtosnaturais",
+      "id": "extrato-de-soja-inabel",
+      "descricao": "EXTRATO DE SOJA INABEL",
+      "imagem": "/images/produtosnaturais/EXTRATO_DE_SOJA.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "EXTRATO_DE_SOJA.jpg"
+    },
+    {
+      "categoria": "produtosnaturais",
+      "id": "farelo-de-aveia-n7",
+      "descricao": "FARELO DE AVEIA Nº7",
+      "imagem": "/images/produtosnaturais/FARELO_DE_AVEIA.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "FARELO_DE_AVEIA.jpg"
+    },
+    {
+      "categoria": "produtosnaturais",
+      "id": "farofa-flocada-torresmo",
+      "descricao": "FAROFA FLOCADA TORRESMO",
+      "imagem": "/images/produtosnaturais/farofa.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "farofa.jpg"
+    },
+    {
+      "categoria": "produtosnaturais",
+      "id": "farofa-flocada-gourmet",
+      "descricao": "FAROFA FLOCADA GOURMET",
+      "imagem": "/images/produtosnaturais/farofa.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "farofa.jpg"
+    },
+    {
+      "categoria": "produtosnaturais",
+      "id": "farofa-fina-tradicional",
+      "descricao": "FAROFA FINA TRADICIONAL",
+      "imagem": "/images/produtosnaturais/farofa.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "farofa.jpg"
+    },
+    {
+      "categoria": "produtosnaturais",
+      "id": "farofa-fina-c-pimenta",
+      "descricao": "FAROFA FINA C/ PIMENTA",
+      "imagem": "/images/produtosnaturais/farofa.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "farofa.jpg"
+    },
+    {
+      "categoria": "produtosnaturais",
+      "id": "granola-c-castanha-martigran",
+      "descricao": "GRANOLA C/ CASTANHA  MARTIGRAN",
+      "imagem": "/images/produtosnaturais/GRANOLA_COM_CASTANHA_MARTIGRAN.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "GRANOLA_COM_CASTANHA_MARTIGRAN.jpg"
+    },
+    {
+      "categoria": "produtosnaturais",
+      "id": "granola-com-banana-e-coco",
+      "descricao": "GRANOLA COM BANANA E COCO",
+      "imagem": "/images/produtosnaturais/GRANOLA_COM_BANANA_E_COCO.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "GRANOLA_COM_BANANA_E_COCO.jpg"
+    },
+    {
+      "categoria": "produtosnaturais",
+      "id": "granola-com-castanha",
+      "descricao": "GRANOLA COM CASTANHA",
+      "imagem": "/images/produtosnaturais/GRANOLA_COM_CASTANHA.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "GRANOLA_COM_CASTANHA.jpg"
+    },
+    {
+      "categoria": "produtosnaturais",
+      "id": "granola-com-frutas",
+      "descricao": "GRANOLA COM FRUTAS",
+      "imagem": "/images/produtosnaturais/GRANOLA_COM_FRUTAS.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "GRANOLA_COM_FRUTAS.jpg"
+    },
+    {
+      "categoria": "produtosnaturais",
+      "id": "granola-com-frutas-vermelhas",
+      "descricao": "GRANOLA COM FRUTAS VERMELHAS",
+      "imagem": "/images/produtosnaturais/GRANOLA_COM_FRUTAS_VERMELHAS.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "GRANOLA_COM_FRUTAS_VERMELHAS.jpg"
+    },
+    {
+      "categoria": "produtosnaturais",
+      "id": "granola-crocante-granny",
+      "descricao": "GRANOLA CROCANTE  GRANNY",
+      "imagem": "/images/produtosnaturais/GRANOLA_GRANNY.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "GRANOLA_GRANNY.jpg"
+    },
+    {
+      "categoria": "produtosnaturais",
+      "id": "granola-frutas-matigran",
+      "descricao": "GRANOLA FRUTAS  MATIGRAN",
+      "imagem": "/images/produtosnaturais/GRANOLA_COM_FRUTAS_MARTIGRAN.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "GRANOLA_COM_FRUTAS_MARTIGRAN.jpg"
+    },
+    {
+      "categoria": "produtosnaturais",
+      "id": "granola-nectar-de-maa",
+      "descricao": "GRANOLA NECTAR DE MAÇA",
+      "imagem": "/images/produtosnaturais/GRANOLA_COM_NECTAR_DE_MACA.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "GRANOLA_COM_NECTAR_DE_MACA.jpg"
+    },
+    {
+      "categoria": "produtosnaturais",
+      "id": "granola-sem-acar-martigran",
+      "descricao": "GRANOLA SEM AÇÚCAR  MARTIGRAN",
+      "imagem": "/images/produtosnaturais/GRANOLA_SEM_ACUCAR_MARTIGRAN.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "GRANOLA_SEM_ACUCAR_MARTIGRAN.jpg"
+    },
+    {
+      "categoria": "produtosnaturais",
+      "id": "granola-sem-acar",
+      "descricao": "GRANOLA SEM AÇÚCAR",
+      "imagem": "/images/produtosnaturais/GRANOLA_SEM_ACUCAR.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "GRANOLA_SEM_ACUCAR.jpg"
+    },
+    {
+      "categoria": "produtosnaturais",
+      "id": "granola-zero-acar",
+      "descricao": "GRANOLA ZERO AÇÚCAR",
+      "imagem": "/images/produtosnaturais/GRANOLA_ZERO_ACUCAR.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "GRANOLA_ZERO_ACUCAR.jpg"
+    },
+    {
+      "categoria": "produtosnaturais",
+      "id": "granola-tradicional",
+      "descricao": "GRANOLA TRADICIONAL",
+      "imagem": "/images/produtosnaturais/GRANOLA_TRADICIONAL.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "GRANOLA_TRADICIONAL.jpg"
+    },
+    {
+      "categoria": "produtosnaturais",
+      "id": "granola-tradicional-martigran",
+      "descricao": "GRANOLA TRADICIONAL MARTIGRAN",
+      "imagem": "/images/produtosnaturais/GRANOLA_TRADICIONAL_MARTIGRAN.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "GRANOLA_TRADICIONAL_MARTIGRAN.jpg"
+    },
+    {
+      "categoria": "produtosnaturais",
+      "id": "leite-de-coco-em-p",
+      "descricao": "LEITE DE COCO EM PÓ",
+      "imagem": "/images/produtosnaturais/LEITE _DE_COCO_EM_PO.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "LEITE _DE_COCO_EM_PO.jpg"
+    },
+    {
+      "categoria": "produtosnaturais",
+      "id": "leite-em-p-integral",
+      "descricao": "LEITE EM PÓ INTEGRAL",
+      "imagem": "/images/produtosnaturais/LEITE _DE_COCO_EM_PO.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "LEITE _DE_COCO_EM_PO.jpg"
+    },
+    {
+      "categoria": "produtosnaturais",
+      "id": "guaran-em-p",
+      "descricao": "GUARANÁ EM PÓ",
+      "imagem": "/images/produtosnaturais/GUARANA_EM_PO.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "GUARANA_EM_PO.jpg"
+    },
+    {
+      "categoria": "produtosnaturais",
+      "id": "ginseng-em-po",
+      "descricao": "GINSENG EM PO",
+      "imagem": "/images/produtosnaturais/GINSEN_EM_PO.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "GINSEN_EM_PO.jpg"
+    },
+    {
+      "categoria": "produtosnaturais",
+      "id": "glaucomannan",
+      "descricao": "GLAUCOMANNAN",
+      "imagem": "/images/produtosnaturais/GLAUCOMANNAN.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "GLAUCOMANNAN.jpg"
+    },
+    {
+      "categoria": "produtosnaturais",
+      "id": "glutamina",
+      "descricao": "GLUTAMINA",
+      "imagem": "/images/produtosnaturais/GLUTAMINA.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "GLUTAMINA.jpg"
+    },
+    {
+      "categoria": "produtosnaturais",
+      "id": "linhaa-dourada",
+      "descricao": "LINHAÇA DOURADA",
+      "imagem": "/images/produtosnaturais/LINHACA_DOURADA.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "LINHACA_DOURADA.jpg"
+    },
+    {
+      "categoria": "produtosnaturais",
+      "id": "linhaa-marrom",
+      "descricao": "LINHAÇA MARROM",
+      "imagem": "/images/produtosnaturais/LINHACA_MARROM.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "LINHACA_MARROM.jpg"
+    },
+    {
+      "categoria": "produtosnaturais",
+      "id": "maca-peruana",
+      "descricao": "MACA PERUANA",
+      "imagem": "/images/produtosnaturais/MACA_PERUANA.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "MACA_PERUANA.jpg"
+    },
+    {
+      "categoria": "produtosnaturais",
+      "id": "maca-peruana-negra",
+      "descricao": "MACA PERUANA NEGRA",
+      "imagem": "/images/produtosnaturais/MACA_PERUANA_NEGRA.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "MACA_PERUANA_NEGRA.jpg"
+    },
+    {
+      "categoria": "produtosnaturais",
+      "id": "maca-peruana-vermelha",
+      "descricao": "MACA PERUANA VERMELHA",
+      "imagem": "/images/produtosnaturais/MACA_PERUANA_VERMELHA.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "MACA_PERUANA_VERMELHA.jpg"
+    },
+    {
+      "categoria": "produtosnaturais",
+      "id": "maca-peruana-negra-dj",
+      "descricao": "MACA PERUANA NEGRA DJ",
+      "imagem": "/images/produtosnaturais/MACA_PERUANA_NEGRA.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "MACA_PERUANA_NEGRA.jpg"
+    },
+    {
+      "categoria": "produtosnaturais",
+      "id": "maca-peruana-vermelha-dj",
+      "descricao": "MACA PERUANA VERMELHA DJ",
+      "imagem": "/images/produtosnaturais/MACA_PERUANA_VERMELHA.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "MACA_PERUANA_VERMELHA.jpg"
+    },
+    {
+      "categoria": "produtosnaturais",
+      "id": "moringa-em-p",
+      "descricao": "MORINGA EM PÓ",
+      "imagem": "/images/produtosnaturais/MORINGA_EM_PO.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "MORINGA_EM_PO.jpg"
+    },
+    {
+      "categoria": "produtosnaturais",
+      "id": "moringa-folha",
+      "descricao": "MORINGA FOLHA",
+      "imagem": "/images/produtosnaturais/MORINGA_FOLHA.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "MORINGA_FOLHA.jpg"
+    },
+    {
+      "categoria": "produtosnaturais",
+      "id": "tahine-pasta-de-gergelim-bd",
+      "descricao": "TAHINE PASTA DE GERGELIM BD",
+      "imagem": "/images/produtosnaturais/tahine-pasta-de-gergelim-bd.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "tahine-pasta-de-gergelim-bd.jpg"
+    },
+    {
+      "categoria": "produtosnaturais",
+      "id": "tahine-pasta-de-gergelim-lata",
+      "descricao": "TAHINE PASTA DE GERGELIM LATA",
+      "imagem": "/images/produtosnaturais/thaine-pasta-de-gergelim-lata.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "thaine-pasta-de-gergelim-lata.jpg"
+    },
+    {
+      "categoria": "produtosnaturais",
+      "id": "pasta-de-amendoim-crocante",
+      "descricao": "PASTA DE AMENDOIM CROCANTE",
+      "imagem": "/images/produtosnaturais/PASTA_DE_AMENDOIM_CROCANTE.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "PASTA_DE_AMENDOIM_CROCANTE.jpg"
+    },
+    {
+      "categoria": "produtosnaturais",
+      "id": "pasta-de-amendoim-integral",
+      "descricao": "PASTA DE AMENDOIM INTEGRAL",
+      "imagem": "/images/produtosnaturais/PASTA_DE_AMENDOIM_INTEGRAL.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "PASTA_DE_AMENDOIM_INTEGRAL.jpg"
+    },
+    {
+      "categoria": "produtosnaturais",
+      "id": "psyllium-husk",
+      "descricao": "PSYLLIUM HUSK",
+      "imagem": "/images/produtosnaturais/PSYLLIUM_HUSK.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "PSYLLIUM_HUSK.jpg"
+    },
+    {
+      "categoria": "produtosnaturais",
+      "id": "tribulus-terrestres-da-folha",
+      "descricao": "TRIBULUS TERRESTRES DA FOLHA",
+      "imagem": "/images/produtosnaturais/TRIBULUS_TERRESTRE_DA_FOLHA.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "TRIBULUS_TERRESTRE_DA_FOLHA.jpg"
+    },
+    {
+      "categoria": "produtosnaturais",
+      "id": "vinagre-almaroni-comum",
+      "descricao": "VINAGRE ALMARONI COMUM",
+      "imagem": "/images/produtosnaturais/VINAGRE_ALMARONI_COMUM.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "VINAGRE_ALMARONI_COMUM.jpg"
+    },
+    {
+      "categoria": "produtosnaturais",
+      "id": "vinagre-almaroni-organico",
+      "descricao": "VINAGRE ALMARONI ORGANICO",
+      "imagem": "/images/produtosnaturais/VINAGRE_ALMARONI_ORGANICO.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "VINAGRE_ALMARONI_ORGANICO.jpg"
+    },
+    {
+      "categoria": "produtosnaturais",
+      "id": "vinagre-orga-so-francisco",
+      "descricao": "VINAGRE ORGA. SÃO FRANCISCO",
+      "imagem": "/images/produtosnaturais/VINAGRE_ORGANICO_SAO_FRANCISCO.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "VINAGRE_ORGANICO_SAO_FRANCISCO.jpg"
+    },
+    {
+      "categoria": "produtosnaturais",
+      "id": "vinagre-organico-so-roque",
+      "descricao": "VINAGRE ORGANICO SÃO ROQUE",
+      "imagem": "/images/produtosnaturais/VINAGRE_ORGANICO_SAO_ROQUE.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "VINAGRE_ORGANICO_SAO_ROQUE.jpg"
+    },
+    {
+      "categoria": "produtosnaturais",
+      "id": "vinagre-organico-azeo",
+      "descricao": "VINAGRE ORGANICO AZEO",
+      "imagem": "/images/produtosnaturais/VINAGRE_ORGANICO_SAO_AZZEO.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "VINAGRE_ORGANICO_SAO_AZZEO.jpg"
+    },
+    {
+      "categoria": "produtosnaturais",
+      "id": "xilitol",
+      "descricao": "XILITOL",
+      "imagem": "/images/produtosnaturais/XILITOL.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "XILITOL.jpg"
+    },
+    {
+      "categoria": "produtosnaturais",
+      "id": "whey-90",
+      "descricao": "WHEY 90%",
+      "imagem": "/images/produtosnaturais/WHEY_90.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "WHEY_90.jpg"
+    },
+    {
+      "categoria": "produtosnaturais",
+      "id": "whey-60-baunilha",
+      "descricao": "WHEY 60% BAUNILHA",
+      "imagem": "/images/produtosnaturais/WHEY_60_BAUNILHA.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "WHEY_60_BAUNILHA.jpg"
+    },
+    {
+      "categoria": "produtosnaturais",
+      "id": "whey-60-chocolate",
+      "descricao": "WHEY 60% CHOCOLATE",
+      "imagem": "/images/produtosnaturais/WHEY_60_CHOCOLATE.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "WHEY_60_CHOCOLATE.jpg"
+    },
+    {
+      "categoria": "produtosnaturais",
+      "id": "whey-60-morango",
+      "descricao": "WHEY 60% MORANGO",
+      "imagem": "/images/produtosnaturais/WHEY_60_MORANGO.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "WHEY_60_MORANGO.jpg"
+    },
+    {
+      "categoria": "produtosnaturais",
+      "id": "melado",
+      "descricao": "MELADO",
+      "imagem": "/images/produtosnaturais/MELADO_DE_CANA.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "MELADO_DE_CANA.jpg"
+    },
+    {
+      "categoria": "produtosnaturais",
+      "id": "mel-flores-silvestre",
+      "descricao": "MEL FLORES SILVESTRE",
+      "imagem": "/images/produtosnaturais/MEL_FLORES_SILVESTRE_210G.png",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "MEL_FLORES_SILVESTRE_210G.png"
+    },
+    {
+      "categoria": "produtosnaturais",
+      "id": "mel-natural-silvestres",
+      "descricao": "MEL NATURAL SILVESTRES",
+      "imagem": "/images/produtosnaturais/mel-natural-silvestre.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "mel-natural-silvestre.jpg"
+    },
+    {
+      "categoria": "produtosnaturais",
+      "id": "mel-natural-silvestres-com-favo",
+      "descricao": "MEL NATURAL SILVESTRES COM FAVO",
+      "imagem": "/images/produtosnaturais/MEL_COM_FAVO.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "MEL_COM_FAVO.jpg"
+    },
+    {
+      "categoria": "refris",
+      "id": "cajuina-so-geraldo",
+      "descricao": "CAJUINA SÃO GERALDO",
+      "imagem": "/images/refris/cajuina-sao-geraldo.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "cajuina-sao-geraldo.jpg"
+    },
+    {
+      "categoria": "refris",
+      "id": "cajuina-so-geraldo-lata",
+      "descricao": "CAJUINA SÃO GERALDO  LATA",
+      "imagem": "/images/refris/cajuina-sao-geraldo-lata.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "cajuina-sao-geraldo-lata.jpg"
+    },
+    {
+      "categoria": "refris",
+      "id": "cajuina-so-geraldo-zero-lata",
+      "descricao": "CAJUINA SÃO GERALDO ZERO  LATA",
+      "imagem": "/images/refris/cajuina-sao-geraldo-zero-lata.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "cajuina-sao-geraldo-zero-lata.jpg"
+    },
+    {
+      "categoria": "refris",
+      "id": "cajuina-garrafa",
+      "descricao": "CAJUINA GARRAFA",
+      "imagem": "/images/refris/CAJUINA_GARRAFA.jpeg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "CAJUINA_GARRAFA.jpeg"
+    },
+    {
+      "categoria": "refris",
+      "id": "guarana-jesus-garrafa",
+      "descricao": "GUARANA JESUS GARRAFA",
+      "imagem": "/images/refris/GUARANA_JESUS.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "GUARANA_JESUS.jpg"
+    },
+    {
+      "categoria": "refris",
+      "id": "guarana-jesus-lata",
+      "descricao": "GUARANA JESUS LATA",
+      "imagem": "/images/refris/GUARANA_JESUS_LATA.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "GUARANA_JESUS_LATA.jpg"
+    },
+    {
+      "categoria": "refris",
+      "id": "laranja-so-geraldo-lata",
+      "descricao": "LARANJA SÃO GERALDO LATA",
+      "imagem": "/images/refris/laranja-sao-geraldo-lata.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "laranja-sao-geraldo-lata.jpg"
+    },
+    {
+      "categoria": "oleo",
+      "id": "azeite-de-dend",
+      "descricao": "AZEITE DE DENDÊ",
+      "imagem": "/images/oleo/AZEITE_DE_DENDE.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "AZEITE_DE_DENDE.jpg"
+    },
+    {
+      "categoria": "oleo",
+      "id": "leite-de-coco",
+      "descricao": "LEITE DE COCO",
+      "imagem": "/images/oleo/LEITE_DE_COCO.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "LEITE_DE_COCO.jpg"
+    },
+    {
+      "categoria": "goma",
+      "id": "goma-lopes",
+      "descricao": "GOMA LOPES",
+      "imagem": "/images/goma/GOMA_LOPES.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "GOMA_LOPES.jpg"
+    },
+    {
+      "categoria": "goma",
+      "id": "goma-pantanal",
+      "descricao": "GOMA PANTANAL",
+      "imagem": "/images/goma/GOMA_PANTANAL.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "GOMA_PANTANAL.jpg"
+    },
+    {
+      "categoria": "goma",
+      "id": "goma-terrinha",
+      "descricao": "GOMA TERRINHA",
+      "imagem": "/images/goma/GOMA_TERRINHA.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "GOMA_TERRINHA.jpg"
+    },
+    {
+      "categoria": "salgadinhos",
+      "id": "anis-de-cebola",
+      "descricao": "ANÉIS DE CEBOLA",
+      "imagem": "/images/salgadinhos/ANEIS_DE_CEBOLA.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "ANEIS_DE_CEBOLA.jpg"
+    },
+    {
+      "categoria": "salgadinhos",
+      "id": "banana-chips-bacon",
+      "descricao": "BANANA CHIPS BACON",
+      "imagem": "/images/salgadinhos/BANANA_CHIPS_BACON.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "BANANA_CHIPS_BACON.jpg"
+    },
+    {
+      "categoria": "salgadinhos",
+      "id": "banana-chips-doce",
+      "descricao": "BANANA CHIPS DOCE",
+      "imagem": "/images/salgadinhos/BANANA_CHIPS_DOCE.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "BANANA_CHIPS_DOCE.jpg"
+    },
+    {
+      "categoria": "salgadinhos",
+      "id": "banana-chips-salgada",
+      "descricao": "BANANA CHIPS SALGADA",
+      "imagem": "/images/salgadinhos/BANANA_CHIPS_SALGADA.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "BANANA_CHIPS_SALGADA.jpg"
+    },
+    {
+      "categoria": "salgadinhos",
+      "id": "banana-chips-salsa-e-cebola",
+      "descricao": "BANANA CHIPS SALSA E CEBOLA",
+      "imagem": "/images/salgadinhos/BANANA_CHIPS_CEBOLA_E_SALSA.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "BANANA_CHIPS_CEBOLA_E_SALSA.jpg"
+    },
+    {
+      "categoria": "salgadinhos",
+      "id": "banana-da-terra-chips-salgada",
+      "descricao": "BANANA DA TERRA CHIPS SALGADA",
+      "imagem": "/images/salgadinhos/BANANA_DA_TERRA_CHIPS.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "BANANA_DA_TERRA_CHIPS.jpg"
+    },
+    {
+      "categoria": "salgadinhos",
+      "id": "batata-frita-lemon-pepper-mexicana",
+      "descricao": "BATATA FRITA LEMON PEPPER MEXICANA",
+      "imagem": "/images/salgadinhos/BATATA_FRITA_MEXICANA_LEMON_PEPPER.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "BATATA_FRITA_MEXICANA_LEMON_PEPPER.jpg"
+    },
+    {
+      "categoria": "salgadinhos",
+      "id": "batata-frita-mexicana",
+      "descricao": "BATATA FRITA MEXICANA",
+      "imagem": "/images/salgadinhos/BATATA_FRITA_MEXICANA.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "BATATA_FRITA_MEXICANA.jpg"
+    },
+    {
+      "categoria": "salgadinhos",
+      "id": "batata-frita-pimenta-mexicana",
+      "descricao": "BATATA FRITA PIMENTA MEXICANA",
+      "imagem": "/images/salgadinhos/BATATA_FRITA_MEXICANA_PIMENTA.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "BATATA_FRITA_MEXICANA_PIMENTA.jpg"
+    },
+    {
+      "categoria": "salgadinhos",
+      "id": "batata-frita-salsa-mexicana",
+      "descricao": "BATATA FRITA SALSA MEXICANA",
+      "imagem": "/images/salgadinhos/BATATA_FRITA_MEXICANA_CEBOLA_E_SALSA.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "BATATA_FRITA_MEXICANA_CEBOLA_E_SALSA.jpg"
+    },
+    {
+      "categoria": "salgadinhos",
+      "id": "mix-batata-doce-chips",
+      "descricao": "MIX BATATA DOCE CHIPS",
+      "imagem": "/images/salgadinhos/MIX_DE_BATATA_DOCE.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "MIX_DE_BATATA_DOCE.jpg"
+    },
+    {
+      "categoria": "salgadinhos",
+      "id": "salgadinho-bacon",
+      "descricao": "SALGADINHO BACON",
+      "imagem": "/images/salgadinhos/SALGADINHO_BACON.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "SALGADINHO_BACON.jpg"
+    },
+    {
+      "categoria": "salgadinhos",
+      "id": "salgadinho-calabresa",
+      "descricao": "SALGADINHO CALABRESA",
+      "imagem": "/images/salgadinhos/SALGADINHO_CALABRESA.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "SALGADINHO_CALABRESA.jpg"
+    },
+    {
+      "categoria": "salgadinhos",
+      "id": "salgadinho-camaro",
+      "descricao": "SALGADINHO CAMARÃO",
+      "imagem": "/images/salgadinhos/SALGADINHO_CAMARAO.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "SALGADINHO_CAMARAO.jpg"
+    },
+    {
+      "categoria": "salgadinhos",
+      "id": "salgadinho-cebola-e-salsa",
+      "descricao": "SALGADINHO CEBOLA E SALSA",
+      "imagem": "/images/salgadinhos/BATATA_FRITA_MEXICANA_CEBOLA_E_SALSA.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "BATATA_FRITA_MEXICANA_CEBOLA_E_SALSA.jpg"
+    },
+    {
+      "categoria": "salgadinhos",
+      "id": "salgadinho-churrasco",
+      "descricao": "SALGADINHO CHURRASCO",
+      "imagem": "/images/salgadinhos/SALGADINHO_CHURRASCO.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "SALGADINHO_CHURRASCO.jpg"
+    },
+    {
+      "categoria": "salgadinhos",
+      "id": "salgadinho-pimenta-mexicana",
+      "descricao": "SALGADINHO PIMENTA MEXICANA",
+      "imagem": "/images/salgadinhos/BATATA_FRITA_MEXICANA_PIMENTA.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "BATATA_FRITA_MEXICANA_PIMENTA.jpg"
+    },
+    {
+      "categoria": "salgadinhos",
+      "id": "salgadinho-pizza",
+      "descricao": "SALGADINHO PIZZA",
+      "imagem": "/images/salgadinhos/SALGADINHO_BACON.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "SALGADINHO_BACON.jpg"
+    },
+    {
+      "categoria": "salgadinhos",
+      "id": "salgadinho-queijo",
+      "descricao": "SALGADINHO QUEIJO",
+      "imagem": "/images/salgadinhos/SALGADINHO_BACON.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "SALGADINHO_BACON.jpg"
+    },
+    {
+      "categoria": "salgadinhos",
+      "id": "mandioca-frita-chips",
+      "descricao": "MANDIOCA FRITA CHIPS",
+      "imagem": "/images/salgadinhos/MANDIOCA_FRITAS_CHIPS.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "MANDIOCA_FRITAS_CHIPS.jpg"
+    },
+    {
+      "categoria": "salgadinhos",
+      "id": "mandioca-frita-chips-csalsa",
+      "descricao": "MANDIOCA FRITA CHIPS C/SALSA",
+      "imagem": "/images/salgadinhos/MANDIOCA_FRITAS_CHIPS_CEBOLA_E_SALSA.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "MANDIOCA_FRITAS_CHIPS_CEBOLA_E_SALSA.jpg"
+    },
+    {
+      "categoria": "salgadinhos",
+      "id": "rabinho-de-porco-desidratado",
+      "descricao": "RABINHO DE PORCO DESIDRATADO",
+      "imagem": "/images/salgadinhos/RABINHO_DE_PORCO.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "RABINHO_DE_PORCO.jpg"
+    },
+    {
+      "categoria": "salgadinhos",
+      "id": "torresmo-pronto",
+      "descricao": "TORRESMO PRONTO",
+      "imagem": "/images/salgadinhos/TORRESMO_PRONTO.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "TORRESMO_PRONTO.jpg"
+    },
+    {
+      "categoria": "doces",
+      "id": "bala-azedinha-cereja",
+      "descricao": "BALA AZEDINHA CEREJA",
+      "imagem": "/images/doces/BALA_AZEDINHA_CEREJA.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "BALA_AZEDINHA_CEREJA.jpg"
+    },
+    {
+      "categoria": "doces",
+      "id": "bala-azedinha-colorida",
+      "descricao": "BALA AZEDINHA COLORIDA",
+      "imagem": "/images/doces/BALA_AZEDINHA_COLORIDA.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "BALA_AZEDINHA_COLORIDA.jpg"
+    },
+    {
+      "categoria": "doces",
+      "id": "bala-azedinha-morango",
+      "descricao": "BALA AZEDINHA MORANGO",
+      "imagem": "/images/doces/BALA_AZEDINHA_COLORIDA.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "BALA_AZEDINHA_COLORIDA.jpg"
+    },
+    {
+      "categoria": "doces",
+      "id": "bala-azedinha-tutti-frutti",
+      "descricao": "BALA AZEDINHA TUTTI-FRUTTI",
+      "imagem": "/images/doces/BALA_AZEDINHA_TUTTI_FRUIT.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "BALA_AZEDINHA_TUTTI_FRUIT.jpg"
+    },
+    {
+      "categoria": "doces",
+      "id": "bala-dente-de-vampiro",
+      "descricao": "BALA DENTE DE VAMPIRO",
+      "imagem": "/images/doces/BALA_DENTE_DE_VAMPIRO.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "BALA_DENTE_DE_VAMPIRO.jpg"
+    },
+    {
+      "categoria": "doces",
+      "id": "bala-de-goma",
+      "descricao": "BALA DE GOMA",
+      "imagem": "/images/doces/BALA_DE_GOMA.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "BALA_DE_GOMA.jpg"
+    },
+    {
+      "categoria": "doces",
+      "id": "bala-de-goma-aa",
+      "descricao": "BALA DE GOMA AÇAÍ",
+      "imagem": "/images/doces/BALA_DE_GOMA_ACAI.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "BALA_DE_GOMA_ACAI.jpg"
+    },
+    {
+      "categoria": "doces",
+      "id": "bala-de-goma-aneis",
+      "descricao": "BALA DE GOMA ANEIS",
+      "imagem": "/images/doces/BALA_DE_GOMA_ANEIS.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "BALA_DE_GOMA_ANEIS.jpg"
+    },
+    {
+      "categoria": "doces",
+      "id": "bala-de-goma-frutas",
+      "descricao": "BALA DE GOMA FRUTAS",
+      "imagem": "/images/doces/BALA_DE_GOMA_FRUTAS.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "BALA_DE_GOMA_FRUTAS.jpg"
+    },
+    {
+      "categoria": "doces",
+      "id": "bala-de-goma-gurt",
+      "descricao": "BALA DE GOMA GURT",
+      "imagem": "/images/doces/BALA_DE_GOMA_GURT.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "BALA_DE_GOMA_GURT.jpg"
+    },
+    {
+      "categoria": "doces",
+      "id": "bala-de-gomus",
+      "descricao": "BALA DE GOMUS",
+      "imagem": "/images/doces/BALA_GOMUS.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "BALA_GOMUS.jpg"
+    },
+    {
+      "categoria": "doces",
+      "id": "bala-de-goma-ursinhos",
+      "descricao": "BALA DE GOMA URSINHOS",
+      "imagem": "/images/doces/BALA_DE_GOMA.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "BALA_DE_GOMA.jpg"
+    },
+    {
+      "categoria": "doces",
+      "id": "bala-de-goma-ice-eucalipto",
+      "descricao": "BALA DE GOMA ICE EUCALIPTO",
+      "imagem": "/images/doces/BALA_DE_GOMA.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "BALA_DE_GOMA.jpg"
+    },
+    {
+      "categoria": "doces",
+      "id": "bala-jujuba",
+      "descricao": "BALA JUJUBA",
+      "imagem": "/images/doces/BALA_JUJUBA.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "BALA_JUJUBA.jpg"
+    },
+    {
+      "categoria": "doces",
+      "id": "bala-minhoca-acida",
+      "descricao": "BALA MINHOCA ACIDA",
+      "imagem": "/images/doces/BALA_MINHOCA_ACIDA.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "BALA_MINHOCA_ACIDA.jpg"
+    },
+    {
+      "categoria": "doces",
+      "id": "bala-gelatina-amoras",
+      "descricao": "BALA GELATINA AMORAS",
+      "imagem": "/images/doces/GELATINA_AMORAS.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "GELATINA_AMORAS.jpg"
+    },
+    {
+      "categoria": "doces",
+      "id": "bala-gelatina-banana",
+      "descricao": "BALA GELATINA BANANA",
+      "imagem": "/images/doces/GELATINA_BANANA.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "GELATINA_BANANA.jpg"
+    },
+    {
+      "categoria": "doces",
+      "id": "bala-gelatina-beijo",
+      "descricao": "BALA GELATINA BEIJO",
+      "imagem": "/images/doces/GELATINA_BEIJO.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "GELATINA_BEIJO.jpg"
+    },
+    {
+      "categoria": "doces",
+      "id": "bala-geatina-cobrinha-citrica",
+      "descricao": "BALA GEATINA COBRINHA CITRICA",
+      "imagem": "/arroz.jpeg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "arroz.jpeg"
+    },
+    {
+      "categoria": "doces",
+      "id": "bala-geatina-diversas",
+      "descricao": "BALA GEATINA DIVERSAS",
+      "imagem": "/images/doces/GELATINAS_DIVERSAS.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "GELATINAS_DIVERSAS.jpg"
+    },
+    {
+      "categoria": "doces",
+      "id": "bala-gelatina-mix-formatos",
+      "descricao": "BALA GELATINA MIX FORMATOS",
+      "imagem": "/images/doces/GELATINA_FORMATOS.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "GELATINA_FORMATOS.jpg"
+    },
+    {
+      "categoria": "doces",
+      "id": "bananada-rezende",
+      "descricao": "BANANADA REZENDE",
+      "imagem": "/images/doces/BANANADA_REZENDE.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "BANANADA_REZENDE.jpg"
+    },
+    {
+      "categoria": "doces",
+      "id": "bananinha-cristalizada",
+      "descricao": "BANANINHA CRISTALIZADA",
+      "imagem": "/images/doces/BANANINHA_CRISTALIZADA.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "BANANINHA_CRISTALIZADA.jpg"
+    },
+    {
+      "categoria": "doces",
+      "id": "bolacha-kibom",
+      "descricao": "BOLACHA  KIBOM",
+      "imagem": "/images/doces/BOLACHA_KIBOM.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "BOLACHA_KIBOM.jpg"
+    },
+    {
+      "categoria": "doces",
+      "id": "bolacha-areia",
+      "descricao": "BOLACHA AREIA",
+      "imagem": "/images/doces/BOLACHA_AREIA.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "BOLACHA_AREIA.jpg"
+    },
+    {
+      "categoria": "doces",
+      "id": "bolacha-bambole-n4",
+      "descricao": "BOLACHA BAMBOLE Nº4",
+      "imagem": "/images/doces/BOLACHA_BAMBOLE.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "BOLACHA_BAMBOLE.jpg"
+    },
+    {
+      "categoria": "doces",
+      "id": "bolacha-bambole-recheado-n5",
+      "descricao": "BOLACHA BAMBOLE RECHEADO Nº5",
+      "imagem": "/images/doces/BOLACHA_BAMBOLE_RECHEADO.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "BOLACHA_BAMBOLE_RECHEADO.jpg"
+    },
+    {
+      "categoria": "doces",
+      "id": "bolacha-beijinho-freira-n8",
+      "descricao": "BOLACHA BEIJINHO FREIRA Nº8",
+      "imagem": "/images/doces/BOLACHA_BEIJINHO_DE_FREIRA.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "BOLACHA_BEIJINHO_DE_FREIRA.jpg"
+    },
+    {
+      "categoria": "doces",
+      "id": "bolacha-belisco-n12",
+      "descricao": "BOLACHA BELISCÃO Nº12",
+      "imagem": "/images/doces/BOLACHA_BELISCAO.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "BOLACHA_BELISCAO.jpg"
+    },
+    {
+      "categoria": "doces",
+      "id": "bolacha-casadinha",
+      "descricao": "BOLACHA CASADINHA",
+      "imagem": "/images/doces/BOLACHA_CASADINHA.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "BOLACHA_CASADINHA.jpg"
+    },
+    {
+      "categoria": "doces",
+      "id": "bolacha-ganache-de-morango",
+      "descricao": "BOLACHA GANACHE DE MORANGO",
+      "imagem": "/images/doces/BOLACHA_GANACHE_DE_MORANGO.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "BOLACHA_GANACHE_DE_MORANGO.jpg"
+    },
+    {
+      "categoria": "doces",
+      "id": "bolacha-goiabinha-n6",
+      "descricao": "BOLACHA GOIABINHA Nº6",
+      "imagem": "/images/doces/BOLACHA_GOIABINHA.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "BOLACHA_GOIABINHA.jpg"
+    },
+    {
+      "categoria": "doces",
+      "id": "bolacha-juju-n10",
+      "descricao": "BOLACHA JUJU Nº10",
+      "imagem": "/images/doces/BOLACHA_JUJU.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "BOLACHA_JUJU.jpg"
+    },
+    {
+      "categoria": "doces",
+      "id": "bolacha-kishow-n15",
+      "descricao": "BOLACHA KISHOW Nº15",
+      "imagem": "/images/doces/BOLACHA_KISHOW.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "BOLACHA_KISHOW.jpg"
+    },
+    {
+      "categoria": "doces",
+      "id": "bolacha-lemon-show",
+      "descricao": "BOLACHA LEMON SHOW",
+      "imagem": "/images/doces/BOLACHA_LEMON_SHOW.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "BOLACHA_LEMON_SHOW.jpg"
+    },
+    {
+      "categoria": "doces",
+      "id": "bolacha-mini-waffer",
+      "descricao": "BOLACHA MINI WAFFER",
+      "imagem": "/images/doces/BOLACHA_WAFER.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "BOLACHA_WAFER.jpg"
+    },
+    {
+      "categoria": "doces",
+      "id": "bolacha-palito-c-chocolate-n9",
+      "descricao": "BOLACHA PALITO  C/ CHOCOLATE Nº9",
+      "imagem": "/images/doces/bolacha-palito-c-chocolate.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "bolacha-palito-c-chocolate.jpg"
+    },
+    {
+      "categoria": "doces",
+      "id": "bolacha-palmier-canela-n14",
+      "descricao": "BOLACHA PALMIER CANELA Nº14",
+      "imagem": "/images/doces/BOLACHA_PALMIER_CANELA.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "BOLACHA_PALMIER_CANELA.jpg"
+    },
+    {
+      "categoria": "doces",
+      "id": "bolacha-palmier-n3",
+      "descricao": "BOLACHA PALMIER Nº3",
+      "imagem": "/images/doces/BOLACHA_PALMIER.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "BOLACHA_PALMIER.jpg"
+    },
+    {
+      "categoria": "doces",
+      "id": "bolacha-po-de-mel",
+      "descricao": "BOLACHA PÃO DE MEL",
+      "imagem": "/images/doces/BOLACHA_PAO_DE_MEL.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "BOLACHA_PAO_DE_MEL.jpg"
+    },
+    {
+      "categoria": "doces",
+      "id": "bolacha-pistache",
+      "descricao": "BOLACHA PISTACHE",
+      "imagem": "/images/doces/BOLACHA_COM_PISTACHE.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "BOLACHA_COM_PISTACHE.jpg"
+    },
+    {
+      "categoria": "doces",
+      "id": "bolacha-rosca-coco-n1",
+      "descricao": "BOLACHA ROSCA COCO Nº1",
+      "imagem": "/images/doces/BOLACHA_ROSCA_DE_COCO.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "BOLACHA_ROSCA_DE_COCO.jpg"
+    },
+    {
+      "categoria": "doces",
+      "id": "bolacha-rosca-flocos-n2",
+      "descricao": "BOLACHA ROSCA FLOCOS Nº2",
+      "imagem": "/images/doces/BOLACHA_ROSCA_DE_COCO_FLOCOS.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "BOLACHA_ROSCA_DE_COCO_FLOCOS.jpg"
+    },
+    {
+      "categoria": "doces",
+      "id": "bolacha-rosca-nata-n3",
+      "descricao": "BOLACHA ROSCA NATA Nº3",
+      "imagem": "/images/doces/BOLACHA_ROSCA_DE_NATA.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "BOLACHA_ROSCA_DE_NATA.jpg"
+    },
+    {
+      "categoria": "doces",
+      "id": "bolacha-seduo",
+      "descricao": "BOLACHA SEDUÇÃO",
+      "imagem": "/images/doces/BOLACHA_SEDUCAO.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "BOLACHA_SEDUCAO.jpg"
+    },
+    {
+      "categoria": "doces",
+      "id": "bolacha-sonho-de-valsa",
+      "descricao": "BOLACHA SONHO DE VALSA",
+      "imagem": "/images/doces/BOLACHA_SONHO_DE_VALSA.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "BOLACHA_SONHO_DE_VALSA.jpg"
+    },
+    {
+      "categoria": "doces",
+      "id": "bolacha-torcidinha-de-canela",
+      "descricao": "BOLACHA TORCIDINHA DE CANELA",
+      "imagem": "/images/doces/BOLACHA_TORCIDINHA_CANELA.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "BOLACHA_TORCIDINHA_CANELA.jpg"
+    },
+    {
+      "categoria": "doces",
+      "id": "bolacha-uga-uga-n7",
+      "descricao": "BOLACHA UGA UGA Nº7",
+      "imagem": "/images/doces/BOLACHA_UGA_UGA.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "BOLACHA_UGA_UGA.jpg"
+    },
+    {
+      "categoria": "doces",
+      "id": "crocante-chocolate",
+      "descricao": "CROCANTE CHOCOLATE",
+      "imagem": "/images/doces/CROCANTE_CHOCOLATE.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "CROCANTE_CHOCOLATE.jpg"
+    },
+    {
+      "categoria": "doces",
+      "id": "crocante-chocolate-branco",
+      "descricao": "CROCANTE CHOCOLATE BRANCO",
+      "imagem": "/images/doces/CROCANTE_CHOCOLATE_BRANCO.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "CROCANTE_CHOCOLATE_BRANCO.jpg"
+    },
+    {
+      "categoria": "doces",
+      "id": "crocante-doce",
+      "descricao": "CROCANTE DOCE",
+      "imagem": "/images/doces/CROCANTE_DOCE.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "CROCANTE_DOCE.jpg"
+    },
+    {
+      "categoria": "doces",
+      "id": "crocante-doce-banoffe",
+      "descricao": "CROCANTE DOCE BANOFFE",
+      "imagem": "/images/doces/CROCANTE_DOCE.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "CROCANTE_DOCE.jpg"
+    },
+    {
+      "categoria": "doces",
+      "id": "crocante-doce-branco",
+      "descricao": "CROCANTE DOCE BRANCO",
+      "imagem": "/images/doces/CROCANTE_DOCE_BRANCO.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "CROCANTE_DOCE_BRANCO.jpg"
+    },
+    {
+      "categoria": "doces",
+      "id": "crocante-doce-coco",
+      "descricao": "CROCANTE DOCE COCO",
+      "imagem": "/images/doces/CROCANTE_DOCE_COCO.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "CROCANTE_DOCE_COCO.jpg"
+    },
+    {
+      "categoria": "doces",
+      "id": "crocante-doce-iogurte",
+      "descricao": "CROCANTE DOCE IOGURTE",
+      "imagem": "/images/doces/CROCANTE_DOCE.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "CROCANTE_DOCE.jpg"
+    },
+    {
+      "categoria": "doces",
+      "id": "cocada-cremosa",
+      "descricao": "COCADA CREMOSA",
+      "imagem": "/images/doces/COCADA_CREMOSA.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "COCADA_CREMOSA.jpg"
+    },
+    {
+      "categoria": "doces",
+      "id": "cocada-mista",
+      "descricao": "COCADA MISTA",
+      "imagem": "/images/doces/COCADA_MISTA.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "COCADA_MISTA.jpg"
+    },
+    {
+      "categoria": "doces",
+      "id": "goiabada-casco",
+      "descricao": "GOIABADA CASCÃO",
+      "imagem": "/images/doces/GOIABADA_CASCAO.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "GOIABADA_CASCAO.jpg"
+    },
+    {
+      "categoria": "doces",
+      "id": "confete-kukets",
+      "descricao": "CONFETE KUKETS",
+      "imagem": "/images/doces/CONFETE_KUKETS.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "CONFETE_KUKETS.jpg"
+    },
+    {
+      "categoria": "doces",
+      "id": "chips-de-coco",
+      "descricao": "CHIPS DE COCO",
+      "imagem": "/images/doces/CHIPS_DE_COCO.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "CHIPS_DE_COCO.jpg"
+    },
+    {
+      "categoria": "doces",
+      "id": "chips-de-coco-nectar-de-maa",
+      "descricao": "CHIPS DE COCO NECTAR DE MAÇA",
+      "imagem": "/images/doces/CHIPS_DE_COCO_NECTAR_DE_MACA.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "CHIPS_DE_COCO_NECTAR_DE_MACA.jpg"
+    },
+    {
+      "categoria": "doces",
+      "id": "choco-boll-mini-mesclado",
+      "descricao": "CHOCO BOLL MINI MESCLADO",
+      "imagem": "/images/doces/CHOCO_BOLL_MESCLADO.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "CHOCO_BOLL_MESCLADO.jpg"
+    },
+    {
+      "categoria": "doces",
+      "id": "choco-boll-com-chocolate",
+      "descricao": "CHOCO BOLL COM CHOCOLATE",
+      "imagem": "/images/doces/CHOCO_BOLL_COM_CHOCOLATE.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "CHOCO_BOLL_COM_CHOCOLATE.jpg"
+    },
+    {
+      "categoria": "doces",
+      "id": "doce-de-leite-c-ameixa",
+      "descricao": "DOCE DE LEITE C/ AMEIXA",
+      "imagem": "/images/doces/DOCE_DE_LEITE_COM_AMEIXA.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "DOCE_DE_LEITE_COM_AMEIXA.jpg"
+    },
+    {
+      "categoria": "doces",
+      "id": "doce-de-leite-c-chocolate",
+      "descricao": "DOCE DE LEITE C/ CHOCOLATE",
+      "imagem": "/images/doces/DOCE_DE_LEITE_COM_CHOCOLATE.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "DOCE_DE_LEITE_COM_CHOCOLATE.jpg"
+    },
+    {
+      "categoria": "doces",
+      "id": "doce-de-leite-c-amendoim",
+      "descricao": "DOCE DE LEITE C/ AMENDOIM",
+      "imagem": "/images/doces/DOCE_DE_LEITE_COM_AMENDOIM.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "DOCE_DE_LEITE_COM_AMENDOIM.jpg"
+    },
+    {
+      "categoria": "doces",
+      "id": "doce-de-leite-c-coco",
+      "descricao": "DOCE DE LEITE C/ COCO",
+      "imagem": "/images/doces/DOCE_DE_LEITE.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "DOCE_DE_LEITE.jpg"
+    },
+    {
+      "categoria": "doces",
+      "id": "doce-de-leite-c-goiaba",
+      "descricao": "DOCE DE LEITE C/ GOIABA",
+      "imagem": "/images/doces/DOCE_DE_LEITE_COM_GOIABA.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "DOCE_DE_LEITE_COM_GOIABA.jpg"
+    },
+    {
+      "categoria": "doces",
+      "id": "doce-de-leite-c-morango",
+      "descricao": "DOCE DE LEITE C/ MORANGO",
+      "imagem": "/images/doces/DOCE_DE_LEITE_COM_MORANGO.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "DOCE_DE_LEITE_COM_MORANGO.jpg"
+    },
+    {
+      "categoria": "doces",
+      "id": "doce-halawi",
+      "descricao": "DOCE HALAWI",
+      "imagem": "/images/doces/DOCE_HALAWI.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "DOCE_HALAWI.jpg"
+    },
+    {
+      "categoria": "doces",
+      "id": "doce-de-leite-puro",
+      "descricao": "DOCE DE LEITE PURO",
+      "imagem": "/images/doces/DOCE_DE_LEITE.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "DOCE_DE_LEITE.jpg"
+    },
+    {
+      "categoria": "doces",
+      "id": "geleia-mocot",
+      "descricao": "GELEIA MOCOTÓ",
+      "imagem": "/images/doces/GELEIA_DE_MOCOTO.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "GELEIA_DE_MOCOTO.jpg"
+    },
+    {
+      "categoria": "doces",
+      "id": "geleia-mocot-c-amendoim",
+      "descricao": "GELEIA MOCOTÓ C/ AMENDOIM",
+      "imagem": "/images/doces/GELEIA_DE_MOCOTO_COM_AMENDOIM.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "GELEIA_DE_MOCOTO_COM_AMENDOIM.jpg"
+    },
+    {
+      "categoria": "doces",
+      "id": "gota-chocolate",
+      "descricao": "GOTA CHOCOLATE",
+      "imagem": "/images/doces/GOTA_DE_CHOCOLATE.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "GOTA_DE_CHOCOLATE.jpg"
+    },
+    {
+      "categoria": "doces",
+      "id": "granulado-colorido",
+      "descricao": "GRANULADO COLORIDO",
+      "imagem": "/images/doces/GRANULADO_COLORIDO.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "GRANULADO_COLORIDO.jpg"
+    },
+    {
+      "categoria": "doces",
+      "id": "granulado-chocolate",
+      "descricao": "GRANULADO CHOCOLATE",
+      "imagem": "/images/doces/GRANULADO_CHOCOLATE.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "GRANULADO_CHOCOLATE.jpg"
+    },
+    {
+      "categoria": "doces",
+      "id": "marshmallow-diversos",
+      "descricao": "MARSHMALLOW DIVERSOS",
+      "imagem": "/images/doces/MARSHMALLOW_DIVERSOS.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "MARSHMALLOW_DIVERSOS.jpg"
+    },
+    {
+      "categoria": "doces",
+      "id": "marshmallow-recheado-color-8990",
+      "descricao": "MARSHMALLOW RECHEADO COLOR -8990",
+      "imagem": "/images/doces/MARSHMALLOW_RECHEADO_COLOR.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "MARSHMALLOW_RECHEADO_COLOR.jpg"
+    },
+    {
+      "categoria": "doces",
+      "id": "marshmallow-recheado-pinta-lngua-80075",
+      "descricao": "MARSHMALLOW RECHEADO PINTA LÍNGUA-80075",
+      "imagem": "/images/doces/MARSHMALLOW_RECHEADO_PINTA_LÍNGUA.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "MARSHMALLOW_RECHEADO_PINTA_LÍNGUA.jpg"
+    },
+    {
+      "categoria": "doces",
+      "id": "marshmallow-tubo-br-81417",
+      "descricao": "MARSHMALLOW TUBO BR -81417",
+      "imagem": "/images/doces/MARMARSHMALLOW_TUBO_BR.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "MARMARSHMALLOW_TUBO_BR.jpg"
+    },
+    {
+      "categoria": "doces",
+      "id": "marshmallow-tubo-color-81416",
+      "descricao": "MARSHMALLOW TUBO COLOR -81416",
+      "imagem": "/images/doces/MARSHMALLOW_TUBO_COLOR.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "MARSHMALLOW_TUBO_COLOR.jpg"
+    },
+    {
+      "categoria": "doces",
+      "id": "marshmallow-tubo-toro-81415",
+      "descricao": "MARSHMALLOW TUBO TORÇÃO -81415",
+      "imagem": "/images/doces/MARMARSHMALLOW_TUBO_TORCAO.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "MARMARSHMALLOW_TUBO_TORCAO.jpg"
+    },
+    {
+      "categoria": "doces",
+      "id": "marshmallow-twist-color-8930",
+      "descricao": "MARSHMALLOW TWIST COLOR -8930",
+      "imagem": "/images/doces/MARMARSHMALLOW_TWIST_COLOR.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "MARMARSHMALLOW_TWIST_COLOR.jpg"
+    },
+    {
+      "categoria": "doces",
+      "id": "marshmallow-twist-rosabr-81412",
+      "descricao": "MARSHMALLOW TWIST ROSA/BR -81412",
+      "imagem": "/images/doces/MARSHMALLOW_TWIST_ROSA.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "MARSHMALLOW_TWIST_ROSA.jpg"
+    },
+    {
+      "categoria": "doces",
+      "id": "marshmallow-mix-fofuras-81274",
+      "descricao": "MARSHMALLOW MIX FOFURAS-81274",
+      "imagem": "/images/doces/MARSHMALLOW_FOFURAS.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "MARSHMALLOW_FOFURAS.jpg"
+    },
+    {
+      "categoria": "doces",
+      "id": "paoca-de-amendoim",
+      "descricao": "PAÇOCA DE AMENDOIM",
+      "imagem": "/images/doces/PACOCA_AMENDOIM.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "PACOCA_AMENDOIM.jpg"
+    },
+    {
+      "categoria": "doces",
+      "id": "p-de-moleque-moido",
+      "descricao": "PÉ DE MOLEQUE MOIDO",
+      "imagem": "/images/doces/PE_DE_MOLEQUE.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "PE_DE_MOLEQUE.jpg"
+    },
+    {
+      "categoria": "doces",
+      "id": "p-de-moleque-rezenda",
+      "descricao": "PÉ DE MOLEQUE REZENDA",
+      "imagem": "/images/doces/PE_DE_MOLEQUE_REZENDA.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "PE_DE_MOLEQUE_REZENDA.jpg"
+    },
+    {
+      "categoria": "doces",
+      "id": "p-de-moa-resenda",
+      "descricao": "PÉ DE MOÇA RESENDA",
+      "imagem": "/images/doces/PE_DE_MOCA.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "PE_DE_MOCA.jpg"
+    },
+    {
+      "categoria": "doces",
+      "id": "rapadura",
+      "descricao": "RAPADURA",
+      "imagem": "/images/doces/RAPADURA.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "RAPADURA.jpg"
+    },
+    {
+      "categoria": "doces",
+      "id": "rapadura-de-abbora",
+      "descricao": "RAPADURA DE ABÓBORA",
+      "imagem": "/images/doces/RAPADURA_DE_ABOBORA.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "RAPADURA_DE_ABOBORA.jpg"
+    },
+    {
+      "categoria": "potes",
+      "id": "concha-mdia",
+      "descricao": "CONCHA MÉDIA",
+      "imagem": "/images/potes/CONCHA_MEDIA.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "CONCHA_MEDIA.jpg"
+    },
+    {
+      "categoria": "potes",
+      "id": "concha-pequena",
+      "descricao": "CONCHA PEQUENA",
+      "imagem": "/images/potes/CONCHA_PEQUENA.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "CONCHA_PEQUENA.jpg"
+    },
+    {
+      "categoria": "potes",
+      "id": "pote-quadrado-33l",
+      "descricao": "POTE QUADRADO 3,3L",
+      "imagem": "/images/potes/POTE_3,3L.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "POTE_3,3L.jpg"
+    },
+    {
+      "categoria": "potes",
+      "id": "pote-quadrado-74l",
+      "descricao": "POTE QUADRADO 7,4L",
+      "imagem": "/images/potes/POTE_7,4L.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "POTE_7,4L.jpg"
+    },
+    {
+      "categoria": "potes",
+      "id": "pote-redondo-12l",
+      "descricao": "POTE REDONDO 12L",
+      "imagem": "/images/potes/POTE_12L.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "POTE_12L.jpg"
+    },
+    {
+      "categoria": "potes",
+      "id": "pote-redondo-86l",
+      "descricao": "POTE REDONDO 8,6L",
+      "imagem": "/images/potes/POTE_8,6L.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "POTE_8,6L.jpg"
+    },
+    {
+      "categoria": "potes",
+      "id": "pote-retangular-15l",
+      "descricao": "POTE RETANGULAR 1,5L",
+      "imagem": "/images/potes/POTE_1,5L.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "POTE_1,5L.jpg"
+    },
+    {
+      "categoria": "potes",
+      "id": "pote-retangular-138l",
+      "descricao": "POTE RETANGULAR 13,8L",
+      "imagem": "/images/potes/POTE_13,8L.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "POTE_13,8L.jpg"
+    }
+  ]
+}
