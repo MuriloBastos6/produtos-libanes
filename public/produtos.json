@@ -157,7 +157,7 @@
           "pesoValor": 11.34,
           "pesoUnidade": "KG",
           "unidade": "CX",
-          "precoVenda": 714.5,
+          "precoVenda": 634.0,
           "precoDebitoCredito": 736.0
         }
       ]
@@ -173,7 +173,7 @@
           "pesoValor": 11.34,
           "pesoUnidade": "KG",
           "unidade": "CX",
-          "precoVenda": 714.5,
+          "precoVenda": 634.0,
           "precoDebitoCredito": 736.0
         }
       ]
@@ -717,16 +717,16 @@
           "pesoValor": 5.0,
           "pesoUnidade": "KG",
           "unidade": "PC",
-          "precoVenda": 407.0,
-          "precoDebitoCredito": 419.0
+          "precoVenda": 377.0,
+          "precoDebitoCredito": 388.5
         },
         {
           "codigo": "2442",
           "pesoValor": 11.34,
           "pesoUnidade": "KG",
           "unidade": "CX",
-          "precoVenda": 918.5,
-          "precoDebitoCredito": 946.0
+          "precoVenda": 850.5,
+          "precoDebitoCredito": 876.0
         }
       ]
     },
@@ -741,16 +741,16 @@
           "pesoValor": 5.0,
           "pesoUnidade": "KG",
           "unidade": "PC",
-          "precoVenda": 407.0,
-          "precoDebitoCredito": 419.0
+          "precoVenda": 377.0,
+          "precoDebitoCredito": 388.5
         },
         {
           "codigo": "3441",
           "pesoValor": 11.34,
           "pesoUnidade": "KG",
           "unidade": "CX",
-          "precoVenda": 918.5,
-          "precoDebitoCredito": 946.0
+          "precoVenda": 850.5,
+          "precoDebitoCredito": 876.0
         }
       ]
     },
@@ -765,24 +765,24 @@
           "pesoValor": 5.0,
           "pesoUnidade": "KG",
           "unidade": "PC",
-          "precoVenda": 407.0,
-          "precoDebitoCredito": 419.0
+          "precoVenda": 377.0,
+          "precoDebitoCredito": 388.5
         },
         {
           "codigo": "3408",
           "pesoValor": 11.34,
           "pesoUnidade": "KG",
           "unidade": "CX",
-          "precoVenda": 918.5,
-          "precoDebitoCredito": 946.0
+          "precoVenda": 850.5,
+          "precoDebitoCredito": 876.0
         },
         {
           "codigo": "2273",
           "pesoValor": 22.68,
           "pesoUnidade": "KG",
           "unidade": "CX",
-          "precoVenda": 1837.0,
-          "precoDebitoCredito": 1892.0
+          "precoVenda": 1701.0,
+          "precoDebitoCredito": 1752.0
         }
       ]
     },
@@ -797,56 +797,24 @@
           "pesoValor": 5.0,
           "pesoUnidade": "KG",
           "unidade": "PC",
-          "precoVenda": 407.0,
-          "precoDebitoCredito": 419.0
+          "precoVenda": 377.0,
+          "precoDebitoCredito": 388.5
         },
         {
           "codigo": "3409",
           "pesoValor": 11.34,
           "pesoUnidade": "KG",
           "unidade": "CX",
-          "precoVenda": 918.5,
-          "precoDebitoCredito": 946.0
+          "precoVenda": 850.5,
+          "precoDebitoCredito": 876.0
         },
         {
           "codigo": "459",
           "pesoValor": 22.68,
           "pesoUnidade": "KG",
           "unidade": "CX",
-          "precoVenda": 1837.0,
-          "precoDebitoCredito": 1892.0
-        }
-      ]
-    },
-    {
-      "id": "castanha-do-para-large-paratini",
-      "descricao": "CASTANHA DO PARA LARGE PARATINI",
-      "categoria": "amendoim",
-      "imagem": "/images/amendoim/PARA_LARGE.jpg",
-      "variacoes": [
-        {
-          "codigo": "2252",
-          "pesoValor": 5.0,
-          "pesoUnidade": "KG",
-          "unidade": "PC",
-          "precoVenda": 652.0,
-          "precoDebitoCredito": 0.0
-        },
-        {
-          "codigo": "3520",
-          "pesoValor": 10.0,
-          "pesoUnidade": "KG",
-          "unidade": "PC",
-          "precoVenda": 1300.0,
-          "precoDebitoCredito": 0.0
-        },
-        {
-          "codigo": "2291",
-          "pesoValor": 20.0,
-          "pesoUnidade": "KG",
-          "unidade": "CX",
-          "precoVenda": 2600.0,
-          "precoDebitoCredito": 0.0
+          "precoVenda": 1701.0,
+          "precoDebitoCredito": 1752.0
         }
       ]
     },
@@ -4521,8 +4489,8 @@
           "pesoValor": 10.0,
           "pesoUnidade": "KG",
           "unidade": "SC",
-          "precoVenda": 51.5,
-          "precoDebitoCredito": 53.0
+          "precoVenda": 57.0,
+          "precoDebitoCredito": 59.0
         }
       ]
     },

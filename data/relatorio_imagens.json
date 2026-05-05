@@ -1,8 +1,8 @@
 {
   "summary": {
     "categorias": 18,
-    "produtos": 529,
-    "matched": 538,
+    "produtos": 528,
+    "matched": 537,
     "fallback": 0,
     "category_without_folder": 0
   },
@@ -357,15 +357,6 @@
       "status": "fixed-existing",
       "score": 999.0,
       "arquivo_sugerido": "castanha-de-caju-w1-t-s.jpg"
-    },
-    {
-      "categoria": "amendoim",
-      "id": "castanha-do-para-large-paratini",
-      "descricao": "CASTANHA DO PARA LARGE PARATINI",
-      "imagem": "/images/amendoim/PARA_LARGE.jpg",
-      "status": "fixed-existing",
-      "score": 999.0,
-      "arquivo_sugerido": "PARA_LARGE.jpg"
     },
     {
       "categoria": "amendoim",
