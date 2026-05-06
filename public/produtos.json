@@ -9641,10 +9641,10 @@
       ]
     },
     {
-      "id": "bala-geatina-cobrinha-citrica",
-      "descricao": "BALA GEATINA COBRINHA CITRICA",
+      "id": "bala-gelatina-cobrinha-citrica",
+      "descricao": "BALA GELATINA COBRINHA CITRICA",
       "categoria": "doces",
-      "imagem": "/arroz.jpeg",
+      "imagem": "/images/doces/GELATINA_COBRINHA.jpg",
       "variacoes": [
         {
           "codigo": "4446",
@@ -9657,8 +9657,8 @@
       ]
     },
     {
-      "id": "bala-geatina-diversas",
-      "descricao": "BALA GEATINA DIVERSAS",
+      "id": "bala-gelatina-diversas",
+      "descricao": "BALA GELATINA DIVERSAS",
       "categoria": "doces",
       "imagem": "/images/doces/GELATINAS_DIVERSAS.jpg",
       "variacoes": [
@@ -10429,6 +10429,118 @@
           "unidade": "FD",
           "precoVenda": 77.0,
           "precoDebitoCredito": 79.5
+        }
+      ]
+    },
+    {
+      "id": "doce-brigadeiro",
+      "descricao": "DOCE DE BRIGADEIRO",
+      "categoria": "doces",
+      "imagem": "/images/doces/doce-brigadeiro.jpg",
+      "variacoes": [
+        {
+          "codigo": "4624",
+          "pesoValor": 21.0,
+          "pesoUnidade": "X50G",
+          "unidade": "PC",
+          "precoVenda": 48.0,
+          "precoDebitoCredito": 49.5
+        }
+      ]
+    },
+    {
+      "id": "doce-de-leite-docura-fazenda",
+      "descricao": "DOCE DE LEITE DOÇURA FAZENDA",
+      "categoria": "doces",
+      "imagem": "/images/doces/doce-de-leite-docura-fazenda.jpg",
+      "variacoes": [
+        {
+          "codigo": "4627",
+          "pesoValor": 25.0,
+          "pesoUnidade": "X55G",
+          "unidade": "PC",
+          "precoVenda": 60.0,
+          "precoDebitoCredito": 62.0
+        }
+      ]
+    },
+    {
+      "id": "doce-geleia-de-mocoto",
+      "descricao": "DOCE GELEIA DE MOCOTO",
+      "categoria": "doces",
+      "imagem": "/images/doces/doce-geleia-de-mocoto.jpg",
+      "variacoes": [
+        {
+          "codigo": "4628",
+          "pesoValor": 15.0,
+          "pesoUnidade": "X37,5G",
+          "unidade": "PC",
+          "precoVenda": 28.0,
+          "precoDebitoCredito": 29.0
+        }
+      ]
+    },
+    {
+      "id": "doce-palha-italiana",
+      "descricao": "DOCE PALHA ITALIANA",
+      "categoria": "doces",
+      "imagem": "/images/doces/doce-palha-italiana.jpg",
+      "variacoes": [
+        {
+          "codigo": "4625",
+          "pesoValor": 21.0,
+          "pesoUnidade": "X50G",
+          "unidade": "PC",
+          "precoVenda": 48.0,
+          "precoDebitoCredito": 49.5
+        }
+      ]
+    },
+    {
+      "id": "doce-pingo-bel",
+      "descricao": "DOCE PINGO BEL",
+      "categoria": "doces",
+      "imagem": "/images/doces/doce-pingo-bel.jpg",
+      "variacoes": [
+        {
+          "codigo": "4626",
+          "pesoValor": 21.0,
+          "pesoUnidade": "X50G",
+          "unidade": "PC",
+          "precoVenda": 48.0,
+          "precoDebitoCredito": 49.5
+        }
+      ]
+    },
+    {
+      "id": "doce-de-leite-souvenir",
+      "descricao": "DOCE DE LEITE SOUVENIR",
+      "categoria": "doces",
+      "imagem": "/images/doces/doce-de-leite-souvenir.jpg",
+      "variacoes": [
+        {
+          "codigo": "4629",
+          "pesoValor": 12.0,
+          "pesoUnidade": "X400G",
+          "unidade": "CX",
+          "precoVenda": 195.0,
+          "precoDebitoCredito": 201.0
+        }
+      ]
+    },
+    {
+      "id": "doce-de-leite-c-cocosouvenir",
+      "descricao": "DOCE DE LEITE C/COCOSUVENIR",
+      "categoria": "doces",
+      "imagem": "/images/doces/doce-de-leite-c-cocosouvenir.jpg",
+      "variacoes": [
+        {
+          "codigo": "4630",
+          "pesoValor": 12.0,
+          "pesoUnidade": "X400g",
+          "unidade": "CX",
+          "precoVenda": 127.5,
+          "precoDebitoCredito": 131.0
         }
       ]
     },
