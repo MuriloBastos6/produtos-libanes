@@ -1,56 +1,68 @@
-import React, { useEffect, useState } from "react";
-import { Link, useLocation } from "react-router-dom";
-import Categorias from "./Categorias";
+import React from "react";
+import { Link, useNavigate } from "react-router-dom";
 import BuscaProdutos from "./BuscaProdutos";
 
+const categoriasOpcoes = [
+  { titulo: "Amendois & castanhas", slug: "amendoim" },
+  { titulo: "Arroz", slug: "arroz" },
+  { titulo: "Sucrilhos", slug: "sucrilhos" },
+  { titulo: "Chás", slug: "cha" },
+  { titulo: "Farinhas", slug: "farinhas" },
+  { titulo: "Grãos", slug: "graos" },
+  { titulo: "Panificação", slug: "panificacao" },
+  { titulo: "Especiarias", slug: "especiarias" },
+  { titulo: "Frutas", slug: "frutas" },
+  { titulo: "Sementes", slug: "sementes" },
+  { titulo: "Produtos naturais", slug: "produtosnaturais" },
+  { titulo: "Refrigerantes & sucos", slug: "refris" },
+  { titulo: "Óleo vegetal", slug: "oleo" },
+  { titulo: "Goma pronta", slug: "goma" },
+  { titulo: "Salgadinho & snacks", slug: "salgadinhos" },
+  { titulo: "Doces", slug: "doces" },
+  { titulo: "Potes", slug: "potes" },
+];
+
 function Navbar() {
-  const [menuAberto, setMenuAberto] = useState(false);
-  const location = useLocation();
+  const navigate = useNavigate();
 
-  const toggleMenu = () => {
-    setMenuAberto(!menuAberto);
+  const handleSelectCategoria = (e) => {
+    const slug = e.target.value;
+    if (slug) {
+      navigate(`/${slug}`);
+      e.target.value = "";
+    }
   };
-
-  const fecharMenu = () => {
-    setMenuAberto(false);
-  };
-
-  useEffect(() => {
-    setMenuAberto(false);
-  }, [location.pathname]);
 
   return (
     <nav className="nav-bar">
-      <div className="nav-titulo">
-        <h1>Lista de Produtos</h1>
-      </div>
       <div className="div-logo">
-        <Link to="/" onClick={fecharMenu}>
+        <Link to="/">
           <img src="libanes-logo-gimp.png" alt="Logo da libanês" />
         </Link>
       </div>
-      <button
-        className="btn-menu-hamburger"
-        onClick={toggleMenu}
-        aria-label="Menu"
-      >
-        <span></span>
-        <span></span>
-        <span></span>
-      </button>
+      <div className="nav-titulo">
+        <h2>Nossos Produtos</h2>
+        <p>Confira nossa lista de produtos, e clique para ver mais informações.</p>
+      </div>
       <div className="input-div">
         <BuscaProdutos />
       </div>
-
-      {/* Menu Hamburger */}
-
-      {/* Menu de Categorias */}
-      <div className={`menu-categorias ${menuAberto ? "aberto" : ""}`}>
-        <ul className="lista-categorias">
-          <li className="item-categoria">
-            <Categorias onSelectCategory={fecharMenu} />
-          </li>
-        </ul>
+      <div className="categorias-select-div">
+        <select
+          className="categorias-select"
+          onChange={handleSelectCategoria}
+          defaultValue=""
+          aria-label="Selecionar categoria"
+        >
+          <option value="" disabled>
+            Selecione uma categoria
+          </option>
+          {categoriasOpcoes.map((cat) => (
+            <option key={cat.slug} value={cat.slug}>
+              {cat.titulo}
+            </option>
+          ))}
+        </select>
       </div>
     </nav>
   );

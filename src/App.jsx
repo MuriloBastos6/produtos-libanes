@@ -20,8 +20,8 @@ function App() {
               path="/"
               element={
                 <div>
-                  <Main />
-                  <BlocoDados />
+                  {/*<Main />}
+                 {/* <BlocoDados /> */}
                   <Carrosel />
                   <ListaDeProdutos />
                 </div>
