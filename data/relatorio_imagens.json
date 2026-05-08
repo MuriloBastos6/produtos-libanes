@@ -2,9 +2,9 @@
   "summary": {
     "categorias": 18,
     "produtos": 535,
-    "matched": 542,
+    "matched": 544,
     "fallback": 0,
-    "category_without_folder": 2
+    "category_without_folder": 0
   },
   "details": [
     {
@@ -4034,19 +4034,19 @@
       "categoria": "doces",
       "id": "bala-gelatina-cobrinha-citrica",
       "descricao": "BALA GELATINA COBRINHA CITRICA",
-      "imagem": "/arroz.jpeg",
-      "status": "manual-default",
-      "score": 0.0,
-      "arquivo_sugerido": null
+      "imagem": "/images/doces/GELATINA_COBRINHA.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "GELATINA_COBRINHA.jpg"
     },
     {
       "categoria": "doces",
       "id": "bala-gelatina-diversas",
       "descricao": "BALA GELATINA DIVERSAS",
-      "imagem": "/arroz.jpeg",
-      "status": "manual-default",
-      "score": 0.0,
-      "arquivo_sugerido": null
+      "imagem": "/images/doces/GELATINAS_DIVERSAS.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "GELATINAS_DIVERSAS.jpg"
     },
     {
       "categoria": "doces",
@@ -4457,64 +4457,64 @@
       "categoria": "doces",
       "id": "doce-brigadeiro",
       "descricao": "DOCE DE BRIGADEIRO",
-      "imagem": "/arroz.jpeg",
+      "imagem": "/images/doces/doce-brigadeiro.jpg",
       "status": "fixed-existing",
       "score": 999.0,
-      "arquivo_sugerido": "arroz.jpeg"
+      "arquivo_sugerido": "doce-brigadeiro.jpg"
     },
     {
       "categoria": "doces",
       "id": "doce-de-leite-docura-fazenda",
       "descricao": "DOCE DE LEITE DOÇURA FAZENDA",
-      "imagem": "/arroz.jpeg",
+      "imagem": "/images/doces/doce-de-leite-docura-fazenda.jpg",
       "status": "fixed-existing",
       "score": 999.0,
-      "arquivo_sugerido": "arroz.jpeg"
+      "arquivo_sugerido": "doce-de-leite-docura-fazenda.jpg"
     },
     {
       "categoria": "doces",
       "id": "doce-geleia-de-mocoto",
       "descricao": "DOCE GELEIA DE MOCOTO",
-      "imagem": "/arroz.jpeg",
+      "imagem": "/images/doces/doce-geleia-de-mocoto.jpg",
       "status": "fixed-existing",
       "score": 999.0,
-      "arquivo_sugerido": "arroz.jpeg"
+      "arquivo_sugerido": "doce-geleia-de-mocoto.jpg"
     },
     {
       "categoria": "doces",
       "id": "doce-palha-italiana",
       "descricao": "DOCE PALHA ITALIANA",
-      "imagem": "/arroz.jpeg",
+      "imagem": "/images/doces/doce-palha-italiana.jpg",
       "status": "fixed-existing",
       "score": 999.0,
-      "arquivo_sugerido": "arroz.jpeg"
+      "arquivo_sugerido": "doce-palha-italiana.jpg"
     },
     {
       "categoria": "doces",
       "id": "doce-pingo-bel",
       "descricao": "DOCE PINGO BEL",
-      "imagem": "/arroz.jpeg",
+      "imagem": "/images/doces/doce-pingo-bel.jpg",
       "status": "fixed-existing",
       "score": 999.0,
-      "arquivo_sugerido": "arroz.jpeg"
+      "arquivo_sugerido": "doce-pingo-bel.jpg"
     },
     {
       "categoria": "doces",
       "id": "doce-de-leite-souvenir",
       "descricao": "DOCE DE LEITE SOUVENIR",
-      "imagem": "/arroz.jpeg",
+      "imagem": "/images/doces/doce-de-leite-souvenir.jpg",
       "status": "fixed-existing",
       "score": 999.0,
-      "arquivo_sugerido": "arroz.jpeg"
+      "arquivo_sugerido": "doce-de-leite-souvenir.jpg"
     },
     {
       "categoria": "doces",
       "id": "doce-de-leite-c-cocosouvenir",
       "descricao": "DOCE DE LEITE C/COCOSUVENIR",
-      "imagem": "/arroz.jpeg",
+      "imagem": "/images/doces/doce-de-leite-c-cocosouvenir.jpg",
       "status": "fixed-existing",
       "score": 999.0,
-      "arquivo_sugerido": "arroz.jpeg"
+      "arquivo_sugerido": "doce-de-leite-c-cocosouvenir.jpg"
     },
     {
       "categoria": "doces",
