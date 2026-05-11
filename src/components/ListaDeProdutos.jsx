@@ -118,7 +118,7 @@ function ListaDeProdutos() {
       </div>
 
       <div className="data-promocao">
-        <p>Valida até 01/05/2026</p>
+        <p>Valida até 15/05/2026</p>
       </div>
 
       {carregando ? (
