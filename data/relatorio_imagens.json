@@ -1,10 +1,10 @@
 {
   "summary": {
     "categorias": 18,
-    "produtos": 535,
+    "produtos": 536,
     "matched": 544,
     "fallback": 0,
-    "category_without_folder": 0
+    "category_without_folder": 1
   },
   "details": [
     {
@@ -4587,6 +4587,15 @@
       "status": "fixed-existing",
       "score": 999.0,
       "arquivo_sugerido": "GELEIA_DE_MOCOTO_COM_AMENDOIM.jpg"
+    },
+    {
+      "categoria": "doces",
+      "id": "gota-chocolate-branco",
+      "descricao": "GOTA CHOCOLATE BRANCO",
+      "imagem": "/arroz.jpeg",
+      "status": "manual-default",
+      "score": 0.0,
+      "arquivo_sugerido": null
     },
     {
       "categoria": "doces",
