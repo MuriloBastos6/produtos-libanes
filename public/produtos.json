@@ -6653,8 +6653,8 @@
           "pesoValor": 5.0,
           "pesoUnidade": "KG",
           "unidade": "CX",
-          "precoVenda": 160.0,
-          "precoDebitoCredito": 165.0
+          "precoVenda": 165.0,
+          "precoDebitoCredito": 170.0
         }
       ]
     },
