@@ -7217,24 +7217,24 @@
           "pesoValor": 10.0,
           "pesoUnidade": "X1KG",
           "unidade": "FD",
-          "precoVenda": 57.5,
-          "precoDebitoCredito": 59.0
+          "precoVenda": 62.0,
+          "precoDebitoCredito": 64.0
         },
         {
           "codigo": "3707",
           "pesoValor": 20.0,
           "pesoUnidade": "X500G",
           "unidade": "FD",
-          "precoVenda": 65.0,
-          "precoDebitoCredito": 67.0
+          "precoVenda": 69.5,
+          "precoDebitoCredito": 71.5
         },
         {
           "codigo": "4090",
           "pesoValor": 25.0,
           "pesoUnidade": "KG",
           "unidade": "FD",
-          "precoVenda": 141.5,
-          "precoDebitoCredito": 146.0
+          "precoVenda": 153.5,
+          "precoDebitoCredito": 158.0
         }
       ]
     },
@@ -7323,6 +7323,22 @@
           "unidade": "SC",
           "precoVenda": 118.0,
           "precoDebitoCredito": 121.5
+        }
+      ]
+    },
+    {
+      "id": "ameixa-em-po",
+      "descricao": "AMEIXA EM PÓ",
+      "categoria": "produtosnaturais",
+      "imagem": "/images/produtosnaturais/ameixa-em-po.jpg",
+      "variacoes": [
+        {
+          "codigo": "4639",
+          "pesoValor": 5.0,
+          "pesoUnidade": "KG",
+          "unidade": "PC",
+          "precoVenda": 295.0,
+          "precoDebitoCredito": 304.0
         }
       ]
     },
@@ -7444,6 +7460,14 @@
       "categoria": "produtosnaturais",
       "imagem": "/images/produtosnaturais/COLAGENO.jpg",
       "variacoes": [
+        {
+          "codigo": "3487",
+          "pesoValor": 3.0,
+          "pesoUnidade": "KG",
+          "unidade": "PC",
+          "precoVenda": 180.0,
+          "precoDebitoCredito": 185.5
+        },
         {
           "codigo": "4488",
           "pesoValor": 5.0,
@@ -7619,6 +7643,22 @@
           "unidade": "PC",
           "precoVenda": 39.0,
           "precoDebitoCredito": 40.0
+        }
+      ]
+    },
+    {
+      "id": "flocos-de-arroz",
+      "descricao": "FLOCOS DE ARROZ",
+      "categoria": "produtosnaturais",
+      "imagem": "/images/produtosnaturais/flocos-de-arroz.jpg",
+      "variacoes": [
+        {
+          "codigo": "4640",
+          "pesoValor": 6.0,
+          "pesoUnidade": "X1KG",
+          "unidade": "PC",
+          "precoVenda": 82.5,
+          "precoDebitoCredito": 85.0
         }
       ]
     },
@@ -8529,24 +8569,24 @@
           "pesoValor": 6.0,
           "pesoUnidade": "X1.300ML",
           "unidade": "FD",
-          "precoVenda": 78.0,
-          "precoDebitoCredito": 80.0
+          "precoVenda": 81.5,
+          "precoDebitoCredito": 84.0
         },
         {
           "codigo": "2638",
           "pesoValor": 9.0,
           "pesoUnidade": "X720ML",
           "unidade": "FD",
-          "precoVenda": 65.0,
-          "precoDebitoCredito": 67.0
+          "precoVenda": 70.0,
+          "precoDebitoCredito": 72.0
         },
         {
           "codigo": "2646",
           "pesoValor": 12.0,
           "pesoUnidade": "X300ML",
           "unidade": "FD",
-          "precoVenda": 50.5,
-          "precoDebitoCredito": 52.0
+          "precoVenda": 53.0,
+          "precoDebitoCredito": 54.5
         }
       ]
     },
@@ -10995,16 +11035,16 @@
           "pesoValor": 5.0,
           "pesoUnidade": "X600G",
           "unidade": "FD",
-          "precoVenda": 24.5,
-          "precoDebitoCredito": 25.0
+          "precoVenda": 25.5,
+          "precoDebitoCredito": 26.5
         },
         {
           "codigo": "2659",
           "pesoValor": 20.0,
           "pesoUnidade": "X140G",
           "unidade": "FD",
-          "precoVenda": 27.5,
-          "precoDebitoCredito": 28.5
+          "precoVenda": 30.0,
+          "precoDebitoCredito": 31.0
         }
       ]
     },
