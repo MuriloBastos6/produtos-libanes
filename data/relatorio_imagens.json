@@ -1,10 +1,10 @@
 {
   "summary": {
     "categorias": 18,
-    "produtos": 539,
-    "matched": 546,
+    "produtos": 540,
+    "matched": 548,
     "fallback": 0,
-    "category_without_folder": 2
+    "category_without_folder": 1
   },
   "details": [
     {
@@ -2999,10 +2999,10 @@
       "categoria": "produtosnaturais",
       "id": "ameixa-em-po",
       "descricao": "AMEIXA EM PÓ",
-      "imagem": "/arroz.jpeg",
-      "status": "manual-default",
-      "score": 0.0,
-      "arquivo_sugerido": null
+      "imagem": "/images/produtosnaturais/ameixa-em-po.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "ameixa-em-po.jpg"
     },
     {
       "categoria": "produtosnaturais",
@@ -3143,10 +3143,10 @@
       "categoria": "produtosnaturais",
       "id": "flocos-de-arroz",
       "descricao": "FLOCOS DE ARROZ",
-      "imagem": "/arroz.jpeg",
-      "status": "manual-default",
-      "score": 0.0,
-      "arquivo_sugerido": null
+      "imagem": "/images/produtosnaturais/flocos-de-arroz.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "flocos-de-arroz.jpg"
     },
     {
       "categoria": "produtosnaturais",
@@ -4740,6 +4740,15 @@
       "status": "fixed-existing",
       "score": 999.0,
       "arquivo_sugerido": "PACOCA_AMENDOIM.jpg"
+    },
+    {
+      "categoria": "doces",
+      "id": "pacoca-de-amendoim-espeto",
+      "descricao": "PAÇOCA DE AMENDOIM ESPETO",
+      "imagem": "/arroz.jpeg",
+      "status": "manual-default",
+      "score": 0.0,
+      "arquivo_sugerido": null
     },
     {
       "categoria": "doces",

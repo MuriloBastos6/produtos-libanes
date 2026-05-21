@@ -10763,8 +10763,8 @@
           "pesoValor": 2.5,
           "pesoUnidade": "KG",
           "unidade": "PT",
-          "precoVenda": 71.5,
-          "precoDebitoCredito": 73.5
+          "precoVenda": 75.5,
+          "precoDebitoCredito": 78.0
         }
       ]
     },
@@ -10973,6 +10973,22 @@
           "unidade": "PC",
           "precoVenda": 79.0,
           "precoDebitoCredito": 81.5
+        }
+      ]
+    },
+    {
+      "id": "pacoca-de-amendoim-espeto",
+      "descricao": "PAÇOCA DE AMENDOIM ESPETO",
+      "categoria": "doces",
+      "imagem": "/images/doces/pacoca-de-amendoim-espeto.jpg",
+      "variacoes": [
+        {
+          "codigo": "4582",
+          "pesoValor": 30.0,
+          "pesoUnidade": "X90G",
+          "unidade": "PC",
+          "precoVenda": 45.0,
+          "precoDebitoCredito": 46.5
         }
       ]
     },
