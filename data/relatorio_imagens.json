@@ -1,57 +1,12 @@
 {
   "summary": {
-    "categorias": 18,
-    "produtos": 541,
-    "matched": 549,
+    "categorias": 20,
+    "produtos": 538,
+    "matched": 545,
     "fallback": 0,
-    "category_without_folder": 0
+    "category_without_folder": 4
   },
   "details": [
-    {
-      "categoria": "promoçoes",
-      "id": "linhaa-dourada",
-      "descricao": "LINHAÇA DOURADA",
-      "imagem": "/images/produtosnaturais/LINHACA_DOURADA.jpg",
-      "status": "linked-by-id",
-      "score": 999.0,
-      "arquivo_sugerido": "LINHACA_DOURADA.jpg"
-    },
-    {
-      "categoria": "promoçoes",
-      "id": "aveia-em-flocos-laminada-n2",
-      "descricao": "AVEIA EM FLOCOS LAMINADA Nº2",
-      "imagem": "/images/produtosnaturais/AVEIA_EM_FLOCOS_LAMINADA.jpg",
-      "status": "linked-by-id",
-      "score": 999.0,
-      "arquivo_sugerido": "AVEIA_EM_FLOCOS_LAMINADA.jpg"
-    },
-    {
-      "categoria": "promoçoes",
-      "id": "aveia-em-flocos-n3",
-      "descricao": "AVEIA EM FLOCOS Nº3",
-      "imagem": "/images/produtosnaturais/AVEIA_EM_FLOCOS.jpg",
-      "status": "linked-by-id",
-      "score": 999.0,
-      "arquivo_sugerido": "AVEIA_EM_FLOCOS.jpg"
-    },
-    {
-      "categoria": "promoçoes",
-      "id": "farinha-de-aveia-n6",
-      "descricao": "FARINHA DE AVEIA Nº6",
-      "imagem": "/images/farinhas/farinha-de-aveia.jpg",
-      "status": "linked-by-id",
-      "score": 999.0,
-      "arquivo_sugerido": "farinha-de-aveia.jpg"
-    },
-    {
-      "categoria": "promoçoes",
-      "id": "farelo-de-aveia-n7",
-      "descricao": "FARELO DE AVEIA Nº7",
-      "imagem": "/images/produtosnaturais/FARELO_DE_AVEIA.jpg",
-      "status": "linked-by-id",
-      "score": 999.0,
-      "arquivo_sugerido": "FARELO_DE_AVEIA.jpg"
-    },
     {
       "categoria": "promoçoes",
       "id": "amendoim-hanner",
@@ -72,12 +27,84 @@
     },
     {
       "categoria": "promoçoes",
-      "id": "amido-de-milho-integrada",
-      "descricao": "AMIDO DE MILHO INTEGRADA",
-      "imagem": "/images/panificacao/AMIDO_DE_MILHO_INTEGRADA.jpg",
+      "id": "canjica-amarela",
+      "descricao": "CANJICA AMARELA",
+      "imagem": "/images/graos/CANJICA_AMARELA.jpg",
       "status": "linked-by-id",
       "score": 999.0,
-      "arquivo_sugerido": "AMIDO_DE_MILHO_INTEGRADA.jpg"
+      "arquivo_sugerido": "CANJICA_AMARELA.jpg"
+    },
+    {
+      "categoria": "promoçoes",
+      "id": "canjica-branca",
+      "descricao": "CANJICA BRANCA",
+      "imagem": "/images/graos/CANJICA_BRANCA.jpg",
+      "status": "linked-by-id",
+      "score": 999.0,
+      "arquivo_sugerido": "CANJICA_BRANCA.jpg"
+    },
+    {
+      "categoria": "promoçoes",
+      "id": "farinha-de-milho-amarela",
+      "descricao": "FARINHA DE MILHO AMARELA",
+      "imagem": "/images/farinhas/farinha-de-milho-amarela.jpg",
+      "status": "linked-by-id",
+      "score": 999.0,
+      "arquivo_sugerido": "farinha-de-milho-amarela.jpg"
+    },
+    {
+      "categoria": "promoçoes",
+      "id": "farinha-de-milho-branca",
+      "descricao": "FARINHA DE MILHO BRANCA",
+      "imagem": "/images/farinhas/farinha-de-milho-branca.jpg",
+      "status": "linked-by-id",
+      "score": 999.0,
+      "arquivo_sugerido": "farinha-de-milho-branca.jpg"
+    },
+    {
+      "categoria": "promoçoes",
+      "id": "fuba-italiano",
+      "descricao": "FUBA ITALIANO",
+      "imagem": "/images/panificacao/FUBA_ITALIANO.jpg",
+      "status": "linked-by-id",
+      "score": 999.0,
+      "arquivo_sugerido": "FUBA_ITALIANO.jpg"
+    },
+    {
+      "categoria": "promoçoes",
+      "id": "fuba-mimoso-integrada",
+      "descricao": "FUBA MIMOSO INTEGRADA",
+      "imagem": "/images/panificacao/FUBA_MIMOSO.jpg",
+      "status": "linked-by-id",
+      "score": 999.0,
+      "arquivo_sugerido": "FUBA_MIMOSO.jpg"
+    },
+    {
+      "categoria": "promoçoes",
+      "id": "canela-em-po",
+      "descricao": "CANELA EM PO",
+      "imagem": "/images/especiarias/CANELA_EM_PO.jpg",
+      "status": "linked-by-id",
+      "score": 999.0,
+      "arquivo_sugerido": "CANELA_EM_PO.jpg"
+    },
+    {
+      "categoria": "promoçoes",
+      "id": "canela-casca-6-cm",
+      "descricao": "CANELA CASCA 6 CM",
+      "imagem": "/images/especiarias/CANELA_CASCA_6CM.jpg",
+      "status": "linked-by-id",
+      "score": 999.0,
+      "arquivo_sugerido": "CANELA_CASCA_6CM.jpg"
+    },
+    {
+      "categoria": "promoçoes",
+      "id": "cravo-da-india",
+      "descricao": "CRAVO DA INDIA",
+      "imagem": "/images/especiarias/CRAVO_DA_INDIA.jpg",
+      "status": "linked-by-id",
+      "score": 999.0,
+      "arquivo_sugerido": "CRAVO_DA_INDIA.jpg"
     },
     {
       "categoria": "amendoim",
@@ -4095,231 +4122,6 @@
     },
     {
       "categoria": "doces",
-      "id": "bolacha-kibom",
-      "descricao": "BOLACHA  KIBOM",
-      "imagem": "/images/doces/BOLACHA_KIBOM.jpg",
-      "status": "fixed-existing",
-      "score": 999.0,
-      "arquivo_sugerido": "BOLACHA_KIBOM.jpg"
-    },
-    {
-      "categoria": "doces",
-      "id": "bolacha-areia",
-      "descricao": "BOLACHA AREIA",
-      "imagem": "/images/doces/BOLACHA_AREIA.jpg",
-      "status": "fixed-existing",
-      "score": 999.0,
-      "arquivo_sugerido": "BOLACHA_AREIA.jpg"
-    },
-    {
-      "categoria": "doces",
-      "id": "bolacha-bambole-n4",
-      "descricao": "BOLACHA BAMBOLE Nº4",
-      "imagem": "/images/doces/BOLACHA_BAMBOLE.jpg",
-      "status": "fixed-existing",
-      "score": 999.0,
-      "arquivo_sugerido": "BOLACHA_BAMBOLE.jpg"
-    },
-    {
-      "categoria": "doces",
-      "id": "bolacha-bambole-recheado-n5",
-      "descricao": "BOLACHA BAMBOLE RECHEADO Nº5",
-      "imagem": "/images/doces/BOLACHA_BAMBOLE_RECHEADO.jpg",
-      "status": "fixed-existing",
-      "score": 999.0,
-      "arquivo_sugerido": "BOLACHA_BAMBOLE_RECHEADO.jpg"
-    },
-    {
-      "categoria": "doces",
-      "id": "bolacha-beijinho-freira-n8",
-      "descricao": "BOLACHA BEIJINHO FREIRA Nº8",
-      "imagem": "/images/doces/BOLACHA_BEIJINHO_DE_FREIRA.jpg",
-      "status": "fixed-existing",
-      "score": 999.0,
-      "arquivo_sugerido": "BOLACHA_BEIJINHO_DE_FREIRA.jpg"
-    },
-    {
-      "categoria": "doces",
-      "id": "bolacha-belisco-n12",
-      "descricao": "BOLACHA BELISCÃO Nº12",
-      "imagem": "/images/doces/BOLACHA_BELISCAO.jpg",
-      "status": "fixed-existing",
-      "score": 999.0,
-      "arquivo_sugerido": "BOLACHA_BELISCAO.jpg"
-    },
-    {
-      "categoria": "doces",
-      "id": "bolacha-casadinha",
-      "descricao": "BOLACHA CASADINHA",
-      "imagem": "/images/doces/BOLACHA_CASADINHA.jpg",
-      "status": "fixed-existing",
-      "score": 999.0,
-      "arquivo_sugerido": "BOLACHA_CASADINHA.jpg"
-    },
-    {
-      "categoria": "doces",
-      "id": "bolacha-ganache-de-morango",
-      "descricao": "BOLACHA GANACHE DE MORANGO",
-      "imagem": "/images/doces/BOLACHA_GANACHE_DE_MORANGO.jpg",
-      "status": "fixed-existing",
-      "score": 999.0,
-      "arquivo_sugerido": "BOLACHA_GANACHE_DE_MORANGO.jpg"
-    },
-    {
-      "categoria": "doces",
-      "id": "bolacha-goiabinha-n6",
-      "descricao": "BOLACHA GOIABINHA Nº6",
-      "imagem": "/images/doces/BOLACHA_GOIABINHA.jpg",
-      "status": "fixed-existing",
-      "score": 999.0,
-      "arquivo_sugerido": "BOLACHA_GOIABINHA.jpg"
-    },
-    {
-      "categoria": "doces",
-      "id": "bolacha-juju-n10",
-      "descricao": "BOLACHA JUJU Nº10",
-      "imagem": "/images/doces/BOLACHA_JUJU.jpg",
-      "status": "fixed-existing",
-      "score": 999.0,
-      "arquivo_sugerido": "BOLACHA_JUJU.jpg"
-    },
-    {
-      "categoria": "doces",
-      "id": "bolacha-kishow-n15",
-      "descricao": "BOLACHA KISHOW Nº15",
-      "imagem": "/images/doces/BOLACHA_KISHOW.jpg",
-      "status": "fixed-existing",
-      "score": 999.0,
-      "arquivo_sugerido": "BOLACHA_KISHOW.jpg"
-    },
-    {
-      "categoria": "doces",
-      "id": "bolacha-lemon-show",
-      "descricao": "BOLACHA LEMON SHOW",
-      "imagem": "/images/doces/BOLACHA_LEMON_SHOW.jpg",
-      "status": "fixed-existing",
-      "score": 999.0,
-      "arquivo_sugerido": "BOLACHA_LEMON_SHOW.jpg"
-    },
-    {
-      "categoria": "doces",
-      "id": "bolacha-mini-waffer",
-      "descricao": "BOLACHA MINI WAFFER",
-      "imagem": "/images/doces/BOLACHA_WAFER.jpg",
-      "status": "fixed-existing",
-      "score": 999.0,
-      "arquivo_sugerido": "BOLACHA_WAFER.jpg"
-    },
-    {
-      "categoria": "doces",
-      "id": "bolacha-palito-c-chocolate-n9",
-      "descricao": "BOLACHA PALITO  C/ CHOCOLATE Nº9",
-      "imagem": "/images/doces/bolacha-palito-c-chocolate.jpg",
-      "status": "fixed-existing",
-      "score": 999.0,
-      "arquivo_sugerido": "bolacha-palito-c-chocolate.jpg"
-    },
-    {
-      "categoria": "doces",
-      "id": "bolacha-palmier-canela-n14",
-      "descricao": "BOLACHA PALMIER CANELA Nº14",
-      "imagem": "/images/doces/BOLACHA_PALMIER_CANELA.jpg",
-      "status": "fixed-existing",
-      "score": 999.0,
-      "arquivo_sugerido": "BOLACHA_PALMIER_CANELA.jpg"
-    },
-    {
-      "categoria": "doces",
-      "id": "bolacha-palmier-n3",
-      "descricao": "BOLACHA PALMIER Nº3",
-      "imagem": "/images/doces/BOLACHA_PALMIER.jpg",
-      "status": "fixed-existing",
-      "score": 999.0,
-      "arquivo_sugerido": "BOLACHA_PALMIER.jpg"
-    },
-    {
-      "categoria": "doces",
-      "id": "bolacha-po-de-mel",
-      "descricao": "BOLACHA PÃO DE MEL",
-      "imagem": "/images/doces/BOLACHA_PAO_DE_MEL.jpg",
-      "status": "fixed-existing",
-      "score": 999.0,
-      "arquivo_sugerido": "BOLACHA_PAO_DE_MEL.jpg"
-    },
-    {
-      "categoria": "doces",
-      "id": "bolacha-pistache",
-      "descricao": "BOLACHA PISTACHE",
-      "imagem": "/images/doces/BOLACHA_COM_PISTACHE.jpg",
-      "status": "fixed-existing",
-      "score": 999.0,
-      "arquivo_sugerido": "BOLACHA_COM_PISTACHE.jpg"
-    },
-    {
-      "categoria": "doces",
-      "id": "bolacha-rosca-coco-n1",
-      "descricao": "BOLACHA ROSCA COCO Nº1",
-      "imagem": "/images/doces/BOLACHA_ROSCA_DE_COCO.jpg",
-      "status": "fixed-existing",
-      "score": 999.0,
-      "arquivo_sugerido": "BOLACHA_ROSCA_DE_COCO.jpg"
-    },
-    {
-      "categoria": "doces",
-      "id": "bolacha-rosca-flocos-n2",
-      "descricao": "BOLACHA ROSCA FLOCOS Nº2",
-      "imagem": "/images/doces/BOLACHA_ROSCA_DE_COCO_FLOCOS.jpg",
-      "status": "fixed-existing",
-      "score": 999.0,
-      "arquivo_sugerido": "BOLACHA_ROSCA_DE_COCO_FLOCOS.jpg"
-    },
-    {
-      "categoria": "doces",
-      "id": "bolacha-rosca-nata-n3",
-      "descricao": "BOLACHA ROSCA NATA Nº3",
-      "imagem": "/images/doces/BOLACHA_ROSCA_DE_NATA.jpg",
-      "status": "fixed-existing",
-      "score": 999.0,
-      "arquivo_sugerido": "BOLACHA_ROSCA_DE_NATA.jpg"
-    },
-    {
-      "categoria": "doces",
-      "id": "bolacha-seduo",
-      "descricao": "BOLACHA SEDUÇÃO",
-      "imagem": "/images/doces/BOLACHA_SEDUCAO.jpg",
-      "status": "fixed-existing",
-      "score": 999.0,
-      "arquivo_sugerido": "BOLACHA_SEDUCAO.jpg"
-    },
-    {
-      "categoria": "doces",
-      "id": "bolacha-sonho-de-valsa",
-      "descricao": "BOLACHA SONHO DE VALSA",
-      "imagem": "/images/doces/BOLACHA_SONHO_DE_VALSA.jpg",
-      "status": "fixed-existing",
-      "score": 999.0,
-      "arquivo_sugerido": "BOLACHA_SONHO_DE_VALSA.jpg"
-    },
-    {
-      "categoria": "doces",
-      "id": "bolacha-torcidinha-de-canela",
-      "descricao": "BOLACHA TORCIDINHA DE CANELA",
-      "imagem": "/images/doces/BOLACHA_TORCIDINHA_CANELA.jpg",
-      "status": "fixed-existing",
-      "score": 999.0,
-      "arquivo_sugerido": "BOLACHA_TORCIDINHA_CANELA.jpg"
-    },
-    {
-      "categoria": "doces",
-      "id": "bolacha-uga-uga-n7",
-      "descricao": "BOLACHA UGA UGA Nº7",
-      "imagem": "/images/doces/BOLACHA_UGA_UGA.jpg",
-      "status": "fixed-existing",
-      "score": 999.0,
-      "arquivo_sugerido": "BOLACHA_UGA_UGA.jpg"
-    },
-    {
-      "categoria": "doces",
       "id": "crocante-chocolate",
       "descricao": "CROCANTE CHOCOLATE",
       "imagem": "/images/doces/CROCANTE_CHOCOLATE.jpg",
@@ -4803,6 +4605,177 @@
       "status": "fixed-existing",
       "score": 999.0,
       "arquivo_sugerido": "RAPADURA_DE_ABOBORA.jpg"
+    },
+    {
+      "categoria": "bolachas",
+      "id": "bolacha-kibom",
+      "descricao": "BOLACHA  KIBOM",
+      "imagem": "/images/bolachas/BOLACHA_KIBOM.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "BOLACHA_KIBOM.jpg"
+    },
+    {
+      "categoria": "bolachas",
+      "id": "bolacha-areia",
+      "descricao": "BOLACHA AREIA",
+      "imagem": "/images/bolachas/BOLACHA_AREIA.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "BOLACHA_AREIA.jpg"
+    },
+    {
+      "categoria": "bolachas",
+      "id": "bolacha-bambole-n4",
+      "descricao": "BOLACHA BAMBOLE Nº4",
+      "imagem": "/images/bolachas/BOLACHA_BAMBOLE.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "BOLACHA_BAMBOLE.jpg"
+    },
+    {
+      "categoria": "bolachas",
+      "id": "bolacha-bambole-recheado-n5",
+      "descricao": "BOLACHA BAMBOLE RECHEADO Nº5",
+      "imagem": "/images/bolachas/BOLACHA_BAMBOLE_RECHEADO.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "BOLACHA_BAMBOLE_RECHEADO.jpg"
+    },
+    {
+      "categoria": "bolachas",
+      "id": "bolacha-beijinho-freira-n8",
+      "descricao": "BOLACHA BEIJINHO FREIRA Nº8",
+      "imagem": "/images/bolachas/BOLACHA_BEIJINHO_DE_FREIRA.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "BOLACHA_BEIJINHO_DE_FREIRA.jpg"
+    },
+    {
+      "categoria": "bolachas",
+      "id": "bolacha-belisco-n12",
+      "descricao": "BOLACHA BELISCÃO Nº12",
+      "imagem": "/images/bolachas/BOLACHA_BELISCAO.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "BOLACHA_BELISCAO.jpg"
+    },
+    {
+      "categoria": "bolachas",
+      "id": "bolacha-ganache-de-morango",
+      "descricao": "BOLACHA GANACHE DE MORANGO",
+      "imagem": "/images/bolachas/BOLACHA_GANACHE_DE_MORANGO.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "BOLACHA_GANACHE_DE_MORANGO.jpg"
+    },
+    {
+      "categoria": "bolachas",
+      "id": "bolacha-goiabinha-n6",
+      "descricao": "BOLACHA GOIABINHA Nº6",
+      "imagem": "/images/bolachas/BOLACHA_GOIABINHA.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "BOLACHA_GOIABINHA.jpg"
+    },
+    {
+      "categoria": "bolachas",
+      "id": "bolacha-juju-n10",
+      "descricao": "BOLACHA JUJU Nº10",
+      "imagem": "/images/bolachas/BOLACHA_JUJU.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "BOLACHA_JUJU.jpg"
+    },
+    {
+      "categoria": "bolachas",
+      "id": "bolacha-kishow-n15",
+      "descricao": "BOLACHA KISHOW Nº15",
+      "imagem": "/images/bolachas/BOLACHA_KISHOW.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "BOLACHA_KISHOW.jpg"
+    },
+    {
+      "categoria": "bolachas",
+      "id": "bolacha-lemon-show",
+      "descricao": "BOLACHA LEMON SHOW",
+      "imagem": "/images/bolachas/BOLACHA_LEMON_SHOW.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "BOLACHA_LEMON_SHOW.jpg"
+    },
+    {
+      "categoria": "bolachas",
+      "id": "bolacha-palito-c-chocolate-n9",
+      "descricao": "BOLACHA PALITO  C/ CHOCOLATE Nº9",
+      "imagem": "/images/bolachas/bolacha-palito-c-chocolate.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "bolacha-palito-c-chocolate.jpg"
+    },
+    {
+      "categoria": "bolachas",
+      "id": "bolacha-palmier-canela-n14",
+      "descricao": "BOLACHA PALMIER CANELA Nº14",
+      "imagem": "/images/bolachas/BOLACHA_PALMIER_CANELA.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "BOLACHA_PALMIER_CANELA.jpg"
+    },
+    {
+      "categoria": "bolachas",
+      "id": "bolacha-pistache",
+      "descricao": "BOLACHA PISTACHE",
+      "imagem": "/images/bolachas/BOLACHA_COM_PISTACHE.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "BOLACHA_COM_PISTACHE.jpg"
+    },
+    {
+      "categoria": "bolachas",
+      "id": "bolacha-rosca-nata-n3",
+      "descricao": "BOLACHA ROSCA NATA Nº3",
+      "imagem": "/images/bolachas/BOLACHA_ROSCA_DE_NATA.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "BOLACHA_ROSCA_DE_NATA.jpg"
+    },
+    {
+      "categoria": "bolachas",
+      "id": "bolacha-seduo",
+      "descricao": "BOLACHA SEDUÇÃO",
+      "imagem": "/images/bolachas/BOLACHA_SEDUCAO.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "BOLACHA_SEDUCAO.jpg"
+    },
+    {
+      "categoria": "bolachas",
+      "id": "bolacha-sonho-de-valsa",
+      "descricao": "BOLACHA SONHO DE VALSA",
+      "imagem": "/images/bolachas/BOLACHA_SONHO_DE_VALSA.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "BOLACHA_SONHO_DE_VALSA.jpg"
+    },
+    {
+      "categoria": "bolachas",
+      "id": "bolacha-torcidinha-de-canela",
+      "descricao": "BOLACHA TORCIDINHA DE CANELA",
+      "imagem": "/images/bolachas/BOLACHA_TORCIDINHA_CANELA.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "BOLACHA_TORCIDINHA_CANELA.jpg"
+    },
+    {
+      "categoria": "bolachas",
+      "id": "bolacha-uga-uga-n7",
+      "descricao": "BOLACHA UGA UGA Nº7",
+      "imagem": "/images/bolachas/BOLACHA_UGA_UGA.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "BOLACHA_UGA_UGA.jpg"
     },
     {
       "categoria": "potes",

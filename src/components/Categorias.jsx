@@ -83,6 +83,11 @@ function Categorias({ onSelectCategory }) {
       capa: "/doces.jpeg",
       slug: "doces",
     },
+        {
+      titulo: "Bolachas Mineiras",
+      capa: "/bolachas.jpeg",
+      slug: "bolachas",
+    },
     {
       titulo: "Potes",
       capa: "/pote.jpeg",

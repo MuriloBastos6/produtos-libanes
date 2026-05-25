@@ -7,104 +7,66 @@ function Carrosel() {
     {
       slug: "amendoim",
       image: "/amendoim.jpeg",
-      title: "Amendoins & Castanhas",
-      subtitle: "Clique para ver todos os produtos",
-    },
-    {
-      slug: "arroz",
-      image: "/arroz.jpeg",
-      title: "Arroz",
-      subtitle: "Clique para ver todos os produtos",
-    },
-    {
-      slug: "sucrilhos",
-      image: "/sucrilhos.jpeg",
-      title: "Cereais",
-      subtitle: "Clique para ver todos os produtos",
-    },
-    {
-      slug: "cha",
-      image: "/cha.jpeg",
-      title: "Chás",
-      subtitle: "Clique para ver todos os produtos",
-    },
-    {
-      slug: "farinhas",
-      image: "/farinhas.jpeg",
-      title: "Farinaceos",
-      subtitle: "Clique para ver todos os produtos",
+      tag: "Paçoca & pé-de-moleque",
+      title: "Amendoim do Arraiá",
+      subtitle: "A base da paçoca e do pé-de-moleque caseiro",
+      icon: "🥜",
     },
     {
       slug: "graos",
       image: "/graos.jpeg",
-      title: "Grãos",
-      subtitle: "Clique para ver todos os produtos",
+      tag: "Canjica & milho",
+      title: "Grãos da Festa Junina",
+      subtitle: "Canjica branca, amarela e milho pra pipoca",
+      icon: "🌽",
     },
     {
-      slug: "panificacao",
-      image: "/panificacoes.jpeg",
-      title: "Panificação",
-      subtitle: "Clique para ver todos os produtos",
-    },
-    {
-      slug: "especiarias",
-      image: "/especiarias.jpeg",
-      title: "Especiarias",
-      subtitle: "Clique para ver todos os produtos",
-    },
-    {
-      slug: "frutas",
-      image: "/frutas.jpeg",
-      title: "Frutas",
-      subtitle: "Clique para ver todos os produtos",
-    },
-    {
-      slug: "sementes",
-      image: "/sementes.jpeg",
-      title: "Sementes",
-      subtitle: "Clique para ver todos os produtos",
-    },
-    {
-      slug: "produtosnaturais",
-      image: "/produtosnaturais.jpeg",
-      title: "Produtos naturais",
-      subtitle: "Clique para ver todos os produtos",
-    },
-    {
-      slug: "refris",
-      image: "/refris.jpeg",
-      title: "Refrigerantes & Sucos",
-      subtitle: "Clique para ver todos os produtos",
-    },
-    {
-      slug: "oleo",
-      image: "/oleo.jpeg",
-      title: "Óleos vegetais",
-      subtitle: "Clique para ver todos os produtos",
-    },
-    {
-      slug: "goma",
-      image: "/Goma.png",
-      title: "Gomas pronta",
-      subtitle: "Clique para ver todos os produtos",
-    },
-    {
-      slug: "salgadinhos",
-      image: "/salgadinho.jpeg",
-      title: "Salgadinhos & snacks",
-      subtitle: "Clique para ver todos os produtos",
+      slug: "farinhas",
+      image: "/farinhas.jpeg",
+      tag: "Bolo de milho & cuscuz",
+      title: "Farinhas Tradicionais",
+      subtitle: "Fubá, farinha de milho e mandioca pra suas receitas",
+      icon: "🌾",
     },
     {
       slug: "doces",
       image: "/doces.jpeg",
-      title: "Doces",
-      subtitle: "Clique para ver todos os produtos",
+      tag: "Quentão sem álcool & doces",
+      title: "Doces de São João",
+      subtitle: "Doce de leite, goiabada e mais delícias do arraiá",
+      icon: "🍬",
     },
     {
-      slug: "potes",
-      image: "/pote.jpeg",
-      title: "Potes",
-      subtitle: "Clique para ver todos os produtos",
+      slug: "especiarias",
+      image: "/especiarias.jpeg",
+      tag: "Canela, cravo & gengibre",
+      title: "Temperos do Quentão",
+      subtitle: "Especiarias para um quentão de verdade",
+      icon: "🌶️",
+    },
+    {
+      slug: "sementes",
+      image: "/sementes.jpeg",
+      tag: "Pipoca premium",
+      title: "Sementes & Pipoca",
+      subtitle: "Milho de pipoca selecionado para a fogueira",
+      icon: "🍿",
+    },
+    {
+      slug: "panificacao",
+      image: "/panificacoes.jpeg",
+      tag: "Bolo de fubá & broa",
+      title: "Panificação Junina",
+      subtitle: "Tudo para os bolos e broas da festa",
+      icon: "🍞",
+    },
+    {
+      slug: "bolachas",
+      image: "/bolachas.jpeg",
+      tag: "Direto de Minas",
+      title: "Bolachas Mineiras",
+      subtitle: "Biscoitos artesanais para acompanhar o café da fogueira",
+      icon: "🍪",
     },
   ];
 
@@ -181,7 +143,19 @@ function Carrosel() {
   }, []);
 
   return (
-    <section className="carrossel" aria-label="Carrossel de ofertas">
+    <section
+      className="carrossel carrossel-junino"
+      aria-label="Vitrine Festa Junina"
+    >
+      <div className="carrossel-bandeirinhas" aria-hidden="true">
+        {Array.from({ length: 22 }).map((_, indice) => (
+          <span
+            key={indice}
+            className={`carrossel-bandeirinha cor-${indice % 4}`}
+          />
+        ))}
+      </div>
+
       <div
         className="carrossel-track"
         style={{ transform: `translateX(-${currentIndex * 100}%)` }}
@@ -200,11 +174,37 @@ function Carrosel() {
                 className="carrossel-img"
               />
               <div className="carrossel-overlay">
+                <span className="carrossel-tag">
+                  <span className="carrossel-tag-icone" aria-hidden="true">
+                    {slide.icon}
+                  </span>
+                  {slide.tag}
+                </span>
                 <h2>{slide.title}</h2>
                 <p>{slide.subtitle}</p>
+                <span className="carrossel-cta">
+                  Ver produtos
+                  <span aria-hidden="true"> →</span>
+                </span>
               </div>
             </Link>
           </article>
+        ))}
+      </div>
+
+      <div className="carrossel-indicadores" role="tablist">
+        {slides.map((slide, indice) => (
+          <button
+            key={slide.slug}
+            type="button"
+            role="tab"
+            aria-label={`Ir para ${slide.title}`}
+            aria-selected={indice === currentIndex}
+            className={`carrossel-indicador${
+              indice === currentIndex ? " ativo" : ""
+            }`}
+            onClick={() => setCurrentIndex(indice)}
+          />
         ))}
       </div>
 

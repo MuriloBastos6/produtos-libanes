@@ -1,86 +1,6 @@
 {
   "promoçoes": [
     {
-      "id": "linhaa-dourada",
-      "descricao": "LINHAÇA DOURADA",
-      "categoria": "promoçoes",
-      "imagem": "/images/produtosnaturais/LINHACA_DOURADA.jpg",
-      "variacoes": [
-        {
-          "codigo": "195",
-          "pesoValor": 25.0,
-          "pesoUnidade": "KG",
-          "unidade": "SC",
-          "precoVenda": 245.0,
-          "precoDebitoCredito": 262.5
-        }
-      ]
-    },
-    {
-      "id": "aveia-em-flocos-laminada-n2",
-      "descricao": "AVEIA EM FLOCOS LAMINADA Nº2",
-      "categoria": "promoçoes",
-      "imagem": "/images/produtosnaturais/AVEIA_EM_FLOCOS_LAMINADA.jpg",
-      "variacoes": [
-        {
-          "codigo": "569",
-          "pesoValor": 25.0,
-          "pesoUnidade": "KG",
-          "unidade": "SC",
-          "precoVenda": 117.0,
-          "precoDebitoCredito": 121.5
-        }
-      ]
-    },
-    {
-      "id": "aveia-em-flocos-n3",
-      "descricao": "AVEIA EM FLOCOS Nº3",
-      "categoria": "promoçoes",
-      "imagem": "/images/produtosnaturais/AVEIA_EM_FLOCOS.jpg",
-      "variacoes": [
-        {
-          "codigo": "282",
-          "pesoValor": 25.0,
-          "pesoUnidade": "KG",
-          "unidade": "SC",
-          "precoVenda": 117.0,
-          "precoDebitoCredito": 121.5
-        }
-      ]
-    },
-    {
-      "id": "farinha-de-aveia-n6",
-      "descricao": "FARINHA DE AVEIA Nº6",
-      "categoria": "promoçoes",
-      "imagem": "/images/farinhas/farinha-de-aveia.jpg",
-      "variacoes": [
-        {
-          "codigo": "564",
-          "pesoValor": 25.0,
-          "pesoUnidade": "KG",
-          "unidade": "SC",
-          "precoVenda": 117.0,
-          "precoDebitoCredito": 121.5
-        }
-      ]
-    },
-    {
-      "id": "farelo-de-aveia-n7",
-      "descricao": "FARELO DE AVEIA Nº7",
-      "categoria": "promoçoes",
-      "imagem": "/images/produtosnaturais/FARELO_DE_AVEIA.jpg",
-      "variacoes": [
-        {
-          "codigo": "565",
-          "pesoValor": 25.0,
-          "pesoUnidade": "KG",
-          "unidade": "SC",
-          "precoVenda": 121.0,
-          "precoDebitoCredito": 129.0
-        }
-      ]
-    },
-    {
       "id": "amendoim-hanner",
       "descricao": "AMENDOIM HANNER",
       "categoria": "promoçoes",
@@ -113,22 +33,151 @@
       ]
     },
     {
-      "id": "amido-de-milho-integrada",
-      "descricao": "AMIDO DE MILHO INTEGRADA",
+      "id": "canjica-amarela",
+      "descricao": "CANJICA AMARELA",
       "categoria": "promoçoes",
-      "imagem": "/images/panificacao/AMIDO_DE_MILHO_INTEGRADA.jpg",
+      "imagem": "/images/graos/CANJICA_AMARELA.jpg",
       "variacoes": [
         {
-          "codigo": "8",
+          "codigo": "11",
+          "pesoValor": 30.0,
+          "pesoUnidade": "KG",
+          "unidade": "SC",
+          "precoVenda": 78.5,
+          "precoDebitoCredito": 81.0
+        }
+      ]
+    },
+    {
+      "id": "canjica-branca",
+      "descricao": "CANJICA BRANCA",
+      "categoria": "promoçoes",
+      "imagem": "/images/graos/CANJICA_BRANCA.jpg",
+      "variacoes": [
+        {
+          "codigo": "3472",
+          "pesoValor": 30.0,
+          "pesoUnidade": "KG",
+          "unidade": "SC",
+          "precoVenda": 112.5,
+          "precoDebitoCredito": 116.0
+        }
+      ]
+    },
+    {
+      "id": "farinha-de-milho-amarela",
+      "descricao": "FARINHA DE MILHO AMARELA",
+      "categoria": "promoçoes",
+      "imagem": "/images/farinhas/farinha-de-milho-amarela.jpg",
+      "variacoes": [
+        {
+          "codigo": "19",
+          "pesoValor": 20.0,
+          "pesoUnidade": "KG",
+          "unidade": "SC",
+          "precoVenda": 168.0,
+          "precoDebitoCredito": 173.0
+        }
+      ]
+    },
+    {
+      "id": "farinha-de-milho-branca",
+      "descricao": "FARINHA DE MILHO BRANCA",
+      "categoria": "promoçoes",
+      "imagem": "/images/farinhas/farinha-de-milho-branca.jpg",
+      "variacoes": [
+        {
+          "codigo": "221",
+          "pesoValor": 20.0,
+          "pesoUnidade": "KG",
+          "unidade": "SC",
+          "precoVenda": 300.0,
+          "precoDebitoCredito": 309.0
+        }
+      ]
+    },
+    {
+      "id": "fuba-italiano",
+      "descricao": "FUBA ITALIANO",
+      "categoria": "promoçoes",
+      "imagem": "/images/panificacao/FUBA_ITALIANO.jpg",
+      "variacoes": [
+        {
+          "codigo": "460",
           "pesoValor": 25.0,
           "pesoUnidade": "KG",
           "unidade": "SC",
-          "precoVenda": 88.0,
-          "precoDebitoCredito": 94.0
+          "precoVenda": 78.0,
+          "precoDebitoCredito": 80.5
+        }
+      ]
+    },
+    {
+      "id": "fuba-mimoso-integrada",
+      "descricao": "FUBA MIMOSO INTEGRADA",
+      "categoria": "promoçoes",
+      "imagem": "/images/panificacao/FUBA_MIMOSO.jpg",
+      "variacoes": [
+        {
+          "codigo": "128",
+          "pesoValor": 25.0,
+          "pesoUnidade": "KG",
+          "unidade": "SC",
+          "precoVenda": 67.0,
+          "precoDebitoCredito": 69.0
+        }
+      ]
+    },
+    {
+      "id": "canela-em-po",
+      "descricao": "CANELA EM PO",
+      "categoria": "promoçoes",
+      "imagem": "/images/especiarias/CANELA_EM_PO.jpg",
+      "variacoes": [
+        {
+          "codigo": "2571",
+          "pesoValor": 10.0,
+          "pesoUnidade": "KG",
+          "unidade": "SC",
+          "precoVenda": 185.0,
+          "precoDebitoCredito": 190.5
+        }
+      ]
+    },
+    {
+      "id": "canela-casca-6-cm",
+      "descricao": "CANELA CASCA 6 CM",
+      "categoria": "promoçoes",
+      "imagem": "/images/especiarias/CANELA_CASCA_6CM.jpg",
+      "variacoes": [
+        {
+          "codigo": "2522",
+          "pesoValor": 1.0,
+          "pesoUnidade": "KG",
+          "unidade": "PC",
+          "precoVenda": 39.0,
+          "precoDebitoCredito": 40.0
+        }
+      ]
+    },
+    {
+      "id": "cravo-da-india",
+      "descricao": "CRAVO DA INDIA",
+      "categoria": "promoçoes",
+      "imagem": "/images/especiarias/CRAVO_DA_INDIA.jpg",
+      "variacoes": [
+        {
+          "codigo": "2615",
+          "pesoValor": 5.0,
+          "pesoUnidade": "KG",
+          "unidade": "PC",
+          "precoVenda": 290.0,
+          "precoDebitoCredito": 299.0
         }
       ]
     }
   ],
+  "novidades": [],
   "amendoim": [
     {
       "id": "amendoa-w4-ts",
@@ -3975,16 +4024,16 @@
           "pesoValor": 5.0,
           "pesoUnidade": "KG",
           "unidade": "PC",
-          "precoVenda": 45.0,
-          "precoDebitoCredito": 46.5
+          "precoVenda": 57.0,
+          "precoDebitoCredito": 59.0
         },
         {
           "codigo": "3446",
           "pesoValor": 25.0,
           "pesoUnidade": "KG",
           "unidade": "SC",
-          "precoVenda": 212.5,
-          "precoDebitoCredito": 219.0
+          "precoVenda": 275.0,
+          "precoDebitoCredito": 283.5
         }
       ]
     },
@@ -6637,8 +6686,8 @@
           "pesoValor": 5.0,
           "pesoUnidade": "KG",
           "unidade": "CX",
-          "precoVenda": 165.0,
-          "precoDebitoCredito": 170.0
+          "precoVenda": 175.0,
+          "precoDebitoCredito": 180.0
         }
       ]
     },
@@ -9769,406 +9818,6 @@
       ]
     },
     {
-      "id": "bolacha-kibom",
-      "descricao": "BOLACHA  KIBOM",
-      "categoria": "doces",
-      "imagem": "/images/doces/BOLACHA_KIBOM.jpg",
-      "variacoes": [
-        {
-          "codigo": "4408",
-          "pesoValor": 2.5,
-          "pesoUnidade": "KG",
-          "unidade": "PC",
-          "precoVenda": 92.0,
-          "precoDebitoCredito": 95.0
-        }
-      ]
-    },
-    {
-      "id": "bolacha-areia",
-      "descricao": "BOLACHA AREIA",
-      "categoria": "doces",
-      "imagem": "/images/doces/BOLACHA_AREIA.jpg",
-      "variacoes": [
-        {
-          "codigo": "4341",
-          "pesoValor": 2.5,
-          "pesoUnidade": "KG",
-          "unidade": "PC",
-          "precoVenda": 72.0,
-          "precoDebitoCredito": 74.0
-        }
-      ]
-    },
-    {
-      "id": "bolacha-bambole-n4",
-      "descricao": "BOLACHA BAMBOLE Nº4",
-      "categoria": "doces",
-      "imagem": "/images/doces/BOLACHA_BAMBOLE.jpg",
-      "variacoes": [
-        {
-          "codigo": "4265",
-          "pesoValor": 2.0,
-          "pesoUnidade": "KG",
-          "unidade": "PC",
-          "precoVenda": 65.0,
-          "precoDebitoCredito": 67.0
-        }
-      ]
-    },
-    {
-      "id": "bolacha-bambole-recheado-n5",
-      "descricao": "BOLACHA BAMBOLE RECHEADO Nº5",
-      "categoria": "doces",
-      "imagem": "/images/doces/BOLACHA_BAMBOLE_RECHEADO.jpg",
-      "variacoes": [
-        {
-          "codigo": "4266",
-          "pesoValor": 2.5,
-          "pesoUnidade": "KG",
-          "unidade": "PC",
-          "precoVenda": 81.5,
-          "precoDebitoCredito": 84.0
-        }
-      ]
-    },
-    {
-      "id": "bolacha-beijinho-freira-n8",
-      "descricao": "BOLACHA BEIJINHO FREIRA Nº8",
-      "categoria": "doces",
-      "imagem": "/images/doces/BOLACHA_BEIJINHO_DE_FREIRA.jpg",
-      "variacoes": [
-        {
-          "codigo": "4269",
-          "pesoValor": 2.5,
-          "pesoUnidade": "KG",
-          "unidade": "PC",
-          "precoVenda": 87.5,
-          "precoDebitoCredito": 90.5
-        }
-      ]
-    },
-    {
-      "id": "bolacha-belisco-n12",
-      "descricao": "BOLACHA BELISCÃO Nº12",
-      "categoria": "doces",
-      "imagem": "/images/doces/BOLACHA_BELISCAO.jpg",
-      "variacoes": [
-        {
-          "codigo": "4273",
-          "pesoValor": 2.5,
-          "pesoUnidade": "KG",
-          "unidade": "PC",
-          "precoVenda": 94.0,
-          "precoDebitoCredito": 97.0
-        }
-      ]
-    },
-    {
-      "id": "bolacha-casadinha",
-      "descricao": "BOLACHA CASADINHA",
-      "categoria": "doces",
-      "imagem": "/images/doces/BOLACHA_CASADINHA.jpg",
-      "variacoes": [
-        {
-          "codigo": "4405",
-          "pesoValor": 2.5,
-          "pesoUnidade": "KG",
-          "unidade": "PC",
-          "precoVenda": 78.0,
-          "precoDebitoCredito": 80.5
-        }
-      ]
-    },
-    {
-      "id": "bolacha-ganache-de-morango",
-      "descricao": "BOLACHA GANACHE DE MORANGO",
-      "categoria": "doces",
-      "imagem": "/images/doces/BOLACHA_GANACHE_DE_MORANGO.jpg",
-      "variacoes": [
-        {
-          "codigo": "4406",
-          "pesoValor": 2.5,
-          "pesoUnidade": "KG",
-          "unidade": "PC",
-          "precoVenda": 130.0,
-          "precoDebitoCredito": 134.0
-        }
-      ]
-    },
-    {
-      "id": "bolacha-goiabinha-n6",
-      "descricao": "BOLACHA GOIABINHA Nº6",
-      "categoria": "doces",
-      "imagem": "/images/doces/BOLACHA_GOIABINHA.jpg",
-      "variacoes": [
-        {
-          "codigo": "4267",
-          "pesoValor": 2.5,
-          "pesoUnidade": "KG",
-          "unidade": "PC",
-          "precoVenda": 81.5,
-          "precoDebitoCredito": 84.0
-        }
-      ]
-    },
-    {
-      "id": "bolacha-juju-n10",
-      "descricao": "BOLACHA JUJU Nº10",
-      "categoria": "doces",
-      "imagem": "/images/doces/BOLACHA_JUJU.jpg",
-      "variacoes": [
-        {
-          "codigo": "4271",
-          "pesoValor": 2.5,
-          "pesoUnidade": "KG",
-          "unidade": "PC",
-          "precoVenda": 87.5,
-          "precoDebitoCredito": 90.5
-        }
-      ]
-    },
-    {
-      "id": "bolacha-kishow-n15",
-      "descricao": "BOLACHA KISHOW Nº15",
-      "categoria": "doces",
-      "imagem": "/images/doces/BOLACHA_KISHOW.jpg",
-      "variacoes": [
-        {
-          "codigo": "4276",
-          "pesoValor": 2.5,
-          "pesoUnidade": "KG",
-          "unidade": "PC",
-          "precoVenda": 119.0,
-          "precoDebitoCredito": 122.5
-        }
-      ]
-    },
-    {
-      "id": "bolacha-lemon-show",
-      "descricao": "BOLACHA LEMON SHOW",
-      "categoria": "doces",
-      "imagem": "/images/doces/BOLACHA_LEMON_SHOW.jpg",
-      "variacoes": [
-        {
-          "codigo": "4342",
-          "pesoValor": 2.5,
-          "pesoUnidade": "KG",
-          "unidade": "PC",
-          "precoVenda": 114.0,
-          "precoDebitoCredito": 117.5
-        }
-      ]
-    },
-    {
-      "id": "bolacha-mini-waffer",
-      "descricao": "BOLACHA MINI WAFFER",
-      "categoria": "doces",
-      "imagem": "/images/doces/BOLACHA_WAFER.jpg",
-      "variacoes": [
-        {
-          "codigo": "4398",
-          "pesoValor": 2.5,
-          "pesoUnidade": "KG",
-          "unidade": "PC",
-          "precoVenda": 84.0,
-          "precoDebitoCredito": 86.5
-        }
-      ]
-    },
-    {
-      "id": "bolacha-palito-c-chocolate-n9",
-      "descricao": "BOLACHA PALITO  C/ CHOCOLATE Nº9",
-      "categoria": "doces",
-      "imagem": "/images/doces/bolacha-palito-c-chocolate.jpg",
-      "variacoes": [
-        {
-          "codigo": "4270",
-          "pesoValor": 2.5,
-          "pesoUnidade": "KG",
-          "unidade": "PC",
-          "precoVenda": 87.5,
-          "precoDebitoCredito": 90.5
-        }
-      ]
-    },
-    {
-      "id": "bolacha-palmier-canela-n14",
-      "descricao": "BOLACHA PALMIER CANELA Nº14",
-      "categoria": "doces",
-      "imagem": "/images/doces/BOLACHA_PALMIER_CANELA.jpg",
-      "variacoes": [
-        {
-          "codigo": "4275",
-          "pesoValor": 1.5,
-          "pesoUnidade": "KG",
-          "unidade": "PC",
-          "precoVenda": 54.0,
-          "precoDebitoCredito": 56.0
-        }
-      ]
-    },
-    {
-      "id": "bolacha-palmier-n3",
-      "descricao": "BOLACHA PALMIER Nº3",
-      "categoria": "doces",
-      "imagem": "/images/doces/BOLACHA_PALMIER.jpg",
-      "variacoes": [
-        {
-          "codigo": "4274",
-          "pesoValor": 1.5,
-          "pesoUnidade": "KG",
-          "unidade": "PC",
-          "precoVenda": 54.0,
-          "precoDebitoCredito": 56.0
-        }
-      ]
-    },
-    {
-      "id": "bolacha-po-de-mel",
-      "descricao": "BOLACHA PÃO DE MEL",
-      "categoria": "doces",
-      "imagem": "/images/doces/BOLACHA_PAO_DE_MEL.jpg",
-      "variacoes": [
-        {
-          "codigo": "4399",
-          "pesoValor": 2.5,
-          "pesoUnidade": "KG",
-          "unidade": "PC",
-          "precoVenda": 84.0,
-          "precoDebitoCredito": 86.5
-        }
-      ]
-    },
-    {
-      "id": "bolacha-pistache",
-      "descricao": "BOLACHA PISTACHE",
-      "categoria": "doces",
-      "imagem": "/images/doces/BOLACHA_COM_PISTACHE.jpg",
-      "variacoes": [
-        {
-          "codigo": "4404",
-          "pesoValor": 2.5,
-          "pesoUnidade": "KG",
-          "unidade": "PC",
-          "precoVenda": 130.0,
-          "precoDebitoCredito": 134.0
-        }
-      ]
-    },
-    {
-      "id": "bolacha-rosca-coco-n1",
-      "descricao": "BOLACHA ROSCA COCO Nº1",
-      "categoria": "doces",
-      "imagem": "/images/doces/BOLACHA_ROSCA_DE_COCO.jpg",
-      "variacoes": [
-        {
-          "codigo": "4262",
-          "pesoValor": 2.0,
-          "pesoUnidade": "KG",
-          "unidade": "PC",
-          "precoVenda": 65.0,
-          "precoDebitoCredito": 67.0
-        }
-      ]
-    },
-    {
-      "id": "bolacha-rosca-flocos-n2",
-      "descricao": "BOLACHA ROSCA FLOCOS Nº2",
-      "categoria": "doces",
-      "imagem": "/images/doces/BOLACHA_ROSCA_DE_COCO_FLOCOS.jpg",
-      "variacoes": [
-        {
-          "codigo": "4263",
-          "pesoValor": 2.0,
-          "pesoUnidade": "KG",
-          "unidade": "PC",
-          "precoVenda": 65.0,
-          "precoDebitoCredito": 67.0
-        }
-      ]
-    },
-    {
-      "id": "bolacha-rosca-nata-n3",
-      "descricao": "BOLACHA ROSCA NATA Nº3",
-      "categoria": "doces",
-      "imagem": "/images/doces/BOLACHA_ROSCA_DE_NATA.jpg",
-      "variacoes": [
-        {
-          "codigo": "4264",
-          "pesoValor": 2.0,
-          "pesoUnidade": "KG",
-          "unidade": "PC",
-          "precoVenda": 65.0,
-          "precoDebitoCredito": 67.0
-        }
-      ]
-    },
-    {
-      "id": "bolacha-seduo",
-      "descricao": "BOLACHA SEDUÇÃO",
-      "categoria": "doces",
-      "imagem": "/images/doces/BOLACHA_SEDUCAO.jpg",
-      "variacoes": [
-        {
-          "codigo": "4407",
-          "pesoValor": 2.5,
-          "pesoUnidade": "KG",
-          "unidade": "PC",
-          "precoVenda": 92.0,
-          "precoDebitoCredito": 95.0
-        }
-      ]
-    },
-    {
-      "id": "bolacha-sonho-de-valsa",
-      "descricao": "BOLACHA SONHO DE VALSA",
-      "categoria": "doces",
-      "imagem": "/images/doces/BOLACHA_SONHO_DE_VALSA.jpg",
-      "variacoes": [
-        {
-          "codigo": "4397",
-          "pesoValor": 2.5,
-          "pesoUnidade": "KG",
-          "unidade": "PC",
-          "precoVenda": 84.0,
-          "precoDebitoCredito": 86.5
-        }
-      ]
-    },
-    {
-      "id": "bolacha-torcidinha-de-canela",
-      "descricao": "BOLACHA TORCIDINHA DE CANELA",
-      "categoria": "doces",
-      "imagem": "/images/doces/BOLACHA_TORCIDINHA_CANELA.jpg",
-      "variacoes": [
-        {
-          "codigo": "4343",
-          "pesoValor": 2.0,
-          "pesoUnidade": "KG",
-          "unidade": "PC",
-          "precoVenda": 67.0,
-          "precoDebitoCredito": 69.0
-        }
-      ]
-    },
-    {
-      "id": "bolacha-uga-uga-n7",
-      "descricao": "BOLACHA UGA UGA Nº7",
-      "categoria": "doces",
-      "imagem": "/images/doces/BOLACHA_UGA_UGA.jpg",
-      "variacoes": [
-        {
-          "codigo": "4268",
-          "pesoValor": 2.5,
-          "pesoUnidade": "KG",
-          "unidade": "PC",
-          "precoVenda": 81.5,
-          "precoDebitoCredito": 84.0
-        }
-      ]
-    },
-    {
       "id": "crocante-chocolate",
       "descricao": "CROCANTE CHOCOLATE",
       "categoria": "doces",
@@ -11109,6 +10758,312 @@
           "unidade": "FD",
           "precoVenda": 27.0,
           "precoDebitoCredito": 28.0
+        }
+      ]
+    }
+  ],
+  "bolachas": [
+    {
+      "id": "bolacha-kibom",
+      "descricao": "BOLACHA  KIBOM",
+      "categoria": "bolachas",
+      "imagem": "/images/bolachas/BOLACHA_KIBOM.jpg",
+      "variacoes": [
+        {
+          "codigo": "4408",
+          "pesoValor": 2.5,
+          "pesoUnidade": "KG",
+          "unidade": "PC",
+          "precoVenda": 92.0,
+          "precoDebitoCredito": 95.0
+        }
+      ]
+    },
+    {
+      "id": "bolacha-areia",
+      "descricao": "BOLACHA AREIA",
+      "categoria": "bolachas",
+      "imagem": "/images/bolachas/BOLACHA_AREIA.jpg",
+      "variacoes": [
+        {
+          "codigo": "4341",
+          "pesoValor": 2.5,
+          "pesoUnidade": "KG",
+          "unidade": "PC",
+          "precoVenda": 72.0,
+          "precoDebitoCredito": 74.0
+        }
+      ]
+    },
+    {
+      "id": "bolacha-bambole-n4",
+      "descricao": "BOLACHA BAMBOLE Nº4",
+      "categoria": "bolachas",
+      "imagem": "/images/bolachas/BOLACHA_BAMBOLE.jpg",
+      "variacoes": [
+        {
+          "codigo": "4265",
+          "pesoValor": 2.0,
+          "pesoUnidade": "KG",
+          "unidade": "PC",
+          "precoVenda": 65.0,
+          "precoDebitoCredito": 67.0
+        }
+      ]
+    },
+    {
+      "id": "bolacha-bambole-recheado-n5",
+      "descricao": "BOLACHA BAMBOLE RECHEADO Nº5",
+      "categoria": "bolachas",
+      "imagem": "/images/bolachas/BOLACHA_BAMBOLE_RECHEADO.jpg",
+      "variacoes": [
+        {
+          "codigo": "4266",
+          "pesoValor": 2.5,
+          "pesoUnidade": "KG",
+          "unidade": "PC",
+          "precoVenda": 81.5,
+          "precoDebitoCredito": 84.0
+        }
+      ]
+    },
+    {
+      "id": "bolacha-beijinho-freira-n8",
+      "descricao": "BOLACHA BEIJINHO FREIRA Nº8",
+      "categoria": "bolachas",
+      "imagem": "/images/bolachas/BOLACHA_BEIJINHO_DE_FREIRA.jpg",
+      "variacoes": [
+        {
+          "codigo": "4269",
+          "pesoValor": 2.5,
+          "pesoUnidade": "KG",
+          "unidade": "PC",
+          "precoVenda": 87.5,
+          "precoDebitoCredito": 90.5
+        }
+      ]
+    },
+    {
+      "id": "bolacha-belisco-n12",
+      "descricao": "BOLACHA BELISCÃO Nº12",
+      "categoria": "bolachas",
+      "imagem": "/images/bolachas/BOLACHA_BELISCAO.jpg",
+      "variacoes": [
+        {
+          "codigo": "4273",
+          "pesoValor": 2.5,
+          "pesoUnidade": "KG",
+          "unidade": "PC",
+          "precoVenda": 94.0,
+          "precoDebitoCredito": 97.0
+        }
+      ]
+    },
+    {
+      "id": "bolacha-ganache-de-morango",
+      "descricao": "BOLACHA GANACHE DE MORANGO",
+      "categoria": "bolachas",
+      "imagem": "/images/bolachas/BOLACHA_GANACHE_DE_MORANGO.jpg",
+      "variacoes": [
+        {
+          "codigo": "4406",
+          "pesoValor": 2.5,
+          "pesoUnidade": "KG",
+          "unidade": "PC",
+          "precoVenda": 130.0,
+          "precoDebitoCredito": 134.0
+        }
+      ]
+    },
+    {
+      "id": "bolacha-goiabinha-n6",
+      "descricao": "BOLACHA GOIABINHA Nº6",
+      "categoria": "bolachas",
+      "imagem": "/images/bolachas/BOLACHA_GOIABINHA.jpg",
+      "variacoes": [
+        {
+          "codigo": "4267",
+          "pesoValor": 2.5,
+          "pesoUnidade": "KG",
+          "unidade": "PC",
+          "precoVenda": 81.5,
+          "precoDebitoCredito": 84.0
+        }
+      ]
+    },
+    {
+      "id": "bolacha-juju-n10",
+      "descricao": "BOLACHA JUJU Nº10",
+      "categoria": "bolachas",
+      "imagem": "/images/bolachas/BOLACHA_JUJU.jpg",
+      "variacoes": [
+        {
+          "codigo": "4271",
+          "pesoValor": 2.5,
+          "pesoUnidade": "KG",
+          "unidade": "PC",
+          "precoVenda": 87.5,
+          "precoDebitoCredito": 90.5
+        }
+      ]
+    },
+    {
+      "id": "bolacha-kishow-n15",
+      "descricao": "BOLACHA KISHOW Nº15",
+      "categoria": "bolachas",
+      "imagem": "/images/bolachas/BOLACHA_KISHOW.jpg",
+      "variacoes": [
+        {
+          "codigo": "4276",
+          "pesoValor": 2.5,
+          "pesoUnidade": "KG",
+          "unidade": "PC",
+          "precoVenda": 119.0,
+          "precoDebitoCredito": 122.5
+        }
+      ]
+    },
+    {
+      "id": "bolacha-lemon-show",
+      "descricao": "BOLACHA LEMON SHOW",
+      "categoria": "bolachas",
+      "imagem": "/images/bolachas/BOLACHA_LEMON_SHOW.jpg",
+      "variacoes": [
+        {
+          "codigo": "4342",
+          "pesoValor": 2.5,
+          "pesoUnidade": "KG",
+          "unidade": "PC",
+          "precoVenda": 114.0,
+          "precoDebitoCredito": 117.5
+        }
+      ]
+    },
+    {
+      "id": "bolacha-palito-c-chocolate-n9",
+      "descricao": "BOLACHA PALITO  C/ CHOCOLATE Nº9",
+      "categoria": "bolachas",
+      "imagem": "/images/bolachas/bolacha-palito-c-chocolate.jpg",
+      "variacoes": [
+        {
+          "codigo": "4270",
+          "pesoValor": 2.5,
+          "pesoUnidade": "KG",
+          "unidade": "PC",
+          "precoVenda": 87.5,
+          "precoDebitoCredito": 90.5
+        }
+      ]
+    },
+    {
+      "id": "bolacha-palmier-canela-n14",
+      "descricao": "BOLACHA PALMIER CANELA Nº14",
+      "categoria": "bolachas",
+      "imagem": "/images/bolachas/BOLACHA_PALMIER_CANELA.jpg",
+      "variacoes": [
+        {
+          "codigo": "4275",
+          "pesoValor": 1.5,
+          "pesoUnidade": "KG",
+          "unidade": "PC",
+          "precoVenda": 54.0,
+          "precoDebitoCredito": 56.0
+        }
+      ]
+    },
+    {
+      "id": "bolacha-pistache",
+      "descricao": "BOLACHA PISTACHE",
+      "categoria": "bolachas",
+      "imagem": "/images/bolachas/BOLACHA_COM_PISTACHE.jpg",
+      "variacoes": [
+        {
+          "codigo": "4404",
+          "pesoValor": 2.5,
+          "pesoUnidade": "KG",
+          "unidade": "PC",
+          "precoVenda": 130.0,
+          "precoDebitoCredito": 134.0
+        }
+      ]
+    },
+    {
+      "id": "bolacha-rosca-nata-n3",
+      "descricao": "BOLACHA ROSCA NATA Nº3",
+      "categoria": "bolachas",
+      "imagem": "/images/bolachas/BOLACHA_ROSCA_DE_NATA.jpg",
+      "variacoes": [
+        {
+          "codigo": "4264",
+          "pesoValor": 2.0,
+          "pesoUnidade": "KG",
+          "unidade": "PC",
+          "precoVenda": 65.0,
+          "precoDebitoCredito": 67.0
+        }
+      ]
+    },
+    {
+      "id": "bolacha-seduo",
+      "descricao": "BOLACHA SEDUÇÃO",
+      "categoria": "bolachas",
+      "imagem": "/images/bolachas/BOLACHA_SEDUCAO.jpg",
+      "variacoes": [
+        {
+          "codigo": "4407",
+          "pesoValor": 2.5,
+          "pesoUnidade": "KG",
+          "unidade": "PC",
+          "precoVenda": 92.0,
+          "precoDebitoCredito": 95.0
+        }
+      ]
+    },
+    {
+      "id": "bolacha-sonho-de-valsa",
+      "descricao": "BOLACHA SONHO DE VALSA",
+      "categoria": "bolachas",
+      "imagem": "/images/bolachas/BOLACHA_SONHO_DE_VALSA.jpg",
+      "variacoes": [
+        {
+          "codigo": "4397",
+          "pesoValor": 2.5,
+          "pesoUnidade": "KG",
+          "unidade": "PC",
+          "precoVenda": 84.0,
+          "precoDebitoCredito": 86.5
+        }
+      ]
+    },
+    {
+      "id": "bolacha-torcidinha-de-canela",
+      "descricao": "BOLACHA TORCIDINHA DE CANELA",
+      "categoria": "bolachas",
+      "imagem": "/images/bolachas/BOLACHA_TORCIDINHA_CANELA.jpg",
+      "variacoes": [
+        {
+          "codigo": "4343",
+          "pesoValor": 2.0,
+          "pesoUnidade": "KG",
+          "unidade": "PC",
+          "precoVenda": 67.0,
+          "precoDebitoCredito": 69.0
+        }
+      ]
+    },
+    {
+      "id": "bolacha-uga-uga-n7",
+      "descricao": "BOLACHA UGA UGA Nº7",
+      "categoria": "bolachas",
+      "imagem": "/images/bolachas/BOLACHA_UGA_UGA.jpg",
+      "variacoes": [
+        {
+          "codigo": "4268",
+          "pesoValor": 2.5,
+          "pesoUnidade": "KG",
+          "unidade": "PC",
+          "precoVenda": 81.5,
+          "precoDebitoCredito": 84.0
         }
       ]
     }

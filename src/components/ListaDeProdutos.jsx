@@ -56,9 +56,8 @@ function ListaDeProdutos() {
   const [carregando, setCarregando] = useState(true);
 
   const categoria = {
-    titulo: "Promoções da semana!!",
-    subtitulo: "Valida até durarem os estoques",
-    capa: "/banner-azul.png",
+    titulo: "Itens Essenciais para Festa Junina",
+    subtitulo: "Tudo que o seu arraiá precisa em um só lugar",
   };
 
   useEffect(() => {
@@ -106,19 +105,29 @@ function ListaDeProdutos() {
   }, []);
 
   return (
-    <section className="secao-produtos-categoria">
-      <div
-        className="categoria-banner"
-        style={{ backgroundImage: `url(${categoria.capa})` }}
-      >
-        <div className="categoria-overlay">
+    <section className="secao-produtos-categoria secao-festa-junina">
+      <div className="festa-junina-banner">
+        <div className="bandeirinhas" aria-hidden="true">
+          {Array.from({ length: 18 }).map((_, indice) => (
+            <span key={indice} className={`bandeirinha cor-${indice % 4}`} />
+          ))}
+        </div>
+
+        <div className="festa-junina-overlay">
+          <span className="festa-junina-selo">Arraiá do Libanês</span>
           <h2>{categoria.titulo}</h2>
           <p>{categoria.subtitulo}</p>
         </div>
+
+        <div className="bandeirinhas bandeirinhas-baixo" aria-hidden="true">
+          {Array.from({ length: 18 }).map((_, indice) => (
+            <span key={indice} className={`bandeirinha cor-${indice % 4}`} />
+          ))}
+        </div>
       </div>
 
-      <div className="data-promocao">
-        <p>Valida até 15/05/2026</p>
+      <div className="festa-junina-faixa">
+        <p>Confira nossa seleção especial para o São João!</p>
       </div>
 
       {carregando ? (

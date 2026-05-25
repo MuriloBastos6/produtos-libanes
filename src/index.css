@@ -516,6 +516,239 @@ body::-webkit-scrollbar {
   right: 12px;
 }
 
+/* ===== Carrossel Festa Junina ===== */
+.carrossel-junino {
+  --cj-vermelho: #d92027;
+  --cj-amarelo: #ffd23f;
+  --cj-laranja: #ff7b00;
+  --cj-verde: #1f9d55;
+  --cj-azul: #1976d2;
+  --cj-marrom: #5b2a05;
+
+  border-bottom: 5px solid var(--cj-amarelo);
+  background: var(--cj-marrom);
+}
+
+/* Bandeirinhas fixas no topo do carrossel */
+.carrossel-bandeirinhas {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 30px;
+  display: flex;
+  justify-content: space-around;
+  align-items: flex-start;
+  padding: 0 0.5rem;
+  z-index: 4;
+  pointer-events: none;
+  background: linear-gradient(to bottom,
+      rgba(0, 0, 0, 0.35),
+      transparent 90%);
+}
+
+.carrossel-bandeirinha {
+  width: 22px;
+  height: 26px;
+  clip-path: polygon(0 0, 100% 0, 100% 55%, 50% 100%, 0 55%);
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
+  transform-origin: top center;
+  animation: carrosselBalanca 3.2s ease-in-out infinite;
+}
+
+.carrossel-bandeirinha:nth-child(odd) { animation-delay: 0.3s; }
+.carrossel-bandeirinha.cor-0 { background: var(--cj-amarelo); }
+.carrossel-bandeirinha.cor-1 { background: #fff; }
+.carrossel-bandeirinha.cor-2 { background: var(--cj-verde); }
+.carrossel-bandeirinha.cor-3 { background: var(--cj-azul); }
+
+@keyframes carrosselBalanca {
+  0%, 100% { transform: rotate(-4deg); }
+  50%      { transform: rotate(4deg); }
+}
+
+/* Esconde o gradiente branco anterior no modo junino */
+.carrossel-junino.carrossel::before {
+  display: none;
+}
+
+/* Overlay quente (vermelho/laranja) substituindo o preto */
+.carrossel-junino .carrossel-overlay {
+  background: linear-gradient(to top,
+      rgba(91, 42, 5, 0.85) 0%,
+      rgba(217, 32, 39, 0.55) 35%,
+      rgba(255, 123, 0, 0.18) 70%,
+      transparent 100%);
+  padding: 3rem 2rem 2.4rem;
+  justify-content: flex-end;
+  align-items: flex-start;
+  text-align: left;
+}
+
+.carrossel-junino .carrossel-img {
+  filter: brightness(0.78) saturate(1.1);
+  transition: transform 0.6s ease, filter 0.4s ease;
+}
+
+.carrossel-junino .carrossel-slide-link:hover .carrossel-img {
+  transform: scale(1.04);
+  filter: brightness(0.85) saturate(1.2);
+}
+
+.carrossel-tag {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.45rem;
+  background: var(--cj-amarelo);
+  color: var(--cj-marrom);
+  font-weight: 700;
+  font-size: clamp(0.7rem, 1.2vw, 0.85rem);
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  padding: 0.35rem 0.85rem;
+  border-radius: 999px;
+  border: 2px dashed var(--cj-vermelho);
+  margin-bottom: 0.85rem;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.25);
+}
+
+.carrossel-tag-icone {
+  font-size: 1rem;
+  line-height: 1;
+}
+
+.carrossel-junino .carrossel-overlay h2 {
+  font-size: clamp(1.6rem, 3.4vw, 2.6rem);
+  font-weight: 800;
+  text-transform: uppercase;
+  letter-spacing: 0.01em;
+  text-shadow: 0 3px 10px rgba(0, 0, 0, 0.55);
+  color: #fff;
+  line-height: 1.12;
+}
+
+.carrossel-junino .carrossel-overlay p {
+  font-size: clamp(0.95rem, 1.5vw, 1.15rem);
+  color: #fff4d6;
+  text-shadow: 0 2px 6px rgba(0, 0, 0, 0.5);
+  max-width: 36ch;
+  margin-top: 0.4rem;
+}
+
+.carrossel-cta {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+  margin-top: 1.1rem;
+  padding: 0.55rem 1.1rem;
+  background: var(--cj-vermelho);
+  color: #fff;
+  font-weight: 700;
+  font-size: 0.95rem;
+  border-radius: 999px;
+  border: 2px solid var(--cj-amarelo);
+  text-shadow: none;
+  box-shadow: 0 6px 16px rgba(217, 32, 39, 0.45);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.carrossel-slide-link:hover .carrossel-cta {
+  transform: translateY(-2px);
+  box-shadow: 0 8px 20px rgba(217, 32, 39, 0.55);
+}
+
+/* Botões redondos com cara junina */
+.carrossel-junino .carrossel-btn {
+  background: var(--cj-amarelo);
+  color: var(--cj-vermelho);
+  width: 46px;
+  height: 46px;
+  font-weight: 900;
+  font-size: 1.7rem;
+  border: 3px solid var(--cj-vermelho);
+  box-shadow: 0 6px 14px rgba(0, 0, 0, 0.3);
+  transition: transform 0.2s ease;
+}
+
+.carrossel-junino .carrossel-btn:hover {
+  transform: translateY(-50%) scale(1.08);
+}
+
+/* Indicadores tipo "bolinhas de fogueira" */
+.carrossel-indicadores {
+  position: absolute;
+  bottom: 0.9rem;
+  left: 50%;
+  transform: translateX(-50%);
+  display: flex;
+  gap: 0.5rem;
+  z-index: 4;
+  padding: 0.4rem 0.7rem;
+  background: rgba(0, 0, 0, 0.35);
+  border-radius: 999px;
+  backdrop-filter: blur(4px);
+}
+
+.carrossel-indicador {
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  border: none;
+  padding: 0;
+  background: rgba(255, 255, 255, 0.45);
+  cursor: pointer;
+  transition: all 0.25s ease;
+}
+
+.carrossel-indicador.ativo {
+  background: var(--cj-amarelo);
+  box-shadow: 0 0 0 3px rgba(255, 210, 63, 0.35),
+    0 0 12px rgba(255, 210, 63, 0.6);
+  transform: scale(1.25);
+}
+
+@media (max-width: 768px) {
+  .carrossel-bandeirinha {
+    width: 16px;
+    height: 20px;
+  }
+
+  .carrossel-bandeirinhas {
+    height: 24px;
+  }
+
+  .carrossel-junino .carrossel-overlay {
+    padding: 2.2rem 1rem 2.4rem;
+    align-items: center;
+    text-align: center;
+  }
+
+  .carrossel-junino .carrossel-overlay p {
+    max-width: 28ch;
+  }
+
+  .carrossel-tag {
+    font-size: 0.65rem;
+    padding: 0.25rem 0.7rem;
+  }
+
+  .carrossel-cta {
+    padding: 0.45rem 0.95rem;
+    font-size: 0.85rem;
+    margin-top: 0.8rem;
+  }
+
+  .carrossel-indicadores {
+    bottom: 0.5rem;
+    padding: 0.3rem 0.55rem;
+  }
+
+  .carrossel-indicador {
+    width: 8px;
+    height: 8px;
+  }
+}
+
 /* Botao flutuante WhatsApp */
 .whatsapp-float {
   position: fixed;
@@ -566,6 +799,220 @@ body::-webkit-scrollbar {
   padding: 1rem;
   border-radius: 10px;
 }
+
+/* ===== Festa Junina ===== */
+.secao-festa-junina {
+  --fj-vermelho: #d92027;
+  --fj-amarelo: #ffd23f;
+  --fj-laranja: #ff7b00;
+  --fj-verde: #1f9d55;
+  --fj-azul: #1976d2;
+  --fj-marrom: #5b2a05;
+}
+
+.festa-junina-banner {
+  position: relative;
+  width: min(95%, 1220px);
+  margin: -4.5rem auto 1.2rem;
+  border-radius: 1rem;
+  overflow: hidden;
+  z-index: 2;
+  background:
+    radial-gradient(circle at 20% 30%, rgba(255, 210, 63, 0.25), transparent 60%),
+    radial-gradient(circle at 80% 70%, rgba(255, 123, 0, 0.3), transparent 55%),
+    linear-gradient(135deg, #b6111a 0%, #d92027 45%, #ff7b00 100%);
+  box-shadow: var(--shadow-soft), 0 10px 24px rgba(217, 32, 39, 0.35);
+  padding: 2.2rem 1.2rem;
+  isolation: isolate;
+}
+
+/* padrão xadrez tipo toalha de festa junina */
+.festa-junina-banner::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background-image:
+    linear-gradient(45deg, rgba(255, 255, 255, 0.06) 25%, transparent 25%,
+      transparent 75%, rgba(255, 255, 255, 0.06) 75%),
+    linear-gradient(45deg, rgba(255, 255, 255, 0.06) 25%, transparent 25%,
+      transparent 75%, rgba(255, 255, 255, 0.06) 75%);
+  background-size: 32px 32px;
+  background-position: 0 0, 16px 16px;
+  z-index: 0;
+  pointer-events: none;
+}
+
+.festa-junina-overlay {
+  position: relative;
+  z-index: 2;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  color: #fffbea;
+  padding: 1.8rem 1rem;
+  text-shadow: 0 2px 6px rgba(0, 0, 0, 0.4);
+}
+
+.festa-junina-selo {
+  display: inline-block;
+  background: var(--fj-amarelo);
+  color: var(--fj-marrom);
+  font-weight: 700;
+  font-size: clamp(0.75rem, 1.4vw, 0.95rem);
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  padding: 0.35rem 0.9rem;
+  border-radius: 999px;
+  border: 2px dashed var(--fj-vermelho);
+  margin-bottom: 0.9rem;
+  text-shadow: none;
+  box-shadow: 0 3px 10px rgba(0, 0, 0, 0.2);
+}
+
+.festa-junina-overlay h2 {
+  margin: 0;
+  font-size: clamp(1.6rem, 3.6vw, 2.8rem);
+  font-weight: 800;
+  text-transform: uppercase;
+  letter-spacing: 0.02em;
+  line-height: 1.15;
+  color: #fff;
+}
+
+.festa-junina-overlay p {
+  margin: 0.6rem 0 0;
+  font-size: clamp(0.95rem, 1.4vw, 1.15rem);
+  font-weight: 500;
+  color: #fff4d6;
+  max-width: 38ch;
+}
+
+/* Bandeirinhas */
+.bandeirinhas {
+  position: relative;
+  z-index: 1;
+  display: flex;
+  justify-content: space-around;
+  align-items: flex-start;
+  width: 100%;
+  height: 28px;
+  padding: 0 0.4rem;
+  box-sizing: border-box;
+}
+
+.bandeirinhas-baixo {
+  transform: scaleY(-1);
+  margin-top: 0.6rem;
+}
+
+.bandeirinha {
+  width: 22px;
+  height: 26px;
+  clip-path: polygon(0 0, 100% 0, 100% 55%, 50% 100%, 0 55%);
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.25);
+  position: relative;
+  animation: balancarBandeira 3s ease-in-out infinite;
+  transform-origin: top center;
+}
+
+.bandeirinha:nth-child(odd) {
+  animation-delay: 0.25s;
+}
+
+.bandeirinha.cor-0 { background: var(--fj-amarelo); }
+.bandeirinha.cor-1 { background: #fff; }
+.bandeirinha.cor-2 { background: var(--fj-verde); }
+.bandeirinha.cor-3 { background: var(--fj-azul); }
+
+@keyframes balancarBandeira {
+  0%, 100% { transform: rotate(-3deg); }
+  50%      { transform: rotate(3deg); }
+}
+
+/* Faixa abaixo do banner */
+.festa-junina-faixa {
+  width: min(95%, 1220px);
+  margin: -0.5rem auto 0;
+  padding: 0.7rem 1rem;
+  background: var(--fj-amarelo);
+  border-radius: 0 0 1rem 1rem;
+  box-shadow: 0 6px 14px rgba(0, 0, 0, 0.08);
+  position: relative;
+  z-index: 1;
+}
+
+.festa-junina-faixa::before,
+.festa-junina-faixa::after {
+  content: "";
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  width: 14px;
+  background-image: radial-gradient(circle at center, var(--fj-vermelho) 4px, transparent 5px);
+  background-size: 14px 14px;
+  background-repeat: repeat-y;
+}
+.festa-junina-faixa::before { left: 4px; }
+.festa-junina-faixa::after  { right: 4px; }
+
+.festa-junina-faixa p {
+  margin: 0;
+  text-align: center;
+  font-weight: 700;
+  font-size: clamp(0.85rem, 1.3vw, 1.05rem);
+  color: var(--fj-vermelho);
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+}
+
+@media (max-width: 768px) {
+  .festa-junina-banner {
+    width: 100%;
+    margin-left: 0;
+    margin-right: 0;
+    border-radius: 0.6rem;
+    padding: 1.4rem 0.6rem;
+  }
+
+  .festa-junina-faixa {
+    width: 100%;
+    border-radius: 0;
+    padding: 0.55rem 2.4rem;
+  }
+
+  .festa-junina-faixa p {
+    position: relative;
+    z-index: 1;
+    line-height: 1.3;
+    font-size: 0.72rem;
+    letter-spacing: 0.01em;
+    word-break: break-word;
+    overflow-wrap: anywhere;
+  }
+
+  .festa-junina-faixa::before,
+  .festa-junina-faixa::after {
+    width: 10px;
+    background-size: 10px 10px;
+    background-image: radial-gradient(circle at center, var(--fj-vermelho) 3px, transparent 4px);
+  }
+
+  .festa-junina-overlay {
+    padding: 1rem 0.5rem;
+  }
+
+  .bandeirinha {
+    width: 16px;
+    height: 20px;
+  }
+
+  .bandeirinhas {
+    height: 22px;
+  }
+}
+
 
 .categoria-banner {
   height: 15rem;

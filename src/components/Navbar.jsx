@@ -19,6 +19,7 @@ const categoriasOpcoes = [
   { titulo: "Goma pronta", slug: "goma" },
   { titulo: "Salgadinho & snacks", slug: "salgadinhos" },
   { titulo: "Doces", slug: "doces" },
+  { titulo: "Bolachas Mineiras", slug: "bolachas" },
   { titulo: "Potes", slug: "potes" },
 ];
 
