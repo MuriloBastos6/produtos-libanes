@@ -1,22 +1,6 @@
 {
   "promoçoes": [
     {
-      "id": "uva-passa-preta",
-      "descricao": "UVA PASSA PRETA",
-      "categoria": "promoçoes",
-      "imagem": "/images/frutas/UVA_PASSA_PRETA.jpg",
-      "variacoes": [
-        {
-          "codigo": "2229",
-          "pesoValor": 10.0,
-          "pesoUnidade": "KG",
-          "unidade": "CX",
-          "precoVenda": 145.0,
-          "precoDebitoCredito": 180.0
-        }
-      ]
-    },
-    {
       "id": "linhaa-dourada",
       "descricao": "LINHAÇA DOURADA",
       "categoria": "promoçoes",
@@ -6717,7 +6701,7 @@
           "pesoValor": 10.0,
           "pesoUnidade": "KG",
           "unidade": "CX",
-          "precoVenda": 140.0,
+          "precoVenda": 175.0,
           "precoDebitoCredito": 180.0
         }
       ]

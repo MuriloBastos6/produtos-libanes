@@ -1,21 +1,12 @@
 {
   "summary": {
     "categorias": 18,
-    "produtos": 542,
+    "produtos": 541,
     "matched": 549,
     "fallback": 0,
-    "category_without_folder": 2
+    "category_without_folder": 0
   },
   "details": [
-    {
-      "categoria": "promoçoes",
-      "id": "uva-passa-preta",
-      "descricao": "UVA PASSA PRETA",
-      "imagem": "/images/frutas/UVA_PASSA_PRETA.jpg",
-      "status": "linked-by-id",
-      "score": 999.0,
-      "arquivo_sugerido": "UVA_PASSA_PRETA.jpg"
-    },
     {
       "categoria": "promoçoes",
       "id": "linhaa-dourada",
@@ -4547,10 +4538,10 @@
       "categoria": "doces",
       "id": "doce-de-leite-c-cacausouvenir",
       "descricao": "DOCE DE LEITE C/CACAUSOUVENIR",
-      "imagem": "/arroz.jpeg",
-      "status": "manual-default",
-      "score": 0.0,
-      "arquivo_sugerido": null
+      "imagem": "/images/doces/doce-de-leite-c-cacausouvenir.webp",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "doce-de-leite-c-cacausouvenir.webp"
     },
     {
       "categoria": "doces",
@@ -4583,10 +4574,10 @@
       "categoria": "doces",
       "id": "doce-abobora-c-coco",
       "descricao": "DOCE ABÓBORA C/ COCO",
-      "imagem": "/arroz.jpeg",
-      "status": "manual-default",
-      "score": 0.0,
-      "arquivo_sugerido": null
+      "imagem": "/images/doces/DOCE_DE_ABOBORA.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "DOCE_DE_ABOBORA.jpg"
     },
     {
       "categoria": "doces",
