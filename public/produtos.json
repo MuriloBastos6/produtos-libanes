@@ -3775,16 +3775,16 @@
           "pesoValor": 5.0,
           "pesoUnidade": "KG",
           "unidade": "PC",
-          "precoVenda": 48.5,
-          "precoDebitoCredito": 50.0
+          "precoVenda": 62.0,
+          "precoDebitoCredito": 64.0
         },
         {
           "codigo": "101",
           "pesoValor": 30.0,
           "pesoUnidade": "KG",
           "unidade": "SC",
-          "precoVenda": 280.0,
-          "precoDebitoCredito": 294.0
+          "precoVenda": 360.0,
+          "precoDebitoCredito": 372.0
         }
       ]
     },
@@ -3959,24 +3959,24 @@
           "pesoValor": 5.0,
           "pesoUnidade": "KG",
           "unidade": "PC",
-          "precoVenda": 28.5,
-          "precoDebitoCredito": 29.5
+          "precoVenda": 33.5,
+          "precoDebitoCredito": 34.5
         },
         {
           "codigo": "190",
           "pesoValor": 30.0,
           "pesoUnidade": "KG",
           "unidade": "SC",
-          "precoVenda": 157.5,
-          "precoDebitoCredito": 162.0
+          "precoVenda": 187.5,
+          "precoDebitoCredito": 193.0
         },
         {
           "codigo": "3478",
           "pesoValor": 60.0,
           "pesoUnidade": "KG",
           "unidade": "SC",
-          "precoVenda": 315.0,
-          "precoDebitoCredito": 324.5
+          "precoVenda": 375.0,
+          "precoDebitoCredito": 386.5
         }
       ]
     },
@@ -10583,6 +10583,14 @@
       "imagem": "/images/doces/doce-de-leite-souvenir.jpg",
       "variacoes": [
         {
+          "codigo": "4643",
+          "pesoValor": 6.0,
+          "pesoUnidade": "X400G",
+          "unidade": "CX",
+          "precoVenda": 97.5,
+          "precoDebitoCredito": 100.5
+        },
+        {
           "codigo": "4629",
           "pesoValor": 12.0,
           "pesoUnidade": "X400G",
@@ -10601,10 +10609,26 @@
         {
           "codigo": "4630",
           "pesoValor": 12.0,
-          "pesoUnidade": "X400g",
+          "pesoUnidade": "X400G",
           "unidade": "CX",
           "precoVenda": 127.5,
           "precoDebitoCredito": 131.0
+        }
+      ]
+    },
+    {
+      "id": "doce-de-leite-c-cacausouvenir",
+      "descricao": "DOCE DE LEITE C/CACAUSOUVENIR",
+      "categoria": "doces",
+      "imagem": "/images/doces/doce-de-leite-c-cacausouvenir.webp",
+      "variacoes": [
+        {
+          "codigo": "4644",
+          "pesoValor": 12.0,
+          "pesoUnidade": "X400G",
+          "unidade": "CX",
+          "precoVenda": 113.0,
+          "precoDebitoCredito": 116.5
         }
       ]
     },
@@ -10653,6 +10677,30 @@
           "unidade": "FD",
           "precoVenda": 77.0,
           "precoDebitoCredito": 79.5
+        }
+      ]
+    },
+    {
+      "id": "doce-abobora-c-coco",
+      "descricao": "DOCE ABÓBORA C/ COCO",
+      "categoria": "doces",
+      "imagem": "/images/doces/DOCE_DE_ABOBORA.jpg",
+      "variacoes": [
+        {
+          "codigo": "4641",
+          "pesoValor": 6.0,
+          "pesoUnidade": "X400G",
+          "unidade": "PC",
+          "precoVenda": 72.0,
+          "precoDebitoCredito": 74.0
+        },
+        {
+          "codigo": "4583",
+          "pesoValor": 12.0,
+          "pesoUnidade": "X400G",
+          "unidade": "CX",
+          "precoVenda": 144.0,
+          "precoDebitoCredito": 148.0
         }
       ]
     },
