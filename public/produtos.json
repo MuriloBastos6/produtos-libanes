@@ -1234,6 +1234,14 @@
           "precoDebitoCredito": 326.5
         },
         {
+          "codigo": "263",
+          "pesoValor": 10.0,
+          "pesoUnidade": "KG",
+          "unidade": "CX",
+          "precoVenda": 630.0,
+          "precoDebitoCredito": 649.0
+        },
+        {
           "codigo": "3093",
           "pesoValor": 11.0,
           "pesoUnidade": "KG",
@@ -1263,14 +1271,6 @@
           "pesoUnidade": "KG",
           "unidade": "CX",
           "precoVenda": 520.0,
-          "precoDebitoCredito": 589.0
-        },
-        {
-          "codigo": "4179",
-          "pesoValor": 11.0,
-          "pesoUnidade": "KG",
-          "unidade": "CX",
-          "precoVenda": 572.0,
           "precoDebitoCredito": 589.0
         }
       ]
