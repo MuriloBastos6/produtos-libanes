@@ -2084,16 +2084,16 @@
           "pesoValor": 1.0,
           "pesoUnidade": "KG",
           "unidade": "PC",
-          "precoVenda": 30.0,
-          "precoDebitoCredito": 31.0
+          "precoVenda": 33.0,
+          "precoDebitoCredito": 34.0
         },
         {
           "codigo": "2696",
           "pesoValor": 20.0,
           "pesoUnidade": "KG",
           "unidade": "SC",
-          "precoVenda": 600.0,
-          "precoDebitoCredito": 618.0
+          "precoVenda": 660.0,
+          "precoDebitoCredito": 680.0
         }
       ]
     },
