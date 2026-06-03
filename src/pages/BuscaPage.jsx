@@ -114,6 +114,9 @@ function BuscaPage() {
         const respostas = Object.entries(dadosPorCategoria).flatMap(
           ([slug, itens]) => {
             if (!Array.isArray(itens)) return [];
+            // Ignora vitrines (promocoes/novidades) que repetem produtos ja
+            // presentes nas categorias proprias, evitando duplicatas na busca.
+            if (!ordemCategorias.includes(slug)) return [];
 
             return itens.map((produto, index) => ({
               ...produto,
