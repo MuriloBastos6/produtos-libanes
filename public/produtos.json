@@ -5564,8 +5564,8 @@
           "pesoValor": 5.0,
           "pesoUnidade": "KG",
           "unidade": "PC",
-          "precoVenda": 115.0,
-          "precoDebitoCredito": 118.5
+          "precoVenda": 125.0,
+          "precoDebitoCredito": 129.0
         }
       ]
     },
@@ -8814,32 +8814,32 @@
           "pesoValor": 6.0,
           "pesoUnidade": "X2L",
           "unidade": "FD",
-          "precoVenda": 162.0,
-          "precoDebitoCredito": 167.0
+          "precoVenda": 171.5,
+          "precoDebitoCredito": 176.5
         },
         {
           "codigo": "3644",
           "pesoValor": 12.0,
           "pesoUnidade": "X1LT",
           "unidade": "FD",
-          "precoVenda": 162.0,
-          "precoDebitoCredito": 167.0
+          "precoVenda": 171.5,
+          "precoDebitoCredito": 176.5
         },
         {
           "codigo": "3644",
           "pesoValor": 12.0,
           "pesoUnidade": "X500ML",
           "unidade": "FD",
-          "precoVenda": 84.0,
-          "precoDebitoCredito": 86.5
+          "precoVenda": 86.5,
+          "precoDebitoCredito": 89.0
         },
         {
           "codigo": "3641",
           "pesoValor": 24.0,
           "pesoUnidade": "X200ML",
           "unidade": "FD",
-          "precoVenda": 84.0,
-          "precoDebitoCredito": 86.5
+          "precoVenda": 89.0,
+          "precoDebitoCredito": 91.5
         }
       ]
     },
@@ -8854,24 +8854,24 @@
           "pesoValor": 6.0,
           "pesoUnidade": "X1ML",
           "unidade": "FD",
-          "precoVenda": 33.0,
-          "precoDebitoCredito": 34.0
+          "precoVenda": 35.5,
+          "precoDebitoCredito": 36.5
         },
         {
           "codigo": "3852",
           "pesoValor": 12.0,
           "pesoUnidade": "X500ML",
           "unidade": "PC",
-          "precoVenda": 26.0,
-          "precoDebitoCredito": 27.0
+          "precoVenda": 33.5,
+          "precoDebitoCredito": 34.5
         },
         {
           "codigo": "3647",
           "pesoValor": 24.0,
           "pesoUnidade": "X200ML",
           "unidade": "FD",
-          "precoVenda": 30.0,
-          "precoDebitoCredito": 31.0
+          "precoVenda": 33.0,
+          "precoDebitoCredito": 34.0
         }
       ]
     }
@@ -8952,16 +8952,16 @@
           "pesoValor": 12.0,
           "pesoUnidade": "X1KG",
           "unidade": "CX",
-          "precoVenda": 93.0,
-          "precoDebitoCredito": 96.0
+          "precoVenda": 101.0,
+          "precoDebitoCredito": 104.0
         },
         {
           "codigo": "4410",
           "pesoValor": 24.0,
           "pesoUnidade": "X500G",
           "unidade": "CX",
-          "precoVenda": 95.0,
-          "precoDebitoCredito": 98.0
+          "precoVenda": 102.0,
+          "precoDebitoCredito": 105.0
         }
       ]
     }
