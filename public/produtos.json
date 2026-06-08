@@ -4458,8 +4458,8 @@
           "pesoValor": 25.0,
           "pesoUnidade": "KG",
           "unidade": "SC",
-          "precoVenda": 91.0,
-          "precoDebitoCredito": 94.0
+          "precoVenda": 97.0,
+          "precoDebitoCredito": 100.0
         }
       ]
     },
