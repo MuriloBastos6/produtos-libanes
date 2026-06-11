@@ -7560,6 +7560,22 @@
       ]
     },
     {
+      "id": "chocolate-em-p-70",
+      "descricao": "CHOCOLATE EM PÓ 70%",
+      "categoria": "produtosnaturais",
+      "imagem": "/images/produtosnaturais/CHOCOLATE_EM_PO.jpg",
+      "variacoes": [
+        {
+          "codigo": "4650",
+          "pesoValor": 5.0,
+          "pesoUnidade": "KG",
+          "unidade": "PC",
+          "precoVenda": 160.0,
+          "precoDebitoCredito": 165.0
+        }
+      ]
+    },
+    {
       "id": "chocolate-em-p-50",
       "descricao": "CHOCOLATE EM PÓ 50%",
       "categoria": "produtosnaturais",

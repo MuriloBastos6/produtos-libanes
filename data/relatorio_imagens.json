@@ -1,10 +1,10 @@
 {
   "summary": {
     "categorias": 20,
-    "produtos": 539,
+    "produtos": 540,
     "matched": 550,
     "fallback": 0,
-    "category_without_folder": 0
+    "category_without_folder": 1
   },
   "details": [
     {
@@ -1379,10 +1379,10 @@
       "categoria": "graos",
       "id": "canjicao-amarelo",
       "descricao": "CANJICÃO AMARELO",
-      "imagem": "/arroz.jpeg",
+      "imagem": "/images/graos/canjicao-amarelo.jpg",
       "status": "fixed-existing",
       "score": 999.0,
-      "arquivo_sugerido": "arroz.jpeg"
+      "arquivo_sugerido": "canjicao-amarelo.jpg"
     },
     {
       "categoria": "graos",
@@ -3093,6 +3093,15 @@
       "status": "fixed-existing",
       "score": 999.0,
       "arquivo_sugerido": "CREATINA.jpg"
+    },
+    {
+      "categoria": "produtosnaturais",
+      "id": "chocolate-em-p-70",
+      "descricao": "CHOCOLATE EM PÓ 70%",
+      "imagem": "/arroz.jpeg",
+      "status": "manual-default",
+      "score": 0.0,
+      "arquivo_sugerido": null
     },
     {
       "categoria": "produtosnaturais",
