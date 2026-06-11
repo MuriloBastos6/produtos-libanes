@@ -7431,19 +7431,19 @@
       "variacoes": [
         {
           "codigo": "3009",
-          "pesoValor": 3.0,
+          "pesoValor": 5.0,
           "pesoUnidade": "KG",
           "unidade": "PC",
-          "precoVenda": 78.0,
-          "precoDebitoCredito": 80.5
+          "precoVenda": 142.5,
+          "precoDebitoCredito": 147.0
         },
         {
           "codigo": "2568",
           "pesoValor": 10.0,
           "pesoUnidade": "KG",
           "unidade": "SC",
-          "precoVenda": 260.0,
-          "precoDebitoCredito": 268.0
+          "precoVenda": 280.0,
+          "precoDebitoCredito": 288.5
         }
       ]
     },
