@@ -7,6 +7,15 @@ from difflib import SequenceMatcher
 
 
 IMAGE_EXTENSIONS = {'.jpg', '.jpeg', '.png', '.webp'}
+
+
+def _to_float(value):
+    if value is None or (isinstance(value, float) and pd.isna(value)):
+        return 0.0
+    try:
+        return float(value)
+    except (ValueError, TypeError):
+        return 0.0
 DEFAULT_IMAGE = '/arroz.jpeg'
 
 # Overrides for products that must use a specific image regardless of fuzzy score.
@@ -347,8 +356,8 @@ def converter_xlsx_para_json():
                 'pesoValor': float(row['peso_valor']) if pd.notna(row['peso_valor']) else 0,
                 'pesoUnidade': str(row['peso_unidade']).strip() if pd.notna(row['peso_unidade']) else '',
                 'unidade': str(row['unidade']).strip() if pd.notna(row['unidade']) else '',
-                'precoVenda': float(row['preco_venda']) if pd.notna(row['preco_venda']) else 0.0,
-                'precoDebitoCredito': float(preco_cartao_val) if (preco_cartao_val is not None and pd.notna(preco_cartao_val)) else 0.0
+                'precoVenda': _to_float(row['preco_venda']),
+                'precoDebitoCredito': _to_float(preco_cartao_val)
             }
 
             agrupados[chave]['variacoes'].append(variacao)
