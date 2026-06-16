@@ -958,16 +958,16 @@
           "pesoValor": 5.0,
           "pesoUnidade": "KG",
           "unidade": "PC",
-          "precoVenda": 69.5,
-          "precoDebitoCredito": 71.5
+          "precoVenda": 72.5,
+          "precoDebitoCredito": 74.5
         },
         {
           "codigo": "3081",
           "pesoValor": 10.0,
           "pesoUnidade": "KG",
           "unidade": "PC",
-          "precoVenda": 135.0,
-          "precoDebitoCredito": 139.0
+          "precoVenda": 139.0,
+          "precoDebitoCredito": 143.0
         }
       ]
     },
@@ -982,16 +982,16 @@
           "pesoValor": 5.0,
           "pesoUnidade": "KG",
           "unidade": "PC",
-          "precoVenda": 69.5,
-          "precoDebitoCredito": 71.5
+          "precoVenda": 72.5,
+          "precoDebitoCredito": 74.5
         },
         {
           "codigo": "2234",
           "pesoValor": 10.0,
           "pesoUnidade": "KG",
           "unidade": "PC",
-          "precoVenda": 135.0,
-          "precoDebitoCredito": 139.0
+          "precoVenda": 139.0,
+          "precoDebitoCredito": 143.0
         }
       ]
     },
@@ -1006,16 +1006,16 @@
           "pesoValor": 5.0,
           "pesoUnidade": "KG",
           "unidade": "PC",
-          "precoVenda": 69.5,
-          "precoDebitoCredito": 71.5
+          "precoVenda": 72.5,
+          "precoDebitoCredito": 74.5
         },
         {
           "codigo": "2238",
           "pesoValor": 10.0,
           "pesoUnidade": "KG",
           "unidade": "PC",
-          "precoVenda": 135.0,
-          "precoDebitoCredito": 139.0
+          "precoVenda": 139.0,
+          "precoDebitoCredito": 143.0
         }
       ]
     },
@@ -1054,16 +1054,16 @@
           "pesoValor": 5.0,
           "pesoUnidade": "KG",
           "unidade": "PC",
-          "precoVenda": 69.5,
-          "precoDebitoCredito": 71.5
+          "precoVenda": 72.5,
+          "precoDebitoCredito": 74.5
         },
         {
           "codigo": "2236",
           "pesoValor": 10.0,
           "pesoUnidade": "KG",
           "unidade": "PC",
-          "precoVenda": 135.0,
-          "precoDebitoCredito": 139.0
+          "precoVenda": 139.0,
+          "precoDebitoCredito": 143.0
         }
       ]
     },
@@ -1078,16 +1078,16 @@
           "pesoValor": 5.0,
           "pesoUnidade": "KG",
           "unidade": "PC",
-          "precoVenda": 69.5,
-          "precoDebitoCredito": 71.5
+          "precoVenda": 72.5,
+          "precoDebitoCredito": 74.5
         },
         {
           "codigo": "2232",
           "pesoValor": 10.0,
           "pesoUnidade": "KG",
           "unidade": "PC",
-          "precoVenda": 135.0,
-          "precoDebitoCredito": 139.0
+          "precoVenda": 139.0,
+          "precoDebitoCredito": 143.0
         }
       ]
     },
