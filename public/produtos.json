@@ -3720,16 +3720,16 @@
           "pesoValor": 5.0,
           "pesoUnidade": "KG",
           "unidade": "SC",
-          "precoVenda": 73.5,
-          "precoDebitoCredito": 76.0
+          "precoVenda": 68.0,
+          "precoDebitoCredito": 70.0
         },
         {
           "codigo": "2260",
           "pesoValor": 30.0,
           "pesoUnidade": "KG",
           "unidade": "SC",
-          "precoVenda": 430.0,
-          "precoDebitoCredito": 443.0
+          "precoVenda": 390.0,
+          "precoDebitoCredito": 402.0
         }
       ]
     },
@@ -7128,8 +7128,8 @@
           "pesoValor": 5.0,
           "pesoUnidade": "KG",
           "unidade": "SC",
-          "precoVenda": 182.0,
-          "precoDebitoCredito": 187.5
+          "precoVenda": 278.5,
+          "precoDebitoCredito": 287.0
         },
         {
           "codigo": "2680",
@@ -7144,8 +7144,8 @@
           "pesoValor": 25.0,
           "pesoUnidade": "KG",
           "unidade": "SC",
-          "precoVenda": 900.0,
-          "precoDebitoCredito": 927.0
+          "precoVenda": 1325.0,
+          "precoDebitoCredito": 1365.0
         }
       ]
     },
