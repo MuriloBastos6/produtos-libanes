@@ -8146,16 +8146,16 @@
           "pesoValor": 5.0,
           "pesoUnidade": "KG",
           "unidade": "PC",
-          "precoVenda": 53.0,
-          "precoDebitoCredito": 54.5
+          "precoVenda": 63.0,
+          "precoDebitoCredito": 65.0
         },
         {
           "codigo": "195",
           "pesoValor": 25.0,
           "pesoUnidade": "KG",
           "unidade": "SC",
-          "precoVenda": 255.0,
-          "precoDebitoCredito": 262.5
+          "precoVenda": 300.0,
+          "precoDebitoCredito": 309.0
         }
       ]
     },
