@@ -7,23 +7,23 @@ function Carrosel() {
     {
       slug: "amendoim",
       image: "/amendoim.jpeg",
-      tag: "Paçoca & pé-de-moleque",
-      title: "Amendoim do Arraiá",
-      subtitle: "A base da paçoca e do pé-de-moleque caseiro",
+      tag: "Petisco da torcida",
+      title: "Amendoim pra Torcida",
+      subtitle: "O petisco que não pode faltar na hora do jogo",
       icon: "🥜",
     },
     {
       slug: "graos",
       image: "/graos.jpeg",
-      tag: "Canjica & milho",
-      title: "Grãos da Festa Junina",
-      subtitle: "Canjica branca, amarela e milho pra pipoca",
+      tag: "Milho & cereais",
+      title: "Grãos & Cereais",
+      subtitle: "Canjica, milho e mais pro seu dia de jogo",
       icon: "🌽",
     },
     {
       slug: "farinhas",
       image: "/farinhas.jpeg",
-      tag: "Bolo de milho & cuscuz",
+      tag: "Bolos & receitas",
       title: "Farinhas Tradicionais",
       subtitle: "Fubá, farinha de milho e mandioca pra suas receitas",
       icon: "🌾",
@@ -31,17 +31,17 @@ function Carrosel() {
     {
       slug: "doces",
       image: "/doces.jpeg",
-      tag: "Quentão sem álcool & doces",
-      title: "Doces de São João",
-      subtitle: "Doce de leite, goiabada e mais delícias do arraiá",
+      tag: "Doces & guloseimas",
+      title: "Doces pra Torcer",
+      subtitle: "Doce de leite, goiabada e mais delícias",
       icon: "🍬",
     },
     {
       slug: "especiarias",
       image: "/especiarias.jpeg",
       tag: "Canela, cravo & gengibre",
-      title: "Temperos do Quentão",
-      subtitle: "Especiarias para um quentão de verdade",
+      title: "Temperos & Especiarias",
+      subtitle: "Especiarias pra dar sabor aos pratos do jogo",
       icon: "🌶️",
     },
     {
@@ -49,15 +49,15 @@ function Carrosel() {
       image: "/sementes.jpeg",
       tag: "Pipoca premium",
       title: "Sementes & Pipoca",
-      subtitle: "Milho de pipoca selecionado para a fogueira",
+      subtitle: "Milho de pipoca selecionado pra assistir o jogo",
       icon: "🍿",
     },
     {
       slug: "panificacao",
       image: "/panificacoes.jpeg",
       tag: "Bolo de fubá & broa",
-      title: "Panificação Junina",
-      subtitle: "Tudo para os bolos e broas da festa",
+      title: "Panificação",
+      subtitle: "Tudo para os bolos e pães do dia de jogo",
       icon: "🍞",
     },
     {
@@ -65,7 +65,7 @@ function Carrosel() {
       image: "/bolachas.jpeg",
       tag: "Direto de Minas",
       title: "Bolachas Mineiras",
-      subtitle: "Biscoitos artesanais para acompanhar o café da fogueira",
+      subtitle: "Biscoitos artesanais para acompanhar o café",
       icon: "🍪",
     },
   ];
@@ -144,18 +144,9 @@ function Carrosel() {
 
   return (
     <section
-      className="carrossel carrossel-junino"
-      aria-label="Vitrine Festa Junina"
+      className="carrossel carrossel-copa"
+      aria-label="Vitrine Copa"
     >
-      <div className="carrossel-bandeirinhas" aria-hidden="true">
-        {Array.from({ length: 22 }).map((_, indice) => (
-          <span
-            key={indice}
-            className={`carrossel-bandeirinha cor-${indice % 4}`}
-          />
-        ))}
-      </div>
-
       <div
         className="carrossel-track"
         style={{ transform: `translateX(-${currentIndex * 100}%)` }}

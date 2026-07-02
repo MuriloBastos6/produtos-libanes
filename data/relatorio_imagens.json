@@ -1,10 +1,10 @@
 {
   "summary": {
     "categorias": 20,
-    "produtos": 540,
-    "matched": 551,
+    "produtos": 571,
+    "matched": 572,
     "fallback": 0,
-    "category_without_folder": 0
+    "category_without_folder": 40
   },
   "details": [
     {
@@ -18,6 +18,15 @@
     },
     {
       "categoria": "promoçoes",
+      "id": "amendoim-s-pele",
+      "descricao": "AMENDOIM S/ PELE",
+      "imagem": "/images/amendoim/amendoim-s-pele.jpeg",
+      "status": "linked-by-id",
+      "score": 999.0,
+      "arquivo_sugerido": "amendoim-s-pele.jpeg"
+    },
+    {
+      "categoria": "promoçoes",
       "id": "milho-pipoca-zanella",
       "descricao": "MILHO PIPOCA ZANELLA",
       "imagem": "/images/graos/MILHO_DE_PIPOCA.jpg",
@@ -27,84 +36,345 @@
     },
     {
       "categoria": "promoçoes",
-      "id": "canjica-amarela",
-      "descricao": "CANJICA AMARELA",
-      "imagem": "/images/graos/CANJICA_AMARELA.jpg",
+      "id": "banana-chips-salgada",
+      "descricao": "BANANA CHIPS SALGADA",
+      "imagem": "/images/salgadinhos/BANANA_CHIPS_SALGADA.jpg",
       "status": "linked-by-id",
       "score": 999.0,
-      "arquivo_sugerido": "CANJICA_AMARELA.jpg"
+      "arquivo_sugerido": "BANANA_CHIPS_SALGADA.jpg"
     },
     {
       "categoria": "promoçoes",
-      "id": "canjica-branca",
-      "descricao": "CANJICA BRANCA",
-      "imagem": "/images/graos/CANJICA_BRANCA.jpg",
+      "id": "banana-chips-salsa-e-cebola",
+      "descricao": "BANANA CHIPS SALSA E CEBOLA",
+      "imagem": "/images/salgadinhos/BANANA_CHIPS_CEBOLA_E_SALSA.jpg",
       "status": "linked-by-id",
       "score": 999.0,
-      "arquivo_sugerido": "CANJICA_BRANCA.jpg"
+      "arquivo_sugerido": "BANANA_CHIPS_CEBOLA_E_SALSA.jpg"
     },
     {
       "categoria": "promoçoes",
-      "id": "farinha-de-milho-amarela",
-      "descricao": "FARINHA DE MILHO AMARELA",
-      "imagem": "/images/farinhas/farinha-de-milho-amarela.jpg",
+      "id": "banana-da-terra-chips-salgada",
+      "descricao": "BANANA DA TERRA CHIPS SALGADA",
+      "imagem": "/images/salgadinhos/BANANA_DA_TERRA_CHIPS.jpg",
       "status": "linked-by-id",
       "score": 999.0,
-      "arquivo_sugerido": "farinha-de-milho-amarela.jpg"
+      "arquivo_sugerido": "BANANA_DA_TERRA_CHIPS.jpg"
     },
     {
       "categoria": "promoçoes",
-      "id": "farinha-de-milho-branca",
-      "descricao": "FARINHA DE MILHO BRANCA",
-      "imagem": "/images/farinhas/farinha-de-milho-branca.jpg",
+      "id": "batata-frita-lemon-pepper-mexicana",
+      "descricao": "BATATA FRITA LEMON PEPPER MEXICANA",
+      "imagem": "/images/salgadinhos/BATATA_FRITA_MEXICANA_LEMON_PEPPER.jpg",
       "status": "linked-by-id",
       "score": 999.0,
-      "arquivo_sugerido": "farinha-de-milho-branca.jpg"
+      "arquivo_sugerido": "BATATA_FRITA_MEXICANA_LEMON_PEPPER.jpg"
     },
     {
       "categoria": "promoçoes",
-      "id": "fuba-italiano",
-      "descricao": "FUBA ITALIANO",
-      "imagem": "/images/panificacao/FUBA_ITALIANO.jpg",
+      "id": "batata-frita-mexicana",
+      "descricao": "BATATA FRITA MEXICANA",
+      "imagem": "/images/salgadinhos/BATATA_FRITA_MEXICANA.jpg",
       "status": "linked-by-id",
       "score": 999.0,
-      "arquivo_sugerido": "FUBA_ITALIANO.jpg"
+      "arquivo_sugerido": "BATATA_FRITA_MEXICANA.jpg"
     },
     {
       "categoria": "promoçoes",
-      "id": "fuba-mimoso-integrada",
-      "descricao": "FUBA MIMOSO INTEGRADA",
-      "imagem": "/images/panificacao/FUBA_MIMOSO.jpg",
+      "id": "batata-frita-pimenta-mexicana",
+      "descricao": "BATATA FRITA PIMENTA MEXICANA",
+      "imagem": "/images/salgadinhos/BATATA_FRITA_MEXICANA_PIMENTA.jpg",
       "status": "linked-by-id",
       "score": 999.0,
-      "arquivo_sugerido": "FUBA_MIMOSO.jpg"
+      "arquivo_sugerido": "BATATA_FRITA_MEXICANA_PIMENTA.jpg"
     },
     {
       "categoria": "promoçoes",
-      "id": "canela-em-po",
-      "descricao": "CANELA EM PO",
-      "imagem": "/images/especiarias/CANELA_EM_PO.jpg",
+      "id": "batata-frita-salsa-mexicana",
+      "descricao": "BATATA FRITA SALSA MEXICANA",
+      "imagem": "/images/salgadinhos/BATATA_FRITA_MEXICANA_CEBOLA_E_SALSA.jpg",
       "status": "linked-by-id",
       "score": 999.0,
-      "arquivo_sugerido": "CANELA_EM_PO.jpg"
+      "arquivo_sugerido": "BATATA_FRITA_MEXICANA_CEBOLA_E_SALSA.jpg"
     },
     {
       "categoria": "promoçoes",
-      "id": "canela-casca-6-cm",
-      "descricao": "CANELA CASCA 6 CM",
-      "imagem": "/images/especiarias/CANELA_CASCA_6CM.jpg",
+      "id": "mix-batata-doce-chips",
+      "descricao": "MIX BATATA DOCE CHIPS",
+      "imagem": "/images/salgadinhos/MIX_DE_BATATA_DOCE.jpg",
       "status": "linked-by-id",
       "score": 999.0,
-      "arquivo_sugerido": "CANELA_CASCA_6CM.jpg"
+      "arquivo_sugerido": "MIX_DE_BATATA_DOCE.jpg"
     },
     {
       "categoria": "promoçoes",
-      "id": "cravo-da-india",
-      "descricao": "CRAVO DA INDIA",
-      "imagem": "/images/especiarias/CRAVO_DA_INDIA.jpg",
+      "id": "amendoim-ovinho",
+      "descricao": "AMENDOIM OVINHO",
+      "imagem": "/images/amendoim/amendoim-ovinho.jpg",
       "status": "linked-by-id",
       "score": 999.0,
-      "arquivo_sugerido": "CRAVO_DA_INDIA.jpg"
+      "arquivo_sugerido": "amendoim-ovinho.jpg"
+    },
+    {
+      "categoria": "promoçoes",
+      "id": "amendoim-ovinho-salsa-e-cebola",
+      "descricao": "AMENDOIM OVINHO SALSA E CEBOLA",
+      "imagem": "/images/amendoim/amendoim-ovinho-cebola-salsa.jpg",
+      "status": "linked-by-id",
+      "score": 999.0,
+      "arquivo_sugerido": "amendoim-ovinho-cebola-salsa.jpg"
+    },
+    {
+      "categoria": "promoçoes",
+      "id": "crocante-bacon-balsamo",
+      "descricao": "CROCANTE BACON BALSAMO",
+      "imagem": "/images/amendoim/CROCANTE_BACON.jpg",
+      "status": "linked-by-id",
+      "score": 999.0,
+      "arquivo_sugerido": "CROCANTE_BACON.jpg"
+    },
+    {
+      "categoria": "promoçoes",
+      "id": "crocante-c-salsa-balsamo",
+      "descricao": "CROCANTE C/ SALSA BALSAMO",
+      "imagem": "/images/amendoim/CROCANTE_SALSA.jpg",
+      "status": "linked-by-id",
+      "score": 999.0,
+      "arquivo_sugerido": "CROCANTE_SALSA.jpg"
+    },
+    {
+      "categoria": "promoçoes",
+      "id": "crocante-com-pimenta-balsamo",
+      "descricao": "CROCANTE COM  PIMENTA BALSAMO",
+      "imagem": "/images/amendoim/CROCANTE_PIMENTA.jpg",
+      "status": "linked-by-id",
+      "score": 999.0,
+      "arquivo_sugerido": "CROCANTE_PIMENTA.jpg"
+    },
+    {
+      "categoria": "promoçoes",
+      "id": "crocante-japones-balsamo",
+      "descricao": "CROCANTE JAPONES BALSAMO",
+      "imagem": "/images/amendoim/CROCANTE_JAPONES.jpg",
+      "status": "linked-by-id",
+      "score": 999.0,
+      "arquivo_sugerido": "CROCANTE_JAPONES.jpg"
+    },
+    {
+      "categoria": "promoçoes",
+      "id": "crocante-natural-balsamo",
+      "descricao": "CROCANTE NATURAL BALSAMO",
+      "imagem": "/images/amendoim/CROCANTE_NATURAL.jpg",
+      "status": "linked-by-id",
+      "score": 999.0,
+      "arquivo_sugerido": "CROCANTE_NATURAL.jpg"
+    },
+    {
+      "categoria": "promoçoes",
+      "id": "amendoim-s-pele-torrado-c-sal",
+      "descricao": "AMENDOIM S/ PELE TORRADO C/ SAL",
+      "imagem": "/images/amendoim/AMENDOIM-S- PELE-TORRADO-C-sAL.jpg",
+      "status": "linked-by-id",
+      "score": 999.0,
+      "arquivo_sugerido": "AMENDOIM-S- PELE-TORRADO-C-sAL.jpg"
+    },
+    {
+      "categoria": "promoçoes",
+      "id": "amendoim-s-pele-torrado-s-sal",
+      "descricao": "AMENDOIM S/ PELE TORRADO S/ SAL",
+      "imagem": "/images/amendoim/amendoim-s-pele-torrado-s-sal.jpg",
+      "status": "linked-by-id",
+      "score": 999.0,
+      "arquivo_sugerido": "amendoim-s-pele-torrado-s-sal.jpg"
+    },
+    {
+      "categoria": "promoçoes",
+      "id": "amendoim-frito-c-alho-c-pele",
+      "descricao": "AMENDOIM FRITO C/ ALHO C/ PELE",
+      "imagem": "/images/amendoim/amendoim-frito-c-alho-c-pele.jpg",
+      "status": "linked-by-id",
+      "score": 999.0,
+      "arquivo_sugerido": "amendoim-frito-c-alho-c-pele.jpg"
+    },
+    {
+      "categoria": "promoçoes",
+      "id": "amendoim-frito-c-alho-s-pele",
+      "descricao": "AMENDOIM FRITO C/ ALHO S/ PELE",
+      "imagem": "/images/amendoim/amendoim-frito-com-alho-sem-pele.jpg",
+      "status": "linked-by-id",
+      "score": 999.0,
+      "arquivo_sugerido": "amendoim-frito-com-alho-sem-pele.jpg"
+    },
+    {
+      "categoria": "promoçoes",
+      "id": "amendoim-frito-c-sal-c-pele",
+      "descricao": "AMENDOIM FRITO C/ SAL C/ PELE",
+      "imagem": "/images/amendoim/amendoim-frito-com-sal-com-pele.jpg",
+      "status": "linked-by-id",
+      "score": 999.0,
+      "arquivo_sugerido": "amendoim-frito-com-sal-com-pele.jpg"
+    },
+    {
+      "categoria": "promoçoes",
+      "id": "amendoim-frito-c-sal-spele",
+      "descricao": "AMENDOIM FRITO C/ SAL  S/PELE",
+      "imagem": "/images/amendoim/amendoim-frito-com-sal-sem-pele.jpg",
+      "status": "linked-by-id",
+      "score": 999.0,
+      "arquivo_sugerido": "amendoim-frito-com-sal-sem-pele.jpg"
+    },
+    {
+      "categoria": "promoçoes",
+      "id": "salgadinho-bacon",
+      "descricao": "SALGADINHO BACON",
+      "imagem": "/images/salgadinhos/SALGADINHO_BACON.jpg",
+      "status": "linked-by-id",
+      "score": 999.0,
+      "arquivo_sugerido": "SALGADINHO_BACON.jpg"
+    },
+    {
+      "categoria": "promoçoes",
+      "id": "salgadinho-calabresa",
+      "descricao": "SALGADINHO CALABRESA",
+      "imagem": "/images/salgadinhos/SALGADINHO_CALABRESA.jpg",
+      "status": "linked-by-id",
+      "score": 999.0,
+      "arquivo_sugerido": "SALGADINHO_CALABRESA.jpg"
+    },
+    {
+      "categoria": "promoçoes",
+      "id": "salgadinho-camaro",
+      "descricao": "SALGADINHO CAMARÃO",
+      "imagem": "/images/salgadinhos/SALGADINHO_CAMARAO.jpg",
+      "status": "linked-by-id",
+      "score": 999.0,
+      "arquivo_sugerido": "SALGADINHO_CAMARAO.jpg"
+    },
+    {
+      "categoria": "promoçoes",
+      "id": "salgadinho-cebola-e-salsa",
+      "descricao": "SALGADINHO CEBOLA E SALSA",
+      "imagem": "/images/salgadinhos/BATATA_FRITA_MEXICANA_CEBOLA_E_SALSA.jpg",
+      "status": "linked-by-id",
+      "score": 999.0,
+      "arquivo_sugerido": "BATATA_FRITA_MEXICANA_CEBOLA_E_SALSA.jpg"
+    },
+    {
+      "categoria": "promoçoes",
+      "id": "salgadinho-churrasco",
+      "descricao": "SALGADINHO CHURRASCO",
+      "imagem": "/images/salgadinhos/SALGADINHO_CHURRASCO.jpg",
+      "status": "linked-by-id",
+      "score": 999.0,
+      "arquivo_sugerido": "SALGADINHO_CHURRASCO.jpg"
+    },
+    {
+      "categoria": "promoçoes",
+      "id": "salgadinho-pimenta-mexicana",
+      "descricao": "SALGADINHO PIMENTA MEXICANA",
+      "imagem": "/images/salgadinhos/BATATA_FRITA_MEXICANA_PIMENTA.jpg",
+      "status": "linked-by-id",
+      "score": 999.0,
+      "arquivo_sugerido": "BATATA_FRITA_MEXICANA_PIMENTA.jpg"
+    },
+    {
+      "categoria": "promoçoes",
+      "id": "salgadinho-pizza",
+      "descricao": "SALGADINHO PIZZA",
+      "imagem": "/images/salgadinhos/SALGADINHO_BACON.jpg",
+      "status": "linked-by-id",
+      "score": 999.0,
+      "arquivo_sugerido": "SALGADINHO_BACON.jpg"
+    },
+    {
+      "categoria": "promoçoes",
+      "id": "salgadinho-queijo",
+      "descricao": "SALGADINHO QUEIJO",
+      "imagem": "/images/salgadinhos/SALGADINHO_BACON.jpg",
+      "status": "linked-by-id",
+      "score": 999.0,
+      "arquivo_sugerido": "SALGADINHO_BACON.jpg"
+    },
+    {
+      "categoria": "promoçoes",
+      "id": "mandioca-frita-chips",
+      "descricao": "MANDIOCA FRITA CHIPS",
+      "imagem": "/images/salgadinhos/MANDIOCA_FRITAS_CHIPS.jpg",
+      "status": "linked-by-id",
+      "score": 999.0,
+      "arquivo_sugerido": "MANDIOCA_FRITAS_CHIPS.jpg"
+    },
+    {
+      "categoria": "promoçoes",
+      "id": "rabinho-de-porco-desidratado",
+      "descricao": "RABINHO DE PORCO DESIDRATADO",
+      "imagem": "/images/salgadinhos/RABINHO_DE_PORCO.jpg",
+      "status": "linked-by-id",
+      "score": 999.0,
+      "arquivo_sugerido": "RABINHO_DE_PORCO.jpg"
+    },
+    {
+      "categoria": "promoçoes",
+      "id": "torresmo-pronto",
+      "descricao": "TORRESMO PRONTO",
+      "imagem": "/images/salgadinhos/TORRESMO_PRONTO.jpg",
+      "status": "linked-by-id",
+      "score": 999.0,
+      "arquivo_sugerido": "TORRESMO_PRONTO.jpg"
+    },
+    {
+      "categoria": "promoçoes",
+      "id": "cajuina-so-geraldo",
+      "descricao": "CAJUINA SÃO GERALDO",
+      "imagem": "/images/refris/cajuina-sao-geraldo.jpg",
+      "status": "linked-by-id",
+      "score": 999.0,
+      "arquivo_sugerido": "cajuina-sao-geraldo.jpg"
+    },
+    {
+      "categoria": "promoçoes",
+      "id": "cajuina-so-geraldo-lata",
+      "descricao": "CAJUINA SÃO GERALDO  LATA",
+      "imagem": "/images/refris/cajuina-sao-geraldo-lata.jpg",
+      "status": "linked-by-id",
+      "score": 999.0,
+      "arquivo_sugerido": "cajuina-sao-geraldo-lata.jpg"
+    },
+    {
+      "categoria": "promoçoes",
+      "id": "cajuina-so-geraldo-zero-lata",
+      "descricao": "CAJUINA SÃO GERALDO ZERO  LATA",
+      "imagem": "/images/refris/cajuina-sao-geraldo-zero-lata.jpg",
+      "status": "linked-by-id",
+      "score": 999.0,
+      "arquivo_sugerido": "cajuina-sao-geraldo-zero-lata.jpg"
+    },
+    {
+      "categoria": "promoçoes",
+      "id": "guarana-jesus-garrafa",
+      "descricao": "GUARANA JESUS GARRAFA",
+      "imagem": "/images/refris/GUARANA_JESUS.jpg",
+      "status": "linked-by-id",
+      "score": 999.0,
+      "arquivo_sugerido": "GUARANA_JESUS.jpg"
+    },
+    {
+      "categoria": "promoçoes",
+      "id": "guarana-jesus-lata",
+      "descricao": "GUARANA JESUS LATA",
+      "imagem": "/images/refris/GUARANA_JESUS_LATA.jpg",
+      "status": "linked-by-id",
+      "score": 999.0,
+      "arquivo_sugerido": "GUARANA_JESUS_LATA.jpg"
+    },
+    {
+      "categoria": "promoçoes",
+      "id": "laranja-so-geraldo-lata",
+      "descricao": "LARANJA SÃO GERALDO LATA",
+      "imagem": "/images/refris/laranja-sao-geraldo-lata.jpg",
+      "status": "linked-by-id",
+      "score": 999.0,
+      "arquivo_sugerido": "laranja-sao-geraldo-lata.jpg"
     },
     {
       "categoria": "amendoim",
@@ -2013,6 +2283,15 @@
       "status": "fixed-existing",
       "score": 999.0,
       "arquivo_sugerido": "AMACIANTE_DE_CARNE.jpg"
+    },
+    {
+      "categoria": "especiarias",
+      "id": "pecarbonato-jezza",
+      "descricao": "PECARBONATO JEZZA",
+      "imagem": "/arroz.jpeg",
+      "status": "manual-default",
+      "score": 0.0,
+      "arquivo_sugerido": null
     },
     {
       "categoria": "especiarias",
