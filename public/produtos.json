@@ -2740,24 +2740,16 @@
           "pesoValor": 1.0,
           "pesoUnidade": "KG",
           "unidade": "PC",
-          "precoVenda": 36.0,
-          "precoDebitoCredito": 37.0
-        },
-        {
-          "codigo": "3869",
-          "pesoValor": 20.0,
-          "pesoUnidade": "KG",
-          "unidade": "SC",
-          "precoVenda": 720.0,
-          "precoDebitoCredito": 741.5
+          "precoVenda": 31.0,
+          "precoDebitoCredito": 32.0
         },
         {
           "codigo": "2248",
           "pesoValor": 25.0,
           "pesoUnidade": "KG",
           "unidade": "SC",
-          "precoVenda": 900.0,
-          "precoDebitoCredito": 927.0
+          "precoVenda": 775.0,
+          "precoDebitoCredito": 798.5
         }
       ]
     },
