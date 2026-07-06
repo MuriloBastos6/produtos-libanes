@@ -2,9 +2,9 @@
   "summary": {
     "categorias": 20,
     "produtos": 571,
-    "matched": 572,
+    "matched": 612,
     "fallback": 0,
-    "category_without_folder": 40
+    "category_without_folder": 0
   },
   "details": [
     {
@@ -2288,10 +2288,10 @@
       "categoria": "especiarias",
       "id": "pecarbonato-jezza",
       "descricao": "PECARBONATO JEZZA",
-      "imagem": "/arroz.jpeg",
-      "status": "manual-default",
-      "score": 0.0,
-      "arquivo_sugerido": null
+      "imagem": "/images/especiarias/pecarbonato-jezza.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "pecarbonato-jezza.jpg"
     },
     {
       "categoria": "especiarias",
