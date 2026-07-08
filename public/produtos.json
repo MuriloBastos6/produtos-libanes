@@ -5611,7 +5611,7 @@
     },
     {
       "id": "pecarbonato-jezza",
-      "descricao": "PECARBONATO JEZZA",
+      "descricao": "PERCARBONATO JEZZA",
       "categoria": "especiarias",
       "imagem": "/images/especiarias/pecarbonato-jezza.jpg",
       "variacoes": [
@@ -11028,8 +11028,8 @@
           "pesoValor": 10.0,
           "pesoUnidade": "500G",
           "unidade": "PT",
-          "precoVenda": 167.0,
-          "precoDebitoCredito": 172.0
+          "precoVenda": 177.0,
+          "precoDebitoCredito": 182.5
         }
       ]
     },
@@ -11374,8 +11374,8 @@
           "pesoValor": 2.5,
           "pesoUnidade": "KG",
           "unidade": "PC",
-          "precoVenda": 92.0,
-          "precoDebitoCredito": 95.0
+          "precoVenda": 104.0,
+          "precoDebitoCredito": 107.0
         }
       ]
     },
@@ -11390,8 +11390,8 @@
           "pesoValor": 2.5,
           "pesoUnidade": "KG",
           "unidade": "PC",
-          "precoVenda": 72.0,
-          "precoDebitoCredito": 74.0
+          "precoVenda": 101.0,
+          "precoDebitoCredito": 104.0
         }
       ]
     },
@@ -11406,8 +11406,8 @@
           "pesoValor": 2.0,
           "pesoUnidade": "KG",
           "unidade": "PC",
-          "precoVenda": 65.0,
-          "precoDebitoCredito": 67.0
+          "precoVenda": 76.0,
+          "precoDebitoCredito": 78.5
         }
       ]
     },
@@ -11422,8 +11422,8 @@
           "pesoValor": 2.5,
           "pesoUnidade": "KG",
           "unidade": "PC",
-          "precoVenda": 81.5,
-          "precoDebitoCredito": 84.0
+          "precoVenda": 94.0,
+          "precoDebitoCredito": 97.0
         }
       ]
     },
@@ -11438,8 +11438,8 @@
           "pesoValor": 2.5,
           "pesoUnidade": "KG",
           "unidade": "PC",
-          "precoVenda": 87.5,
-          "precoDebitoCredito": 90.5
+          "precoVenda": 94.5,
+          "precoDebitoCredito": 97.5
         }
       ]
     },
@@ -11454,8 +11454,8 @@
           "pesoValor": 2.5,
           "pesoUnidade": "KG",
           "unidade": "PC",
-          "precoVenda": 94.0,
-          "precoDebitoCredito": 97.0
+          "precoVenda": 101.0,
+          "precoDebitoCredito": 104.0
         }
       ]
     },
@@ -11486,8 +11486,8 @@
           "pesoValor": 2.5,
           "pesoUnidade": "KG",
           "unidade": "PC",
-          "precoVenda": 81.5,
-          "precoDebitoCredito": 84.0
+          "precoVenda": 89.0,
+          "precoDebitoCredito": 91.5
         }
       ]
     },
@@ -11502,8 +11502,8 @@
           "pesoValor": 2.5,
           "pesoUnidade": "KG",
           "unidade": "PC",
-          "precoVenda": 87.5,
-          "precoDebitoCredito": 90.5
+          "precoVenda": 104.0,
+          "precoDebitoCredito": 107.0
         }
       ]
     },
@@ -11518,8 +11518,24 @@
           "pesoValor": 2.5,
           "pesoUnidade": "KG",
           "unidade": "PC",
-          "precoVenda": 119.0,
-          "precoDebitoCredito": 122.5
+          "precoVenda": 126.0,
+          "precoDebitoCredito": 130.0
+        }
+      ]
+    },
+    {
+      "id": "bolacha-kishow-lemon",
+      "descricao": "BOLACHA KISHOW LIMÃO",
+      "categoria": "bolachas",
+      "imagem": "/images/doces/bolacha-kishow-limao.webp",
+      "variacoes": [
+        {
+          "codigo": "2205",
+          "pesoValor": 2.5,
+          "pesoUnidade": "KG",
+          "unidade": "PC",
+          "precoVenda": 126.0,
+          "precoDebitoCredito": 130.0
         }
       ]
     },
@@ -11534,8 +11550,8 @@
           "pesoValor": 2.5,
           "pesoUnidade": "KG",
           "unidade": "PC",
-          "precoVenda": 114.0,
-          "precoDebitoCredito": 117.5
+          "precoVenda": 126.0,
+          "precoDebitoCredito": 130.0
         }
       ]
     },
@@ -11550,8 +11566,8 @@
           "pesoValor": 2.5,
           "pesoUnidade": "KG",
           "unidade": "PC",
-          "precoVenda": 87.5,
-          "precoDebitoCredito": 90.5
+          "precoVenda": 94.5,
+          "precoDebitoCredito": 97.5
         }
       ]
     },
@@ -11566,8 +11582,8 @@
           "pesoValor": 1.5,
           "pesoUnidade": "KG",
           "unidade": "PC",
-          "precoVenda": 54.0,
-          "precoDebitoCredito": 56.0
+          "precoVenda": 61.0,
+          "precoDebitoCredito": 63.0
         }
       ]
     },
@@ -11582,8 +11598,8 @@
           "pesoValor": 2.5,
           "pesoUnidade": "KG",
           "unidade": "PC",
-          "precoVenda": 130.0,
-          "precoDebitoCredito": 134.0
+          "precoVenda": 143.0,
+          "precoDebitoCredito": 147.5
         }
       ]
     },
@@ -11662,8 +11678,8 @@
           "pesoValor": 2.5,
           "pesoUnidade": "KG",
           "unidade": "PC",
-          "precoVenda": 81.5,
-          "precoDebitoCredito": 84.0
+          "precoVenda": 89.0,
+          "precoDebitoCredito": 91.5
         }
       ]
     }

@@ -1,8 +1,8 @@
 {
   "summary": {
     "categorias": 20,
-    "produtos": 571,
-    "matched": 612,
+    "produtos": 572,
+    "matched": 613,
     "fallback": 0,
     "category_without_folder": 0
   },
@@ -2287,7 +2287,7 @@
     {
       "categoria": "especiarias",
       "id": "pecarbonato-jezza",
-      "descricao": "PECARBONATO JEZZA",
+      "descricao": "PERCARBONATO JEZZA",
       "imagem": "/images/especiarias/pecarbonato-jezza.jpg",
       "status": "fixed-existing",
       "score": 999.0,
@@ -4992,6 +4992,15 @@
       "status": "fixed-existing",
       "score": 999.0,
       "arquivo_sugerido": "BOLACHA_KISHOW.jpg"
+    },
+    {
+      "categoria": "bolachas",
+      "id": "bolacha-kishow-lemon",
+      "descricao": "BOLACHA KISHOW LIMÃO",
+      "imagem": "/images/doces/bolacha-kishow-limao.webp",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "bolacha-kishow-limao.webp"
     },
     {
       "categoria": "bolachas",
