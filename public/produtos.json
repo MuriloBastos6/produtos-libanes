@@ -5948,8 +5948,8 @@
           "pesoValor": 18.0,
           "pesoUnidade": "X1KG",
           "unidade": "CX",
-          "precoVenda": 192.0,
-          "precoDebitoCredito": 198.0
+          "precoVenda": 209.0,
+          "precoDebitoCredito": 215.5
         }
       ]
     },
@@ -7440,16 +7440,16 @@
           "pesoValor": 5.0,
           "pesoUnidade": "KG",
           "unidade": "PC",
-          "precoVenda": 147.0,
-          "precoDebitoCredito": 151.5
+          "precoVenda": 108.5,
+          "precoDebitoCredito": 112.0
         },
         {
           "codigo": "2555",
           "pesoValor": 25.0,
           "pesoUnidade": "KG",
           "unidade": "SC",
-          "precoVenda": 725.0,
-          "precoDebitoCredito": 747.0
+          "precoVenda": 525.0,
+          "precoDebitoCredito": 540.5
         }
       ]
     },
