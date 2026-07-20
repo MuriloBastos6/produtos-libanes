@@ -7,9 +7,9 @@ function Carrosel() {
     {
       slug: "amendoim",
       image: "/amendoim.jpeg",
-      tag: "Petisco da torcida",
-      title: "Amendoim pra Torcida",
-      subtitle: "O petisco que não pode faltar na hora do jogo",
+      tag: "Petisco em destaque",
+      title: "Amendoim Selecionado",
+      subtitle: "O petisco que não pode faltar no seu dia a dia",
       icon: "🥜",
     },
     {
@@ -17,7 +17,7 @@ function Carrosel() {
       image: "/graos.jpeg",
       tag: "Milho & cereais",
       title: "Grãos & Cereais",
-      subtitle: "Canjica, milho e mais pro seu dia de jogo",
+      subtitle: "Canjica, milho e mais pra sua despensa",
       icon: "🌽",
     },
     {
@@ -32,7 +32,7 @@ function Carrosel() {
       slug: "doces",
       image: "/doces.jpeg",
       tag: "Doces & guloseimas",
-      title: "Doces pra Torcer",
+      title: "Doces pra Comemorar",
       subtitle: "Doce de leite, goiabada e mais delícias",
       icon: "🍬",
     },
@@ -41,7 +41,7 @@ function Carrosel() {
       image: "/especiarias.jpeg",
       tag: "Canela, cravo & gengibre",
       title: "Temperos & Especiarias",
-      subtitle: "Especiarias pra dar sabor aos pratos do jogo",
+      subtitle: "Especiarias pra dar sabor aos seus pratos",
       icon: "🌶️",
     },
     {
@@ -49,7 +49,7 @@ function Carrosel() {
       image: "/sementes.jpeg",
       tag: "Pipoca premium",
       title: "Sementes & Pipoca",
-      subtitle: "Milho de pipoca selecionado pra assistir o jogo",
+      subtitle: "Milho de pipoca selecionado pra sua pipoca perfeita",
       icon: "🍿",
     },
     {
@@ -57,7 +57,7 @@ function Carrosel() {
       image: "/panificacoes.jpeg",
       tag: "Bolo de fubá & broa",
       title: "Panificação",
-      subtitle: "Tudo para os bolos e pães do dia de jogo",
+      subtitle: "Tudo para os bolos e pães do seu dia a dia",
       icon: "🍞",
     },
     {
@@ -144,8 +144,8 @@ function Carrosel() {
 
   return (
     <section
-      className="carrossel carrossel-copa"
-      aria-label="Vitrine Copa"
+      className="carrossel carrossel-destaques"
+      aria-label="Vitrine de Produtos"
     >
       <div
         className="carrossel-track"

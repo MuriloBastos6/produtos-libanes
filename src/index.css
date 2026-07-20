@@ -516,8 +516,8 @@ body::-webkit-scrollbar {
   right: 12px;
 }
 
-/* ===== Carrossel Festa Junina ===== */
-.carrossel-copa {
+/* ===== Carrossel de Destaques ===== */
+.carrossel-destaques {
   --cc-azul-escuro: #0b3d91;
   --cc-azul: #1565c0;
   --cc-azul-claro: #1e88e5;
@@ -528,13 +528,13 @@ body::-webkit-scrollbar {
   background: var(--cc-azul-escuro);
 }
 
-/* Esconde o gradiente branco anterior no modo copa */
-.carrossel-copa.carrossel::before {
+/* Esconde o gradiente branco anterior no modo destaques */
+.carrossel-destaques.carrossel::before {
   display: none;
 }
 
 /* Overlay azul (clima de campo) substituindo o preto */
-.carrossel-copa .carrossel-overlay {
+.carrossel-destaques .carrossel-overlay {
   background: linear-gradient(to top,
       rgba(11, 61, 145, 0.9) 0%,
       rgba(21, 101, 192, 0.6) 35%,
@@ -546,12 +546,12 @@ body::-webkit-scrollbar {
   text-align: left;
 }
 
-.carrossel-copa .carrossel-img {
+.carrossel-destaques .carrossel-img {
   filter: brightness(0.78) saturate(1.05);
   transition: transform 0.6s ease, filter 0.4s ease;
 }
 
-.carrossel-copa .carrossel-slide-link:hover .carrossel-img {
+.carrossel-destaques .carrossel-slide-link:hover .carrossel-img {
   transform: scale(1.04);
   filter: brightness(0.85) saturate(1.15);
 }
@@ -578,7 +578,7 @@ body::-webkit-scrollbar {
   line-height: 1;
 }
 
-.carrossel-copa .carrossel-overlay h2 {
+.carrossel-destaques .carrossel-overlay h2 {
   font-size: clamp(1.6rem, 3.4vw, 2.6rem);
   font-weight: 800;
   text-transform: uppercase;
@@ -588,7 +588,7 @@ body::-webkit-scrollbar {
   line-height: 1.12;
 }
 
-.carrossel-copa .carrossel-overlay p {
+.carrossel-destaques .carrossel-overlay p {
   font-size: clamp(0.95rem, 1.5vw, 1.15rem);
   color: #eaf3ff;
   text-shadow: 0 2px 6px rgba(0, 0, 0, 0.5);
@@ -618,8 +618,8 @@ body::-webkit-scrollbar {
   box-shadow: 0 8px 20px rgba(11, 61, 145, 0.55);
 }
 
-/* Botões redondos com cara de copa */
-.carrossel-copa .carrossel-btn {
+/* Botões redondos de destaque */
+.carrossel-destaques .carrossel-btn {
   background: var(--cc-amarelo);
   color: var(--cc-azul-escuro);
   width: 46px;
@@ -631,7 +631,7 @@ body::-webkit-scrollbar {
   transition: transform 0.2s ease;
 }
 
-.carrossel-copa .carrossel-btn:hover {
+.carrossel-destaques .carrossel-btn:hover {
   transform: translateY(-50%) scale(1.08);
 }
 
@@ -669,13 +669,13 @@ body::-webkit-scrollbar {
 }
 
 @media (max-width: 768px) {
-  .carrossel-copa .carrossel-overlay {
+  .carrossel-destaques .carrossel-overlay {
     padding: 2.2rem 1rem 2.4rem;
     align-items: center;
     text-align: center;
   }
 
-  .carrossel-copa .carrossel-overlay p {
+  .carrossel-destaques .carrossel-overlay p {
     max-width: 28ch;
   }
 
@@ -752,86 +752,70 @@ body::-webkit-scrollbar {
   border-radius: 10px;
 }
 
-/* ===== Copa / Campo de Futebol ===== */
-.secao-copa {
-  --copa-azul-escuro: #0b3d91;
-  --copa-azul: #1565c0;
-  --copa-azul-claro: #1e88e5;
-  --copa-amarelo: #ffd23f;
-  --copa-branco: #ffffff;
-  --copa-linha: rgba(255, 255, 255, 0.6);
+/* ===== Destaques / Promoções ===== */
+.secao-destaques {
+  --destaque-azul-escuro: #0b3d91;
+  --destaque-azul: #1565c0;
+  --destaque-azul-claro: #1e88e5;
+  --destaque-amarelo: #ffd23f;
+  --destaque-branco: #ffffff;
+  --destaque-linha: rgba(255, 255, 255, 0.6);
 }
 
-.copa-banner {
+.destaque-banner {
   position: relative;
   width: min(95%, 1220px);
   margin: -4.5rem auto 1.2rem;
+  min-height: 260px;
   border-radius: 1rem;
   overflow: hidden;
   z-index: 2;
-  /* faixas de "grama cortada" + gradiente do campo */
-  background:
-    repeating-linear-gradient(90deg,
-      rgba(255, 255, 255, 0.05) 0 64px,
-      rgba(255, 255, 255, 0) 64px 128px),
-    linear-gradient(135deg, var(--copa-azul-escuro) 0%, var(--copa-azul) 55%, var(--copa-azul-claro) 100%);
+  background: var(--destaque-azul-escuro);
   box-shadow: var(--shadow-soft), 0 10px 24px rgba(11, 61, 145, 0.4);
-  padding: 2.6rem 1.4rem;
   isolation: isolate;
+  display: flex;
+  align-items: flex-end;
 }
 
-/* linhas do campo: borda externa, linha central e círculo central */
-.copa-campo {
+/* foto de fundo desbotando para o azul do banner */
+.destaque-foto {
   position: absolute;
-  inset: 16px;
-  z-index: 1;
-  border: 2px solid var(--copa-linha);
-  border-radius: 8px;
-  pointer-events: none;
+  inset: 0;
+  z-index: 0;
+  background-size: cover;
+  background-position: center;
 }
 
-/* linha central vertical */
-.copa-campo::before {
+.destaque-foto::after {
   content: "";
   position: absolute;
-  top: 0;
-  bottom: 0;
-  left: 50%;
-  width: 2px;
-  background: var(--copa-linha);
-  transform: translateX(-50%);
+  inset: 0;
+  background: linear-gradient(
+    180deg,
+    rgba(11, 61, 145, 0.35) 0%,
+    var(--destaque-azul-escuro) 75%,
+    var(--destaque-azul) 100%
+  );
 }
 
-/* círculo central */
-.copa-campo::after {
-  content: "";
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  width: clamp(90px, 16vw, 150px);
-  height: clamp(90px, 16vw, 150px);
-  border: 2px solid var(--copa-linha);
-  border-radius: 50%;
-  transform: translate(-50%, -50%);
-}
-
-.copa-overlay {
+.destaque-overlay {
   position: relative;
   z-index: 2;
   display: flex;
   flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  text-align: center;
+  align-items: flex-start;
+  justify-content: flex-end;
+  text-align: left;
   color: #fff;
-  padding: 1.8rem 1rem;
+  width: 100%;
+  padding: 2.6rem 1.6rem 1.8rem;
   text-shadow: 0 2px 6px rgba(0, 0, 0, 0.45);
 }
 
-.copa-selo {
+.destaque-selo {
   display: inline-block;
-  background: var(--copa-amarelo);
-  color: var(--copa-azul-escuro);
+  background: var(--destaque-amarelo);
+  color: var(--destaque-azul-escuro);
   font-weight: 700;
   font-size: clamp(0.75rem, 1.4vw, 0.95rem);
   letter-spacing: 0.18em;
@@ -844,7 +828,7 @@ body::-webkit-scrollbar {
   box-shadow: 0 3px 10px rgba(0, 0, 0, 0.25);
 }
 
-.copa-overlay h2 {
+.destaque-overlay h2 {
   margin: 0;
   font-size: clamp(1.6rem, 3.6vw, 2.8rem);
   font-weight: 800;
@@ -854,7 +838,7 @@ body::-webkit-scrollbar {
   color: #fff;
 }
 
-.copa-overlay p {
+.destaque-overlay p {
   margin: 0.6rem 0 0;
   font-size: clamp(0.95rem, 1.4vw, 1.15rem);
   font-weight: 500;
@@ -862,27 +846,21 @@ body::-webkit-scrollbar {
   max-width: 38ch;
 }
 
-/* Faixa quadriculada (bandeira de chegada) abaixo do banner */
-.copa-faixa {
+/* Faixa abaixo do banner */
+.destaque-faixa {
   width: min(95%, 1220px);
-  margin: -0.5rem auto 0;
+  margin: 0.8rem auto 0;
   padding: 0.7rem 1rem;
-  background-color: var(--copa-azul);
-  background-image:
-    repeating-conic-gradient(#f4f4f4 0% 25%, #1b1b1b 0% 50%);
-  background-size: 22px 22px;
-  border-radius: 0 0 1rem 1rem;
-  box-shadow: 0 6px 14px rgba(0, 0, 0, 0.1);
   position: relative;
   z-index: 1;
 }
 
-.copa-faixa p {
+.destaque-faixa p {
   margin: 0 auto;
   width: fit-content;
   max-width: 100%;
-  background: var(--copa-amarelo);
-  color: var(--copa-azul-escuro);
+  background: var(--destaque-amarelo);
+  color: var(--destaque-azul-escuro);
   padding: 0.4rem 1.4rem;
   border-radius: 999px;
   text-align: center;
@@ -894,21 +872,20 @@ body::-webkit-scrollbar {
 }
 
 @media (max-width: 768px) {
-  .copa-banner {
+  .destaque-banner {
     width: 100%;
     margin-left: 0;
     margin-right: 0;
     border-radius: 0.6rem;
-    padding: 1.6rem 0.6rem;
+    min-height: 220px;
   }
 
-  .copa-faixa {
+  .destaque-faixa {
     width: 100%;
-    border-radius: 0;
     padding: 0.55rem 0.8rem;
   }
 
-  .copa-faixa p {
+  .destaque-faixa p {
     line-height: 1.3;
     font-size: 0.72rem;
     letter-spacing: 0.01em;
@@ -916,12 +893,8 @@ body::-webkit-scrollbar {
     overflow-wrap: anywhere;
   }
 
-  .copa-overlay {
-    padding: 1rem 0.5rem;
-  }
-
-  .copa-campo {
-    inset: 10px;
+  .destaque-overlay {
+    padding: 1.8rem 1rem 1.2rem;
   }
 }
 

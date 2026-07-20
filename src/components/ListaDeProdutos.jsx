@@ -56,8 +56,8 @@ function ListaDeProdutos() {
   const [carregando, setCarregando] = useState(true);
 
   const categoria = {
-    titulo: "BORA TORCER! ⚽ 🏆",
-    subtitulo: "Os itens que não podem faltar pra torcer com a familia 🏁",
+    titulo: "PRODUTOS EM DESTAQUE! ⭐",
+    subtitulo: "Os melhores preços da semana, selecionados pra você 🏷️",
   };
 
   useEffect(() => {
@@ -105,19 +105,26 @@ function ListaDeProdutos() {
   }, []);
 
   return (
-    <section className="secao-produtos-categoria secao-copa">
-      <div className="copa-banner">
-        <div className="copa-campo" aria-hidden="true" />
+    <section className="secao-produtos-categoria secao-destaques">
+      <div className="destaque-banner">
+        <div
+          className="destaque-foto"
+          style={{ backgroundImage: "url(/amendoim.jpeg)" }}
+          aria-hidden="true"
+        />
 
-        <div className="copa-overlay">
-          <span className="copa-selo">Copa do Libanês</span>
+        <div className="destaque-overlay">
+          <span className="destaque-selo">Ofertas do Libanês</span>
           <h2>{categoria.titulo}</h2>
           <p>{categoria.subtitulo}</p>
         </div>
       </div>
 
-      <div className="copa-faixa">
-        <p>⚽ Ofertas da Copa durante todo o mês!</p>
+      <div className="destaque-faixa">
+        <p>
+          <span aria-hidden="true">⭐ </span>
+          Preços especiais toda semana, só aqui!
+        </p>
       </div>
 
       {carregando ? (

@@ -7,28 +7,20 @@
       "imagem": "/images/amendoim/amendoim-hanner.jpg",
       "variacoes": [
         {
+          "codigo": "2419",
+          "pesoValor": 5.0,
+          "pesoUnidade": "KG",
+          "unidade": "PC",
+          "precoVenda": 34.5,
+          "precoDebitoCredito": 35.5
+        },
+        {
           "codigo": "109",
           "pesoValor": 25.0,
           "pesoUnidade": "KG",
           "unidade": "SC",
           "precoVenda": 157.0,
           "precoDebitoCredito": 162.0
-        }
-      ]
-    },
-    {
-      "id": "amendoim-s-pele",
-      "descricao": "AMENDOIM S/ PELE",
-      "categoria": "promoçoes",
-      "imagem": "/images/amendoim/amendoim-s-pele.jpeg",
-      "variacoes": [
-        {
-          "codigo": "103",
-          "pesoValor": 25.0,
-          "pesoUnidade": "KG",
-          "unidade": "SC",
-          "precoVenda": 215.0,
-          "precoDebitoCredito": 221.5
         }
       ]
     },
@@ -49,698 +41,354 @@
       ]
     },
     {
-      "id": "banana-chips-salgada",
-      "descricao": "BANANA CHIPS SALGADA",
+      "id": "amendoim-casca-cru",
+      "descricao": "AMENDOIM CASCA CRU",
       "categoria": "promoçoes",
-      "imagem": "/images/salgadinhos/BANANA_CHIPS_SALGADA.jpg",
+      "imagem": "/images/amendoim/amendoim-casca-cru.jpg",
       "variacoes": [
         {
-          "codigo": "3974",
-          "pesoValor": 2.0,
-          "pesoUnidade": "KG",
-          "unidade": "PC",
-          "precoVenda": 63.0,
-          "precoDebitoCredito": 65.0
-        }
-      ]
-    },
-    {
-      "id": "banana-chips-salsa-e-cebola",
-      "descricao": "BANANA CHIPS SALSA E CEBOLA",
-      "categoria": "promoçoes",
-      "imagem": "/images/salgadinhos/BANANA_CHIPS_CEBOLA_E_SALSA.jpg",
-      "variacoes": [
-        {
-          "codigo": "3530",
-          "pesoValor": 2.0,
-          "pesoUnidade": "KG",
-          "unidade": "PC",
-          "precoVenda": 63.0,
-          "precoDebitoCredito": 65.0
-        }
-      ]
-    },
-    {
-      "id": "banana-da-terra-chips-salgada",
-      "descricao": "BANANA DA TERRA CHIPS SALGADA",
-      "categoria": "promoçoes",
-      "imagem": "/images/salgadinhos/BANANA_DA_TERRA_CHIPS.jpg",
-      "variacoes": [
-        {
-          "codigo": "4282",
-          "pesoValor": 1.0,
-          "pesoUnidade": "KG",
-          "unidade": "PC",
-          "precoVenda": 55.0,
-          "precoDebitoCredito": 56.5
-        }
-      ]
-    },
-    {
-      "id": "batata-frita-lemon-pepper-mexicana",
-      "descricao": "BATATA FRITA LEMON PEPPER MEXICANA",
-      "categoria": "promoçoes",
-      "imagem": "/images/salgadinhos/BATATA_FRITA_MEXICANA_LEMON_PEPPER.jpg",
-      "variacoes": [
-        {
-          "codigo": "3870",
-          "pesoValor": 500.0,
-          "pesoUnidade": "G",
-          "unidade": "PC",
-          "precoVenda": 22.0,
-          "precoDebitoCredito": 22.5
-        }
-      ]
-    },
-    {
-      "id": "batata-frita-mexicana",
-      "descricao": "BATATA FRITA MEXICANA",
-      "categoria": "promoçoes",
-      "imagem": "/images/salgadinhos/BATATA_FRITA_MEXICANA.jpg",
-      "variacoes": [
-        {
-          "codigo": "3701",
-          "pesoValor": 500.0,
-          "pesoUnidade": "G",
-          "unidade": "PC",
-          "precoVenda": 22.0,
-          "precoDebitoCredito": 22.5
-        }
-      ]
-    },
-    {
-      "id": "batata-frita-pimenta-mexicana",
-      "descricao": "BATATA FRITA PIMENTA MEXICANA",
-      "categoria": "promoçoes",
-      "imagem": "/images/salgadinhos/BATATA_FRITA_MEXICANA_PIMENTA.jpg",
-      "variacoes": [
-        {
-          "codigo": "3800",
-          "pesoValor": 500.0,
-          "pesoUnidade": "G",
-          "unidade": "PC",
-          "precoVenda": 22.0,
-          "precoDebitoCredito": 22.5
-        }
-      ]
-    },
-    {
-      "id": "batata-frita-salsa-mexicana",
-      "descricao": "BATATA FRITA SALSA MEXICANA",
-      "categoria": "promoçoes",
-      "imagem": "/images/salgadinhos/BATATA_FRITA_MEXICANA_CEBOLA_E_SALSA.jpg",
-      "variacoes": [
-        {
-          "codigo": "3725",
-          "pesoValor": 500.0,
-          "pesoUnidade": "G",
-          "unidade": "PC",
-          "precoVenda": 22.0,
-          "precoDebitoCredito": 22.5
-        }
-      ]
-    },
-    {
-      "id": "mix-batata-doce-chips",
-      "descricao": "MIX BATATA DOCE CHIPS",
-      "categoria": "promoçoes",
-      "imagem": "/images/salgadinhos/MIX_DE_BATATA_DOCE.jpg",
-      "variacoes": [
-        {
-          "codigo": "3871",
-          "pesoValor": 500.0,
-          "pesoUnidade": "G",
-          "unidade": "PC",
-          "precoVenda": 27.0,
-          "precoDebitoCredito": 29.0
-        }
-      ]
-    },
-    {
-      "id": "amendoim-ovinho",
-      "descricao": "AMENDOIM OVINHO",
-      "categoria": "promoçoes",
-      "imagem": "/images/amendoim/amendoim-ovinho.jpg",
-      "variacoes": [
-        {
-          "codigo": "2283",
-          "pesoValor": 5.0,
-          "pesoUnidade": "KG",
-          "unidade": "PC",
-          "precoVenda": 61.0,
-          "precoDebitoCredito": 63.0
-        }
-      ]
-    },
-    {
-      "id": "amendoim-ovinho-salsa-e-cebola",
-      "descricao": "AMENDOIM OVINHO SALSA E CEBOLA",
-      "categoria": "promoçoes",
-      "imagem": "/images/amendoim/amendoim-ovinho-cebola-salsa.jpg",
-      "variacoes": [
-        {
-          "codigo": "4255",
-          "pesoValor": 5.0,
-          "pesoUnidade": "KG",
-          "unidade": "PC",
-          "precoVenda": 64.0,
-          "precoDebitoCredito": 66.0
-        }
-      ]
-    },
-    {
-      "id": "crocante-bacon-balsamo",
-      "descricao": "CROCANTE BACON BALSAMO",
-      "categoria": "promoçoes",
-      "imagem": "/images/amendoim/CROCANTE_BACON.jpg",
-      "variacoes": [
-        {
-          "codigo": "3818",
-          "pesoValor": 5.0,
-          "pesoUnidade": "KG",
-          "unidade": "PC",
-          "precoVenda": 75.5,
-          "precoDebitoCredito": 78.0
-        },
-        {
-          "codigo": "3081",
-          "pesoValor": 10.0,
-          "pesoUnidade": "KG",
-          "unidade": "PC",
-          "precoVenda": 145.0,
-          "precoDebitoCredito": 149.5
-        }
-      ]
-    },
-    {
-      "id": "crocante-c-salsa-balsamo",
-      "descricao": "CROCANTE C/ SALSA BALSAMO",
-      "categoria": "promoçoes",
-      "imagem": "/images/amendoim/CROCANTE_SALSA.jpg",
-      "variacoes": [
-        {
-          "codigo": "2534",
-          "pesoValor": 5.0,
-          "pesoUnidade": "KG",
-          "unidade": "PC",
-          "precoVenda": 145.0,
-          "precoDebitoCredito": 78.0
-        },
-        {
-          "codigo": "2234",
-          "pesoValor": 10.0,
-          "pesoUnidade": "KG",
-          "unidade": "PC",
-          "precoVenda": 145.0,
-          "precoDebitoCredito": 149.5
-        }
-      ]
-    },
-    {
-      "id": "crocante-com-pimenta-balsamo",
-      "descricao": "CROCANTE COM  PIMENTA BALSAMO",
-      "categoria": "promoçoes",
-      "imagem": "/images/amendoim/CROCANTE_PIMENTA.jpg",
-      "variacoes": [
-        {
-          "codigo": "2535",
-          "pesoValor": 5.0,
-          "pesoUnidade": "KG",
-          "unidade": "PC",
-          "precoVenda": 75.5,
-          "precoDebitoCredito": 78.0
-        },
-        {
-          "codigo": "2238",
-          "pesoValor": 10.0,
-          "pesoUnidade": "KG",
-          "unidade": "PC",
-          "precoVenda": 145.0,
-          "precoDebitoCredito": 149.5
-        }
-      ]
-    },
-    {
-      "id": "crocante-japones-balsamo",
-      "descricao": "CROCANTE JAPONES BALSAMO",
-      "categoria": "promoçoes",
-      "imagem": "/images/amendoim/CROCANTE_JAPONES.jpg",
-      "variacoes": [
-        {
-          "codigo": "2546",
-          "pesoValor": 5.0,
-          "pesoUnidade": "KG",
-          "unidade": "PC",
-          "precoVenda": 75.5,
-          "precoDebitoCredito": 78.0
-        },
-        {
-          "codigo": "2236",
-          "pesoValor": 10.0,
-          "pesoUnidade": "KG",
-          "unidade": "PC",
-          "precoVenda": 145.0,
-          "precoDebitoCredito": 149.5
-        }
-      ]
-    },
-    {
-      "id": "crocante-natural-balsamo",
-      "descricao": "CROCANTE NATURAL BALSAMO",
-      "categoria": "promoçoes",
-      "imagem": "/images/amendoim/CROCANTE_NATURAL.jpg",
-      "variacoes": [
-        {
-          "codigo": "2536",
-          "pesoValor": 5.0,
-          "pesoUnidade": "KG",
-          "unidade": "PC",
-          "precoVenda": 75.5,
-          "precoDebitoCredito": 78.0
-        },
-        {
-          "codigo": "2232",
-          "pesoValor": 10.0,
-          "pesoUnidade": "KG",
-          "unidade": "PC",
-          "precoVenda": 145.0,
-          "precoDebitoCredito": 149.5
-        }
-      ]
-    },
-    {
-      "id": "amendoim-s-pele-torrado-c-sal",
-      "descricao": "AMENDOIM S/ PELE TORRADO C/ SAL",
-      "categoria": "promoçoes",
-      "imagem": "/images/amendoim/AMENDOIM-S- PELE-TORRADO-C-sAL.jpg",
-      "variacoes": [
-        {
-          "codigo": "2453",
-          "pesoValor": 5.0,
-          "pesoUnidade": "KG",
-          "unidade": "PC",
-          "precoVenda": 41.0,
-          "precoDebitoCredito": 42.0
-        },
-        {
-          "codigo": "2452",
-          "pesoValor": 10.0,
-          "pesoUnidade": "KG",
-          "unidade": "PC",
-          "precoVenda": 76.0,
-          "precoDebitoCredito": 78.0
-        },
-        {
-          "codigo": "150",
-          "pesoValor": 25.0,
+          "codigo": "2263",
+          "pesoValor": 12.5,
           "pesoUnidade": "KG",
           "unidade": "SC",
-          "precoVenda": 190.0,
-          "precoDebitoCredito": 196.0
-        }
-      ]
-    },
-    {
-      "id": "amendoim-s-pele-torrado-s-sal",
-      "descricao": "AMENDOIM S/ PELE TORRADO S/ SAL",
-      "categoria": "promoçoes",
-      "imagem": "/images/amendoim/amendoim-s-pele-torrado-s-sal.jpg",
-      "variacoes": [
-        {
-          "codigo": "2451",
-          "pesoValor": 5.0,
-          "pesoUnidade": "KG",
-          "unidade": "PC",
-          "precoVenda": 41.0,
-          "precoDebitoCredito": 42.0
-        },
-        {
-          "codigo": "2450",
-          "pesoValor": 10.0,
-          "pesoUnidade": "KG",
-          "unidade": "PC",
-          "precoVenda": 76.0,
-          "precoDebitoCredito": 78.0
-        },
-        {
-          "codigo": "7",
-          "pesoValor": 25.0,
-          "pesoUnidade": "KG",
-          "unidade": "SC",
-          "precoVenda": 190.0,
-          "precoDebitoCredito": 196.0
-        }
-      ]
-    },
-    {
-      "id": "amendoim-frito-c-alho-c-pele",
-      "descricao": "AMENDOIM FRITO C/ ALHO C/ PELE",
-      "categoria": "promoçoes",
-      "imagem": "/images/amendoim/amendoim-frito-c-alho-c-pele.jpg",
-      "variacoes": [
-        {
-          "codigo": "2643",
-          "pesoValor": 5.0,
-          "pesoUnidade": "KG",
-          "unidade": "PC",
-          "precoVenda": 68.0,
-          "precoDebitoCredito": 70.0
-        }
-      ]
-    },
-    {
-      "id": "amendoim-frito-c-alho-s-pele",
-      "descricao": "AMENDOIM FRITO C/ ALHO S/ PELE",
-      "categoria": "promoçoes",
-      "imagem": "/images/amendoim/amendoim-frito-com-alho-sem-pele.jpg",
-      "variacoes": [
-        {
-          "codigo": "2644",
-          "pesoValor": 5.0,
-          "pesoUnidade": "KG",
-          "unidade": "PC",
           "precoVenda": 70.0,
           "precoDebitoCredito": 72.0
+        },
+        {
+          "codigo": "3821",
+          "pesoValor": 25.0,
+          "pesoUnidade": "KG",
+          "unidade": "SC",
+          "precoVenda": 140.0,
+          "precoDebitoCredito": 144.0
         }
       ]
     },
     {
-      "id": "amendoim-frito-c-sal-c-pele",
-      "descricao": "AMENDOIM FRITO C/ SAL C/ PELE",
+      "id": "farinha-de-aveia-n6",
+      "descricao": "FARINHA DE AVEIA Nº6",
       "categoria": "promoçoes",
-      "imagem": "/images/amendoim/amendoim-frito-com-sal-com-pele.jpg",
+      "imagem": "/images/farinhas/farinha-de-aveia.jpg",
       "variacoes": [
         {
-          "codigo": "2570",
+          "codigo": "2256",
+          "pesoValor": 3.0,
+          "pesoUnidade": "KG",
+          "unidade": "PC",
+          "precoVenda": 16.0,
+          "precoDebitoCredito": 17.0
+        },
+        {
+          "codigo": "564",
+          "pesoValor": 25.0,
+          "pesoUnidade": "KG",
+          "unidade": "SC",
+          "precoVenda": 118.0,
+          "precoDebitoCredito": 121.5
+        }
+      ]
+    },
+    {
+      "id": "farinha-de-mandioca-fina",
+      "descricao": "FARINHA DE MANDIOCA FINA",
+      "categoria": "promoçoes",
+      "imagem": "/images/farinhas/farinha-de-mandioca-fina.jpg",
+      "variacoes": [
+        {
+          "codigo": "2475",
           "pesoValor": 5.0,
           "pesoUnidade": "KG",
           "unidade": "PC",
-          "precoVenda": 57.0,
-          "precoDebitoCredito": 59.0
+          "precoVenda": 18.5,
+          "precoDebitoCredito": 19.0
+        },
+        {
+          "codigo": "261",
+          "pesoValor": 25.0,
+          "pesoUnidade": "KG",
+          "unidade": "SC",
+          "precoVenda": 83.0,
+          "precoDebitoCredito": 85.5
         }
       ]
     },
     {
-      "id": "amendoim-frito-c-sal-spele",
-      "descricao": "AMENDOIM FRITO C/ SAL  S/PELE",
+      "id": "farinha-de-mandioca-grossa",
+      "descricao": "FARINHA DE MANDIOCA GROSSA",
       "categoria": "promoçoes",
-      "imagem": "/images/amendoim/amendoim-frito-com-sal-sem-pele.jpg",
+      "imagem": "/images/farinhas/farinha-de-mandioca-grossa.jpg",
       "variacoes": [
         {
-          "codigo": "3021",
+          "codigo": "2476",
+          "pesoValor": 3.0,
+          "pesoUnidade": "KG",
+          "unidade": "PC",
+          "precoVenda": 11.5,
+          "precoDebitoCredito": 12.0
+        },
+        {
+          "codigo": "92",
+          "pesoValor": 20.0,
+          "pesoUnidade": "KG",
+          "unidade": "SC",
+          "precoVenda": 67.0,
+          "precoDebitoCredito": 69.0
+        }
+      ]
+    },
+    {
+      "id": "fecula-mandioca-brasil",
+      "descricao": "FECULA MANDIOCA BRASIL",
+      "categoria": "promoçoes",
+      "imagem": "/images/panificacao/FECULA_DE_MANDIOCA.jpg",
+      "variacoes": [
+        {
+          "codigo": "27",
+          "pesoValor": 25.0,
+          "pesoUnidade": "KG",
+          "unidade": "SC",
+          "precoVenda": 110.0,
+          "precoDebitoCredito": 113.5
+        }
+      ]
+    },
+    {
+      "id": "fecula-mandioca-brasom",
+      "descricao": "FECULA MANDIOCA BRASOM",
+      "categoria": "promoçoes",
+      "imagem": "/images/panificacao/FECULA_DE_MANIDOCA_BRASOM.jpg",
+      "variacoes": [
+        {
+          "codigo": "2255",
+          "pesoValor": 25.0,
+          "pesoUnidade": "KG",
+          "unidade": "SC",
+          "precoVenda": 99.0,
+          "precoDebitoCredito": 102.0
+        }
+      ]
+    },
+    {
+      "id": "tamara-c-caroo-jumbo",
+      "descricao": "TAMARA C/ CAROÇO JUMBO",
+      "categoria": "promoçoes",
+      "imagem": "/images/frutas/TAMARA_C_CAROCO_JUMBO.jpg",
+      "variacoes": [
+        {
+          "codigo": "2350",
           "pesoValor": 5.0,
-          "pesoUnidade": "KG",
-          "unidade": "PC",
-          "precoVenda": 63.0,
-          "precoDebitoCredito": 65.0
-        }
-      ]
-    },
-    {
-      "id": "salgadinho-bacon",
-      "descricao": "SALGADINHO BACON",
-      "categoria": "promoçoes",
-      "imagem": "/images/salgadinhos/SALGADINHO_BACON.jpg",
-      "variacoes": [
-        {
-          "codigo": "2825",
-          "pesoValor": 2.0,
-          "pesoUnidade": "KG",
-          "unidade": "PC",
-          "precoVenda": 25.0,
-          "precoDebitoCredito": 26.0
-        }
-      ]
-    },
-    {
-      "id": "salgadinho-calabresa",
-      "descricao": "SALGADINHO CALABRESA",
-      "categoria": "promoçoes",
-      "imagem": "/images/salgadinhos/SALGADINHO_CALABRESA.jpg",
-      "variacoes": [
-        {
-          "codigo": "2828",
-          "pesoValor": 2.0,
-          "pesoUnidade": "KG",
-          "unidade": "PC",
-          "precoVenda": 25.0,
-          "precoDebitoCredito": 26.0
-        }
-      ]
-    },
-    {
-      "id": "salgadinho-camaro",
-      "descricao": "SALGADINHO CAMARÃO",
-      "categoria": "promoçoes",
-      "imagem": "/images/salgadinhos/SALGADINHO_CAMARAO.jpg",
-      "variacoes": [
-        {
-          "codigo": "2826",
-          "pesoValor": 2.0,
-          "pesoUnidade": "KG",
-          "unidade": "PC",
-          "precoVenda": 25.0,
-          "precoDebitoCredito": 26.0
-        }
-      ]
-    },
-    {
-      "id": "salgadinho-cebola-e-salsa",
-      "descricao": "SALGADINHO CEBOLA E SALSA",
-      "categoria": "promoçoes",
-      "imagem": "/images/salgadinhos/BATATA_FRITA_MEXICANA_CEBOLA_E_SALSA.jpg",
-      "variacoes": [
-        {
-          "codigo": "3058",
-          "pesoValor": 2.0,
-          "pesoUnidade": "KG",
-          "unidade": "PC",
-          "precoVenda": 25.0,
-          "precoDebitoCredito": 26.0
-        }
-      ]
-    },
-    {
-      "id": "salgadinho-churrasco",
-      "descricao": "SALGADINHO CHURRASCO",
-      "categoria": "promoçoes",
-      "imagem": "/images/salgadinhos/SALGADINHO_CHURRASCO.jpg",
-      "variacoes": [
-        {
-          "codigo": "3059",
-          "pesoValor": 2.0,
-          "pesoUnidade": "KG",
-          "unidade": "PC",
-          "precoVenda": 25.0,
-          "precoDebitoCredito": 26.0
-        }
-      ]
-    },
-    {
-      "id": "salgadinho-pimenta-mexicana",
-      "descricao": "SALGADINHO PIMENTA MEXICANA",
-      "categoria": "promoçoes",
-      "imagem": "/images/salgadinhos/BATATA_FRITA_MEXICANA_PIMENTA.jpg",
-      "variacoes": [
-        {
-          "codigo": "2829",
-          "pesoValor": 2.0,
-          "pesoUnidade": "KG",
-          "unidade": "PC",
-          "precoVenda": 25.0,
-          "precoDebitoCredito": 26.0
-        }
-      ]
-    },
-    {
-      "id": "salgadinho-pizza",
-      "descricao": "SALGADINHO PIZZA",
-      "categoria": "promoçoes",
-      "imagem": "/images/salgadinhos/SALGADINHO_BACON.jpg",
-      "variacoes": [
-        {
-          "codigo": "4126",
-          "pesoValor": 2.0,
-          "pesoUnidade": "KG",
-          "unidade": "PC",
-          "precoVenda": 25.0,
-          "precoDebitoCredito": 26.0
-        }
-      ]
-    },
-    {
-      "id": "salgadinho-queijo",
-      "descricao": "SALGADINHO QUEIJO",
-      "categoria": "promoçoes",
-      "imagem": "/images/salgadinhos/SALGADINHO_BACON.jpg",
-      "variacoes": [
-        {
-          "codigo": "2827",
-          "pesoValor": 2.0,
-          "pesoUnidade": "KG",
-          "unidade": "PC",
-          "precoVenda": 25.0,
-          "precoDebitoCredito": 26.0
-        }
-      ]
-    },
-    {
-      "id": "mandioca-frita-chips",
-      "descricao": "MANDIOCA FRITA CHIPS",
-      "categoria": "promoçoes",
-      "imagem": "/images/salgadinhos/MANDIOCA_FRITAS_CHIPS.jpg",
-      "variacoes": [
-        {
-          "codigo": "3801",
-          "pesoValor": 500.0,
-          "pesoUnidade": "G",
-          "unidade": "PC",
-          "precoVenda": 25.0,
-          "precoDebitoCredito": 26.0
-        }
-      ]
-    },
-    {
-      "id": "rabinho-de-porco-desidratado",
-      "descricao": "RABINHO DE PORCO DESIDRATADO",
-      "categoria": "promoçoes",
-      "imagem": "/images/salgadinhos/RABINHO_DE_PORCO.jpg",
-      "variacoes": [
-        {
-          "codigo": "3897",
-          "pesoValor": 2.0,
           "pesoUnidade": "KG",
           "unidade": "CX",
-          "precoVenda": 60.0,
-          "precoDebitoCredito": 62.0
+          "precoVenda": 250.0,
+          "precoDebitoCredito": 258.0
         }
       ]
     },
     {
-      "id": "torresmo-pronto",
-      "descricao": "TORRESMO PRONTO",
+      "id": "uva-passa-preta",
+      "descricao": "UVA PASSA PRETA",
       "categoria": "promoçoes",
-      "imagem": "/images/salgadinhos/TORRESMO_PRONTO.jpg",
+      "imagem": "/images/frutas/UVA_PASSA_PRETA.jpg",
       "variacoes": [
         {
-          "codigo": "3764",
-          "pesoValor": 2.0,
+          "codigo": "2229",
+          "pesoValor": 10.0,
+          "pesoUnidade": "KG",
+          "unidade": "CX",
+          "precoVenda": 175.0,
+          "precoDebitoCredito": 180.0
+        }
+      ]
+    },
+    {
+      "id": "semente-de-abobora",
+      "descricao": "SEMENTE DE ABOBORA",
+      "categoria": "promoçoes",
+      "imagem": "/images/sementes/SEMENTE_DE_ABOBORA.jpg",
+      "variacoes": [
+        {
+          "codigo": "2676",
+          "pesoValor": 5.0,
+          "pesoUnidade": "KG",
+          "unidade": "SC",
+          "precoVenda": 378.5,
+          "precoDebitoCredito": 390.0
+        },
+        {
+          "codigo": "4400",
+          "pesoValor": 25.0,
+          "pesoUnidade": "KG",
+          "unidade": "SC",
+          "precoVenda": 1875.0,
+          "precoDebitoCredito": 1931.0
+        }
+      ]
+    },
+    {
+      "id": "semente-de-chia",
+      "descricao": "SEMENTE DE CHIA",
+      "categoria": "promoçoes",
+      "imagem": "/images/sementes/SEMENTE_DE_CHIA.jpg",
+      "variacoes": [
+        {
+          "codigo": "2245",
+          "pesoValor": 5.0,
           "pesoUnidade": "KG",
           "unidade": "PC",
-          "precoVenda": 81.0,
-          "precoDebitoCredito": 83.5
-        }
-      ]
-    },
-    {
-      "id": "cajuina-so-geraldo",
-      "descricao": "CAJUINA SÃO GERALDO",
-      "categoria": "promoçoes",
-      "imagem": "/images/refris/cajuina-sao-geraldo.jpg",
-      "variacoes": [
-        {
-          "codigo": "3402",
-          "pesoValor": 6.0,
-          "pesoUnidade": "X1LT",
-          "unidade": "FD",
-          "precoVenda": 46.5,
-          "precoDebitoCredito": 47.5
+          "precoVenda": 60.5,
+          "precoDebitoCredito": 62.5
         },
         {
-          "codigo": "3401",
-          "pesoValor": 6.0,
-          "pesoUnidade": "X2LT",
-          "unidade": "FD",
-          "precoVenda": 66.5,
-          "precoDebitoCredito": 68.5
+          "codigo": "571",
+          "pesoValor": 25.0,
+          "pesoUnidade": "KG",
+          "unidade": "SC",
+          "precoVenda": 287.5,
+          "precoDebitoCredito": 296.0
+        }
+      ]
+    },
+    {
+      "id": "aveia-em-flocos-n3",
+      "descricao": "AVEIA EM FLOCOS Nº3",
+      "categoria": "promoçoes",
+      "imagem": "/images/produtosnaturais/AVEIA_EM_FLOCOS.jpg",
+      "variacoes": [
+        {
+          "codigo": "2259",
+          "pesoValor": 3.0,
+          "pesoUnidade": "KG",
+          "unidade": "PC",
+          "precoVenda": 16.0,
+          "precoDebitoCredito": 16.5
         },
         {
-          "codigo": "3403",
-          "pesoValor": 12.0,
-          "pesoUnidade": "X200ML",
-          "unidade": "FD",
-          "precoVenda": 38.5,
-          "precoDebitoCredito": 39.5
+          "codigo": "282",
+          "pesoValor": 25.0,
+          "pesoUnidade": "KG",
+          "unidade": "SC",
+          "precoVenda": 118.0,
+          "precoDebitoCredito": 121.5
         }
       ]
     },
     {
-      "id": "cajuina-so-geraldo-lata",
-      "descricao": "CAJUINA SÃO GERALDO  LATA",
+      "id": "aveia-em-flocos-laminada-n2",
+      "descricao": "AVEIA EM FLOCOS LAMINADA Nº2",
       "categoria": "promoçoes",
-      "imagem": "/images/refris/cajuina-sao-geraldo-lata.jpg",
+      "imagem": "/images/produtosnaturais/AVEIA_EM_FLOCOS_LAMINADA.jpg",
       "variacoes": [
         {
-          "codigo": "4032",
-          "pesoValor": 12.0,
-          "pesoUnidade": "X350ML",
-          "unidade": "FD",
-          "precoVenda": 57.5,
-          "precoDebitoCredito": 59.0
+          "codigo": "2422",
+          "pesoValor": 3.0,
+          "pesoUnidade": "KG",
+          "unidade": "PC",
+          "precoVenda": 16.0,
+          "precoDebitoCredito": 16.5
+        },
+        {
+          "codigo": "569",
+          "pesoValor": 25.0,
+          "pesoUnidade": "KG",
+          "unidade": "SC",
+          "precoVenda": 118.0,
+          "precoDebitoCredito": 121.5
         }
       ]
     },
     {
-      "id": "cajuina-so-geraldo-zero-lata",
-      "descricao": "CAJUINA SÃO GERALDO ZERO  LATA",
+      "id": "bala-azedinha-cereja",
+      "descricao": "BALA AZEDINHA CEREJA",
       "categoria": "promoçoes",
-      "imagem": "/images/refris/cajuina-sao-geraldo-zero-lata.jpg",
+      "imagem": "/images/doces/BALA_AZEDINHA_CEREJA.jpg",
       "variacoes": [
         {
-          "codigo": "4460",
-          "pesoValor": 12.0,
-          "pesoUnidade": "X350ML",
-          "unidade": "FD",
-          "precoVenda": 57.5,
-          "precoDebitoCredito": 59.0
+          "codigo": "3434",
+          "pesoValor": 5.0,
+          "pesoUnidade": "KG",
+          "unidade": "PC",
+          "precoVenda": 76.0,
+          "precoDebitoCredito": 78.5
+        },
+        {
+          "codigo": "3438",
+          "pesoValor": 15.0,
+          "pesoUnidade": "KG",
+          "unidade": "CX",
+          "precoVenda": 228.0,
+          "precoDebitoCredito": 235.0
         }
       ]
     },
     {
-      "id": "guarana-jesus-garrafa",
-      "descricao": "GUARANA JESUS GARRAFA",
+      "id": "bala-de-goma",
+      "descricao": "BALA DE GOMA",
       "categoria": "promoçoes",
-      "imagem": "/images/refris/GUARANA_JESUS.jpg",
+      "imagem": "/images/doces/BALA_DE_GOMA.jpg",
       "variacoes": [
         {
-          "codigo": "2551",
-          "pesoValor": 12.0,
-          "pesoUnidade": "X1LT",
-          "unidade": "FD",
-          "precoVenda": 82.0,
-          "precoDebitoCredito": 84.5
+          "codigo": "2674",
+          "pesoValor": 5.0,
+          "pesoUnidade": "KG",
+          "unidade": "PC",
+          "precoVenda": 60.5,
+          "precoDebitoCredito": 62.0
+        },
+        {
+          "codigo": "3123",
+          "pesoValor": 10.0,
+          "pesoUnidade": "KG",
+          "unidade": "CX",
+          "precoVenda": 121.0,
+          "precoDebitoCredito": 125.0
         }
       ]
     },
     {
-      "id": "guarana-jesus-lata",
-      "descricao": "GUARANA JESUS LATA",
+      "id": "bala-jujuba",
+      "descricao": "BALA JUJUBA",
       "categoria": "promoçoes",
-      "imagem": "/images/refris/GUARANA_JESUS_LATA.jpg",
+      "imagem": "/images/doces/BALA_JUJUBA.jpg",
       "variacoes": [
         {
-          "codigo": "2550",
-          "pesoValor": 6.0,
-          "pesoUnidade": "X310ML",
-          "unidade": "FD",
-          "precoVenda": 25.5,
-          "precoDebitoCredito": 26.5
+          "codigo": "2824",
+          "pesoValor": 5.0,
+          "pesoUnidade": "KG",
+          "unidade": "PC",
+          "precoVenda": 80.5,
+          "precoDebitoCredito": 83.0
+        },
+        {
+          "codigo": "3124",
+          "pesoValor": 10.0,
+          "pesoUnidade": "KG",
+          "unidade": "CX",
+          "precoVenda": 161.0,
+          "precoDebitoCredito": 166.0
         }
       ]
     },
     {
-      "id": "laranja-so-geraldo-lata",
-      "descricao": "LARANJA SÃO GERALDO LATA",
+      "id": "bala-minhoca-acida",
+      "descricao": "BALA MINHOCA ACIDA",
       "categoria": "promoçoes",
-      "imagem": "/images/refris/laranja-sao-geraldo-lata.jpg",
+      "imagem": "/images/doces/BALA_MINHOCA_ACIDA.jpg",
       "variacoes": [
         {
-          "codigo": "4383",
-          "pesoValor": 12.0,
-          "pesoUnidade": "X350ML",
-          "unidade": "FD",
-          "precoVenda": 53.0,
-          "precoDebitoCredito": 54.5
+          "codigo": "3131",
+          "pesoValor": 5.0,
+          "pesoUnidade": "KG",
+          "unidade": "PC",
+          "precoVenda": 69.0,
+          "precoDebitoCredito": 71.0
+        },
+        {
+          "codigo": "3130",
+          "pesoValor": 10.0,
+          "pesoUnidade": "KG",
+          "unidade": "CX",
+          "precoVenda": 138.0,
+          "precoDebitoCredito": 142.0
         }
       ]
     }
