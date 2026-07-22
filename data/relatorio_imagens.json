@@ -1,10 +1,10 @@
 {
   "summary": {
     "categorias": 20,
-    "produtos": 549,
-    "matched": 563,
+    "produtos": 550,
+    "matched": 568,
     "fallback": 0,
-    "category_without_folder": 4
+    "category_without_folder": 0
   },
   "details": [
     {
@@ -1554,6 +1554,15 @@
       "status": "fixed-existing",
       "score": 999.0,
       "arquivo_sugerido": "FEIJAO_ANDU.jpg"
+    },
+    {
+      "categoria": "graos",
+      "id": "feijao-andu-paulista",
+      "descricao": "FEIJÃO ANDU PAULISTA",
+      "imagem": "/graos/feijao-andu-paulista.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "feijao-andu-paulista.jpg"
     },
     {
       "categoria": "graos",
