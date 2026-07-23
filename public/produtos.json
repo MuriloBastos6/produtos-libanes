@@ -1656,16 +1656,16 @@
           "pesoValor": 5.0,
           "pesoUnidade": "KG",
           "unidade": "PC",
-          "precoVenda": 113.5,
-          "precoDebitoCredito": 117.0
+          "precoVenda": 133.5,
+          "precoDebitoCredito": 138.0
         },
         {
           "codigo": "94",
           "pesoValor": 25.0,
           "pesoUnidade": "KG",
           "unidade": "SC",
-          "precoVenda": 550.0,
-          "precoDebitoCredito": 566.5
+          "precoVenda": 650.0,
+          "precoDebitoCredito": 669.5
         }
       ]
     },
@@ -3947,6 +3947,14 @@
       "categoria": "graos",
       "imagem": "/images/graos/feijao-andu-paulista.jpg",
       "variacoes": [
+        {
+          "codigo": "4665",
+          "pesoValor": 5.0,
+          "pesoUnidade": "KG",
+          "unidade": "PC",
+          "precoVenda": 73.0,
+          "precoDebitoCredito": 75.0
+        },
         {
           "codigo": "4664",
           "pesoValor": 25.0,
@@ -7360,16 +7368,16 @@
           "pesoValor": 5.0,
           "pesoUnidade": "KG",
           "unidade": "SC",
-          "precoVenda": 378.5,
-          "precoDebitoCredito": 390.0
+          "precoVenda": 328.5,
+          "precoDebitoCredito": 338.5
         },
         {
           "codigo": "4400",
           "pesoValor": 25.0,
           "pesoUnidade": "KG",
           "unidade": "SC",
-          "precoVenda": 1875.0,
-          "precoDebitoCredito": 1931.0
+          "precoVenda": 1625.0,
+          "precoDebitoCredito": 1674.0
         }
       ]
     },
@@ -7754,8 +7762,8 @@
           "pesoValor": 5.0,
           "pesoUnidade": "KG",
           "unidade": "PC",
-          "precoVenda": 299.5,
-          "precoDebitoCredito": 308.5
+          "precoVenda": 313.5,
+          "precoDebitoCredito": 323.0
         },
         {
           "codigo": "3486",
@@ -10748,16 +10756,16 @@
           "pesoValor": 5.0,
           "pesoUnidade": "KG",
           "unidade": "PC",
-          "precoVenda": 85.0,
-          "precoDebitoCredito": 87.0
+          "precoVenda": 88.0,
+          "precoDebitoCredito": 90.5
         },
         {
           "codigo": "4415",
           "pesoValor": 25.0,
           "pesoUnidade": "KG",
           "unidade": "PC",
-          "precoVenda": 414.0,
-          "precoDebitoCredito": 426.5
+          "precoVenda": 424.0,
+          "precoDebitoCredito": 436.5
         }
       ]
     },
