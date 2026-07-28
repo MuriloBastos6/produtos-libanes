@@ -1,12 +1,31 @@
 import pandas as pd
 import json
+import math
 from pathlib import Path
 import re
 import unicodedata
 from difflib import SequenceMatcher
+from openpyxl import load_workbook
 
 
 IMAGE_EXTENSIONS = {'.jpg', '.jpeg', '.png', '.webp'}
+
+PRECO_CARTAO_COLUNAS = ('preco_debito_credito',
+                        'preco_debito_e_credito', 'preco_cartao')
+
+# Fallback usado quando a planilha tem formula que o script nao consegue interpretar.
+FATOR_CARTAO_PADRAO = 1.03
+ARREDONDAMENTO_CARTAO_PADRAO = 0.5
+
+# =MROUND(G2*1.03; 0,5) / =ROUND(G2*1.03; 2) / =G2*1.03
+FORMULA_MROUND = re.compile(
+    r'^=\s*MROUND\s*\(\s*\$?[A-Z]+\$?\d+\s*\*\s*([\d.,]+)\s*[;,]\s*([\d.,]+)\s*\)$',
+    re.IGNORECASE)
+FORMULA_ROUND = re.compile(
+    r'^=\s*ROUND\s*\(\s*\$?[A-Z]+\$?\d+\s*\*\s*([\d.,]+)\s*[;,]\s*(\d+)\s*\)$',
+    re.IGNORECASE)
+FORMULA_SIMPLES = re.compile(
+    r'^=\s*\$?[A-Z]+\$?\d+\s*\*\s*([\d.,]+)\s*$', re.IGNORECASE)
 
 
 def _to_float(value):
@@ -16,6 +35,85 @@ def _to_float(value):
         return float(value)
     except (ValueError, TypeError):
         return 0.0
+
+
+def _numero_formula(texto):
+    """Converte numero de formula aceitando ponto ou virgula como decimal."""
+    texto = texto.strip()
+    if ',' in texto and '.' in texto:
+        texto = texto.replace('.', '').replace(',', '.')
+    else:
+        texto = texto.replace(',', '.')
+    return float(texto)
+
+
+def _mround(valor, multiplo):
+    """Equivalente ao MROUND do Excel (meio para longe do zero)."""
+    if multiplo == 0:
+        return valor
+    return math.floor(abs(valor) / multiplo + 0.5) * multiplo * (1 if valor >= 0 else -1)
+
+
+def avaliar_formula_cartao(formula, preco_venda):
+    """Calcula o preco no cartao a partir da formula escrita na planilha.
+
+    O Excel so grava o resultado da formula quando o arquivo e salvo por ele
+    mesmo. Quando o XLSX vem de outra ferramenta, o valor fica vazio e o site
+    perde o preco de cartao, por isso a formula e reproduzida aqui.
+    """
+    if not isinstance(formula, str) or not formula.startswith('='):
+        return None
+
+    formula = formula.strip()
+
+    match = FORMULA_MROUND.match(formula)
+    if match:
+        return _mround(preco_venda * _numero_formula(match.group(1)),
+                       _numero_formula(match.group(2)))
+
+    match = FORMULA_ROUND.match(formula)
+    if match:
+        return round(preco_venda * _numero_formula(match.group(1)),
+                     int(match.group(2)))
+
+    match = FORMULA_SIMPLES.match(formula)
+    if match:
+        return preco_venda * _numero_formula(match.group(1))
+
+    return _mround(preco_venda * FATOR_CARTAO_PADRAO,
+                   ARREDONDAMENTO_CARTAO_PADRAO)
+
+
+def carregar_formulas_cartao(xlsx_path):
+    """Le as formulas cruas da coluna de preco no cartao, por aba e linha do DataFrame."""
+    formulas = {}
+    workbook = load_workbook(xlsx_path, data_only=False)
+
+    for nome_aba in workbook.sheetnames:
+        planilha = workbook[nome_aba]
+        cabecalho = [celula.value for celula in planilha[1]]
+
+        coluna = None
+        for nome_coluna in PRECO_CARTAO_COLUNAS:
+            if nome_coluna in cabecalho:
+                coluna = cabecalho.index(nome_coluna) + 1
+                break
+
+        if coluna is None:
+            continue
+
+        por_linha = {}
+        for linha in range(2, planilha.max_row + 1):
+            valor = planilha.cell(row=linha, column=coluna).value
+            if isinstance(valor, str) and valor.startswith('='):
+                # linha 2 da planilha == indice 0 do DataFrame
+                por_linha[linha - 2] = valor
+
+        if por_linha:
+            formulas[nome_aba] = por_linha
+
+    workbook.close()
+    return formulas
 DEFAULT_IMAGE = '/arroz.jpeg'
 
 # Overrides for products that must use a specific image regardless of fuzzy score.
@@ -282,9 +380,11 @@ def converter_xlsx_para_json():
 
     # Ler arquivo
     xls = pd.ExcelFile(xlsx_path)
+    formulas_cartao = carregar_formulas_cartao(xlsx_path)
 
     resultado = {}
     total_produtos = 0
+    precos_cartao_calculados = 0
 
     print("Convertendo cada categoria...")
     report = {
@@ -305,7 +405,9 @@ def converter_xlsx_para_json():
         # Agrupar por produto_grupo
         agrupados = {}
 
-        for _, row in df.iterrows():
+        formulas_aba = formulas_cartao.get(nome_aba, {})
+
+        for indice_linha, row in df.iterrows():
             # Pular linhas com dados inválidos
             if pd.isna(row['produto_grupo']) or pd.isna(row['descricao']):
                 continue
@@ -346,18 +448,29 @@ def converter_xlsx_para_json():
             # Adicionar variação
             # Ler possíveis nomes de coluna para preço no cartão (débito/crédito)
             preco_cartao_val = None
-            for col_name in ('preco_debito_credito', 'preco_debito_e_credito', 'preco_cartao'):
+            for col_name in PRECO_CARTAO_COLUNAS:
                 if col_name in df.columns:
                     preco_cartao_val = row[col_name]
                     break
+
+            preco_venda = _to_float(row['preco_venda'])
+            preco_cartao = _to_float(preco_cartao_val)
+
+            # Formula sem resultado gravado na planilha: reproduzir o calculo aqui
+            if preco_cartao == 0.0 and preco_venda > 0:
+                calculado = avaliar_formula_cartao(
+                    formulas_aba.get(indice_linha), preco_venda)
+                if calculado:
+                    preco_cartao = round(calculado, 2)
+                    precos_cartao_calculados += 1
 
             variacao = {
                 'codigo': str(int(row['codigo'])) if pd.notna(row['codigo']) else '',
                 'pesoValor': float(row['peso_valor']) if pd.notna(row['peso_valor']) else 0,
                 'pesoUnidade': str(row['peso_unidade']).strip() if pd.notna(row['peso_unidade']) else '',
                 'unidade': str(row['unidade']).strip() if pd.notna(row['unidade']) else '',
-                'precoVenda': _to_float(row['preco_venda']),
-                'precoDebitoCredito': _to_float(preco_cartao_val)
+                'precoVenda': preco_venda,
+                'precoDebitoCredito': preco_cartao
             }
 
             agrupados[chave]['variacoes'].append(variacao)
@@ -394,6 +507,8 @@ def converter_xlsx_para_json():
     print(
         f"  - Produtos com imagem encontrada: {report['summary']['matched']}")
     print(f"  - Produtos com fallback: {report['summary']['fallback']}")
+    print(
+        f"  - Precos de cartao calculados pela formula: {precos_cartao_calculados}")
     print(f"\nArquivo criado: {json_output}")
     print(f"Relatorio criado: {report_output}")
 

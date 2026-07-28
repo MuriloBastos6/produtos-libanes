@@ -1890,6 +1890,30 @@
       ]
     },
     {
+      "id": "ch-arruda",
+      "descricao": "CHÁ ARRUDA",
+      "categoria": "cha",
+      "imagem": "/images/cha/ch-arruda.jpg",
+      "variacoes": [
+        {
+          "codigo": "4668",
+          "pesoValor": 1.0,
+          "pesoUnidade": "KG",
+          "unidade": "PC",
+          "precoVenda": 77.0,
+          "precoDebitoCredito": 79.5
+        },
+        {
+          "codigo": "4667",
+          "pesoValor": 10.0,
+          "pesoUnidade": "KG",
+          "unidade": "SC",
+          "precoVenda": 770.0,
+          "precoDebitoCredito": 793.0
+        }
+      ]
+    },
+    {
       "id": "ch-barbatimo",
       "descricao": "CHÁ BARBATIMÃO",
       "categoria": "cha",
@@ -4686,504 +4710,6 @@
       ]
     }
   ],
-  "panificacao": [
-    {
-      "id": "amido-de-milho-integrada",
-      "descricao": "AMIDO DE MILHO INTEGRADA",
-      "categoria": "panificacao",
-      "imagem": "/images/panificacao/AMIDO_DE_MILHO_INTEGRADA.jpg",
-      "variacoes": [
-        {
-          "codigo": "8",
-          "pesoValor": 25.0,
-          "pesoUnidade": "KG",
-          "unidade": "SC",
-          "precoVenda": 97.0,
-          "precoDebitoCredito": 100.0
-        }
-      ]
-    },
-    {
-      "id": "fecula-de-batata",
-      "descricao": "FECULA DE BATATA",
-      "categoria": "panificacao",
-      "imagem": "/images/panificacao/FECULA_DE_BATATA.jpg",
-      "variacoes": [
-        {
-          "codigo": "2529",
-          "pesoValor": 5.0,
-          "pesoUnidade": "KG",
-          "unidade": "PC",
-          "precoVenda": 39.5,
-          "precoDebitoCredito": 40.5
-        },
-        {
-          "codigo": "2391",
-          "pesoValor": 25.0,
-          "pesoUnidade": "KG",
-          "unidade": "SC",
-          "precoVenda": 186.0,
-          "precoDebitoCredito": 191.5
-        }
-      ]
-    },
-    {
-      "id": "fecula-mandioca-brasil",
-      "descricao": "FECULA MANDIOCA BRASIL",
-      "categoria": "panificacao",
-      "imagem": "/images/panificacao/FECULA_DE_MANDIOCA.jpg",
-      "variacoes": [
-        {
-          "codigo": "27",
-          "pesoValor": 25.0,
-          "pesoUnidade": "KG",
-          "unidade": "SC",
-          "precoVenda": 110.0,
-          "precoDebitoCredito": 113.5
-        }
-      ]
-    },
-    {
-      "id": "fecula-mandioca-brasom",
-      "descricao": "FECULA MANDIOCA BRASOM",
-      "categoria": "panificacao",
-      "imagem": "/images/panificacao/FECULA_DE_MANIDOCA_BRASOM.jpg",
-      "variacoes": [
-        {
-          "codigo": "2255",
-          "pesoValor": 25.0,
-          "pesoUnidade": "KG",
-          "unidade": "SC",
-          "precoVenda": 99.0,
-          "precoDebitoCredito": 102.0
-        }
-      ]
-    },
-    {
-      "id": "fibra-de-maa-integral",
-      "descricao": "FIBRA DE MAÇA INTEGRAL",
-      "categoria": "panificacao",
-      "imagem": "/images/panificacao/FIBRA_DE_MACA_INTEGRAL.jpg",
-      "variacoes": [
-        {
-          "codigo": "3650",
-          "pesoValor": 5.0,
-          "pesoUnidade": "KG",
-          "unidade": "PC",
-          "precoVenda": 158.0,
-          "precoDebitoCredito": 162.5
-        },
-        {
-          "codigo": "3649",
-          "pesoValor": 10.0,
-          "pesoUnidade": "KG",
-          "unidade": "SC",
-          "precoVenda": 310.0,
-          "precoDebitoCredito": 319.5
-        }
-      ]
-    },
-    {
-      "id": "fibra-de-trigo-fina",
-      "descricao": "FIBRA DE TRIGO FINA",
-      "categoria": "panificacao",
-      "imagem": "/images/panificacao/FIBRA_DE_TRIGO_FINA.jpg",
-      "variacoes": [
-        {
-          "codigo": "3386",
-          "pesoValor": 10.0,
-          "pesoUnidade": "KG",
-          "unidade": "SC",
-          "precoVenda": 57.0,
-          "precoDebitoCredito": 58.5
-        }
-      ]
-    },
-    {
-      "id": "fibra-de-trigo-grossa",
-      "descricao": "FIBRA DE TRIGO GROSSA",
-      "categoria": "panificacao",
-      "imagem": "/images/panificacao/FIBRA_DE_TRIGO_GROSSA.jpg",
-      "variacoes": [
-        {
-          "codigo": "3385",
-          "pesoValor": 8.0,
-          "pesoUnidade": "KG",
-          "unidade": "SC",
-          "precoVenda": 65.0,
-          "precoDebitoCredito": 67.0
-        }
-      ]
-    },
-    {
-      "id": "fuba-italiano",
-      "descricao": "FUBA ITALIANO",
-      "categoria": "panificacao",
-      "imagem": "/images/panificacao/FUBA_ITALIANO.jpg",
-      "variacoes": [
-        {
-          "codigo": "2473",
-          "pesoValor": 5.0,
-          "pesoUnidade": "KG",
-          "unidade": "PC",
-          "precoVenda": 18.0,
-          "precoDebitoCredito": 18.5
-        },
-        {
-          "codigo": "460",
-          "pesoValor": 25.0,
-          "pesoUnidade": "KG",
-          "unidade": "SC",
-          "precoVenda": 78.0,
-          "precoDebitoCredito": 80.5
-        }
-      ]
-    },
-    {
-      "id": "fuba-mimoso-integrada",
-      "descricao": "FUBA MIMOSO INTEGRADA",
-      "categoria": "panificacao",
-      "imagem": "/images/panificacao/FUBA_MIMOSO.jpg",
-      "variacoes": [
-        {
-          "codigo": "2474",
-          "pesoValor": 5.0,
-          "pesoUnidade": "KG",
-          "unidade": "PC",
-          "precoVenda": 15.5,
-          "precoDebitoCredito": 16.0
-        },
-        {
-          "codigo": "128",
-          "pesoValor": 25.0,
-          "pesoUnidade": "KG",
-          "unidade": "SC",
-          "precoVenda": 67.0,
-          "precoDebitoCredito": 69.0
-        }
-      ]
-    },
-    {
-      "id": "floco-de-milho",
-      "descricao": "FLOCÃO DE MILHO",
-      "categoria": "panificacao",
-      "imagem": "/images/panificacao/FLOCAO_DE_MILHO.jpg",
-      "variacoes": [
-        {
-          "codigo": "3086",
-          "pesoValor": 5.0,
-          "pesoUnidade": "KG",
-          "unidade": "PC",
-          "precoVenda": 22.5,
-          "precoDebitoCredito": 23.0
-        },
-        {
-          "codigo": "3085",
-          "pesoValor": 25.0,
-          "pesoUnidade": "KG",
-          "unidade": "SC",
-          "precoVenda": 102.0,
-          "precoDebitoCredito": 105.0
-        }
-      ]
-    },
-    {
-      "id": "flocao-de-arroz-coringa",
-      "descricao": "FLOCAO DE ARROZ CORINGA",
-      "categoria": "panificacao",
-      "imagem": "/images/panificacao/FLOCAO_DEA_ARROZ_CORINGA.jpg",
-      "variacoes": [
-        {
-          "codigo": "4558",
-          "pesoValor": 10.0,
-          "pesoUnidade": "X500G",
-          "unidade": "FD",
-          "precoVenda": 45.0,
-          "precoDebitoCredito": 46.5
-        }
-      ]
-    },
-    {
-      "id": "floco-de-milho-coringa",
-      "descricao": "FLOCÃO DE MILHO CORINGA",
-      "categoria": "panificacao",
-      "imagem": "/images/panificacao/FLOCAO_DE_MILHO_CORINGA.jpg",
-      "variacoes": [
-        {
-          "codigo": "4048",
-          "pesoValor": 20.0,
-          "pesoUnidade": "X500G",
-          "unidade": "FD",
-          "precoVenda": 55.0,
-          "precoDebitoCredito": 56.5
-        }
-      ]
-    },
-    {
-      "id": "gelatina-incolor",
-      "descricao": "GELATINA INCOLOR",
-      "categoria": "panificacao",
-      "imagem": "/images/panificacao/GELATINA_INCOLOR.jpg",
-      "variacoes": [
-        {
-          "codigo": "2525",
-          "pesoValor": 5.0,
-          "pesoUnidade": "KG",
-          "unidade": "PC",
-          "precoVenda": 275.0,
-          "precoDebitoCredito": 283.5
-        },
-        {
-          "codigo": "2519",
-          "pesoValor": 10.0,
-          "pesoUnidade": "KG",
-          "unidade": "SC",
-          "precoVenda": 530.0,
-          "precoDebitoCredito": 546.0
-        }
-      ]
-    },
-    {
-      "id": "levedo-de-cerveja",
-      "descricao": "LEVEDO DE CERVEJA",
-      "categoria": "panificacao",
-      "imagem": "/images/panificacao/LEVEDO_DE_CERVEJA.jpg",
-      "variacoes": [
-        {
-          "codigo": "3394",
-          "pesoValor": 5.0,
-          "pesoUnidade": "KG",
-          "unidade": "PC",
-          "precoVenda": 237.0,
-          "precoDebitoCredito": 244.0
-        },
-        {
-          "codigo": "3433",
-          "pesoValor": 25.0,
-          "pesoUnidade": "KG",
-          "unidade": "SC",
-          "precoVenda": 940.0,
-          "precoDebitoCredito": 968.0
-        }
-      ]
-    },
-    {
-      "id": "polvilho-azedo-brasil",
-      "descricao": "POLVILHO AZEDO BRASIL",
-      "categoria": "panificacao",
-      "imagem": "/images/panificacao/POLVILHO_AZEDO.jpg",
-      "variacoes": [
-        {
-          "codigo": "47",
-          "pesoValor": 25.0,
-          "pesoUnidade": "KG",
-          "unidade": "SC",
-          "precoVenda": 129.0,
-          "precoDebitoCredito": 133.0
-        }
-      ]
-    },
-    {
-      "id": "polvilho-doce-olinda",
-      "descricao": "POLVILHO DOCE OLINDA",
-      "categoria": "panificacao",
-      "imagem": "/images/panificacao/POLVILHO_DOCE.jpg",
-      "variacoes": [
-        {
-          "codigo": "46",
-          "pesoValor": 25.0,
-          "pesoUnidade": "KG",
-          "unidade": "SC",
-          "precoVenda": 129.0,
-          "precoDebitoCredito": 133.0
-        }
-      ]
-    },
-    {
-      "id": "prot-text-soja-bacon",
-      "descricao": "PROT TEXT SOJA BACON",
-      "categoria": "panificacao",
-      "imagem": "/images/panificacao/PROT_TEXT_SOJA_BACON.jpg",
-      "variacoes": [
-        {
-          "codigo": "3100",
-          "pesoValor": 10.0,
-          "pesoUnidade": "KG",
-          "unidade": "SC",
-          "precoVenda": 209.0,
-          "precoDebitoCredito": 215.5
-        }
-      ]
-    },
-    {
-      "id": "prot-text-soja-gran-car-10mm",
-      "descricao": "PROT TEXT SOJA GRAN CAR 10MM",
-      "categoria": "panificacao",
-      "imagem": "/images/panificacao/PROT_CAR_10MM.jpg",
-      "variacoes": [
-        {
-          "codigo": "3746",
-          "pesoValor": 15.0,
-          "pesoUnidade": "KG",
-          "unidade": "SC",
-          "precoVenda": 119.0,
-          "precoDebitoCredito": 122.5
-        }
-      ]
-    },
-    {
-      "id": "prot-text-soja-gran-car-35mm",
-      "descricao": "PROT TEXT SOJA GRAN CAR 35MM",
-      "categoria": "panificacao",
-      "imagem": "/images/panificacao/PROT_CAR_35MM.jpg",
-      "variacoes": [
-        {
-          "codigo": "3639",
-          "pesoValor": 15.0,
-          "pesoUnidade": "KG",
-          "unidade": "SC",
-          "precoVenda": 119.0,
-          "precoDebitoCredito": 122.5
-        }
-      ]
-    },
-    {
-      "id": "prot-text-soja-gran-car-48mm",
-      "descricao": "PROT TEXT SOJA GRAN CAR 4.8MM",
-      "categoria": "panificacao",
-      "imagem": "/images/panificacao/PROT_CAR_4,8MM.jpg",
-      "variacoes": [
-        {
-          "codigo": "2415",
-          "pesoValor": 20.0,
-          "pesoUnidade": "KG",
-          "unidade": "SC",
-          "precoVenda": 158.5,
-          "precoDebitoCredito": 163.5
-        }
-      ]
-    },
-    {
-      "id": "prot-text-soja-gran-nat-10mm",
-      "descricao": "PROT TEXT SOJA GRAN NAT 10MM",
-      "categoria": "panificacao",
-      "imagem": "/images/panificacao/PROT_NAT_10MM.jpg",
-      "variacoes": [
-        {
-          "codigo": "3747",
-          "pesoValor": 15.0,
-          "pesoUnidade": "KG",
-          "unidade": "SC",
-          "precoVenda": 119.0,
-          "precoDebitoCredito": 122.5
-        }
-      ]
-    },
-    {
-      "id": "prot-text-soja-gran-nat-35mm",
-      "descricao": "PROT TEXT SOJA GRAN NAT 35MM",
-      "categoria": "panificacao",
-      "imagem": "/images/panificacao/PROT_NAT_35MM.jpg",
-      "variacoes": [
-        {
-          "codigo": "3640",
-          "pesoValor": 15.0,
-          "pesoUnidade": "KG",
-          "unidade": "SC",
-          "precoVenda": 158.5,
-          "precoDebitoCredito": 163.5
-        }
-      ]
-    },
-    {
-      "id": "prot-text-soja-gran-nat-48mm",
-      "descricao": "PROT TEXT SOJA GRAN NAT 4.8MM",
-      "categoria": "panificacao",
-      "imagem": "/images/panificacao/PROT_NAT_4,8MM.jpg",
-      "variacoes": [
-        {
-          "codigo": "2416",
-          "pesoValor": 20.0,
-          "pesoUnidade": "KG",
-          "unidade": "SC",
-          "precoVenda": 153.5,
-          "precoDebitoCredito": 158.0
-        }
-      ]
-    },
-    {
-      "id": "sagu",
-      "descricao": "SAGU",
-      "categoria": "panificacao",
-      "imagem": "/images/panificacao/SAGU.jpg",
-      "variacoes": [
-        {
-          "codigo": "2533",
-          "pesoValor": 5.0,
-          "pesoUnidade": "KG",
-          "unidade": "PC",
-          "precoVenda": 36.0,
-          "precoDebitoCredito": 37.0
-        },
-        {
-          "codigo": "50",
-          "pesoValor": 25.0,
-          "pesoUnidade": "KG",
-          "unidade": "SC",
-          "precoVenda": 165.0,
-          "precoDebitoCredito": 170.0
-        }
-      ]
-    },
-    {
-      "id": "tapioca-granulada",
-      "descricao": "TAPIOCA GRANULADA",
-      "categoria": "panificacao",
-      "imagem": "/images/panificacao/TAPIOCA_GRANULADA.jpg",
-      "variacoes": [
-        {
-          "codigo": "2470",
-          "pesoValor": 5.0,
-          "pesoUnidade": "KG",
-          "unidade": "PC",
-          "precoVenda": 33.0,
-          "precoDebitoCredito": 34.0
-        },
-        {
-          "codigo": "52",
-          "pesoValor": 25.0,
-          "pesoUnidade": "KG",
-          "unidade": "SC",
-          "precoVenda": 165.0,
-          "precoDebitoCredito": 170.0
-        }
-      ]
-    },
-    {
-      "id": "trigo-p-kibe-marrocos",
-      "descricao": "TRIGO P/ KIBE MARROCOS",
-      "categoria": "panificacao",
-      "imagem": "/images/panificacao/TRIGO_P_KIBE.jpg",
-      "variacoes": [
-        {
-          "codigo": "2435",
-          "pesoValor": 5.0,
-          "pesoUnidade": "KG",
-          "unidade": "PC",
-          "precoVenda": 25.5,
-          "precoDebitoCredito": 26.5
-        },
-        {
-          "codigo": "53",
-          "pesoValor": 25.0,
-          "pesoUnidade": "KG",
-          "unidade": "SC",
-          "precoVenda": 118.0,
-          "precoDebitoCredito": 121.5
-        }
-      ]
-    }
-  ],
   "especiarias": [
     {
       "id": "alho-frito",
@@ -5330,6 +4856,22 @@
       ]
     },
     {
+      "id": "bicarbonato-de-sodio",
+      "descricao": "BICARBONATO DE SODIO",
+      "categoria": "especiarias",
+      "imagem": "/images/especiarias/BICARBONATO_DE_SODIO_SOLVAY.jpg",
+      "variacoes": [
+        {
+          "codigo": "4669",
+          "pesoValor": 10.0,
+          "pesoUnidade": "KG",
+          "unidade": "SC",
+          "precoVenda": 52.0,
+          "precoDebitoCredito": 53.5
+        }
+      ]
+    },
+    {
       "id": "canela-casca-6-cm",
       "descricao": "CANELA CASCA 6 CM",
       "categoria": "especiarias",
@@ -5388,16 +4930,16 @@
           "pesoValor": 5.0,
           "pesoUnidade": "KG",
           "unidade": "PC",
-          "precoVenda": 92.0,
-          "precoDebitoCredito": 95.0
+          "precoVenda": 108.5,
+          "precoDebitoCredito": 112.0
         },
         {
           "codigo": "4111",
           "pesoValor": 10.0,
           "pesoUnidade": "KG",
           "unidade": "SC",
-          "precoVenda": 180.0,
-          "precoDebitoCredito": 185.5
+          "precoVenda": 210.0,
+          "precoDebitoCredito": 216.5
         }
       ]
     },
@@ -6722,6 +6264,520 @@
       ]
     }
   ],
+  "panificacao": [
+    {
+      "id": "amido-de-milho-integrada",
+      "descricao": "AMIDO DE MILHO INTEGRADA",
+      "categoria": "panificacao",
+      "imagem": "/images/panificacao/AMIDO_DE_MILHO_INTEGRADA.jpg",
+      "variacoes": [
+        {
+          "codigo": "8",
+          "pesoValor": 25.0,
+          "pesoUnidade": "KG",
+          "unidade": "SC",
+          "precoVenda": 97.0,
+          "precoDebitoCredito": 100.0
+        }
+      ]
+    },
+    {
+      "id": "fecula-de-batata",
+      "descricao": "FECULA DE BATATA",
+      "categoria": "panificacao",
+      "imagem": "/images/panificacao/FECULA_DE_BATATA.jpg",
+      "variacoes": [
+        {
+          "codigo": "2529",
+          "pesoValor": 5.0,
+          "pesoUnidade": "KG",
+          "unidade": "PC",
+          "precoVenda": 39.5,
+          "precoDebitoCredito": 40.5
+        },
+        {
+          "codigo": "2391",
+          "pesoValor": 25.0,
+          "pesoUnidade": "KG",
+          "unidade": "SC",
+          "precoVenda": 186.0,
+          "precoDebitoCredito": 191.5
+        }
+      ]
+    },
+    {
+      "id": "fecula-mandioca-brasil",
+      "descricao": "FECULA MANDIOCA BRASIL",
+      "categoria": "panificacao",
+      "imagem": "/images/panificacao/FECULA_DE_MANDIOCA.jpg",
+      "variacoes": [
+        {
+          "codigo": "27",
+          "pesoValor": 25.0,
+          "pesoUnidade": "KG",
+          "unidade": "SC",
+          "precoVenda": 110.0,
+          "precoDebitoCredito": 113.5
+        }
+      ]
+    },
+    {
+      "id": "fecula-mandioca-brasom",
+      "descricao": "FECULA MANDIOCA BRASOM",
+      "categoria": "panificacao",
+      "imagem": "/images/panificacao/FECULA_DE_MANIDOCA_BRASOM.jpg",
+      "variacoes": [
+        {
+          "codigo": "2255",
+          "pesoValor": 25.0,
+          "pesoUnidade": "KG",
+          "unidade": "SC",
+          "precoVenda": 99.0,
+          "precoDebitoCredito": 102.0
+        }
+      ]
+    },
+    {
+      "id": "fibra-de-maa-integral",
+      "descricao": "FIBRA DE MAÇA INTEGRAL",
+      "categoria": "panificacao",
+      "imagem": "/images/panificacao/FIBRA_DE_MACA_INTEGRAL.jpg",
+      "variacoes": [
+        {
+          "codigo": "3650",
+          "pesoValor": 5.0,
+          "pesoUnidade": "KG",
+          "unidade": "PC",
+          "precoVenda": 158.0,
+          "precoDebitoCredito": 162.5
+        },
+        {
+          "codigo": "3649",
+          "pesoValor": 10.0,
+          "pesoUnidade": "KG",
+          "unidade": "SC",
+          "precoVenda": 310.0,
+          "precoDebitoCredito": 319.5
+        }
+      ]
+    },
+    {
+      "id": "fibra-de-trigo-fina",
+      "descricao": "FIBRA DE TRIGO FINA",
+      "categoria": "panificacao",
+      "imagem": "/images/panificacao/FIBRA_DE_TRIGO_FINA.jpg",
+      "variacoes": [
+        {
+          "codigo": "3386",
+          "pesoValor": 10.0,
+          "pesoUnidade": "KG",
+          "unidade": "SC",
+          "precoVenda": 57.0,
+          "precoDebitoCredito": 58.5
+        }
+      ]
+    },
+    {
+      "id": "fibra-de-trigo-grossa",
+      "descricao": "FIBRA DE TRIGO GROSSA",
+      "categoria": "panificacao",
+      "imagem": "/images/panificacao/FIBRA_DE_TRIGO_GROSSA.jpg",
+      "variacoes": [
+        {
+          "codigo": "3385",
+          "pesoValor": 8.0,
+          "pesoUnidade": "KG",
+          "unidade": "SC",
+          "precoVenda": 65.0,
+          "precoDebitoCredito": 67.0
+        }
+      ]
+    },
+    {
+      "id": "fuba-italiano",
+      "descricao": "FUBA ITALIANO",
+      "categoria": "panificacao",
+      "imagem": "/images/panificacao/FUBA_ITALIANO.jpg",
+      "variacoes": [
+        {
+          "codigo": "2473",
+          "pesoValor": 5.0,
+          "pesoUnidade": "KG",
+          "unidade": "PC",
+          "precoVenda": 18.0,
+          "precoDebitoCredito": 18.5
+        },
+        {
+          "codigo": "460",
+          "pesoValor": 25.0,
+          "pesoUnidade": "KG",
+          "unidade": "SC",
+          "precoVenda": 78.0,
+          "precoDebitoCredito": 80.5
+        }
+      ]
+    },
+    {
+      "id": "fuba-mimoso-integrada",
+      "descricao": "FUBA MIMOSO INTEGRADA",
+      "categoria": "panificacao",
+      "imagem": "/images/panificacao/FUBA_MIMOSO.jpg",
+      "variacoes": [
+        {
+          "codigo": "2474",
+          "pesoValor": 5.0,
+          "pesoUnidade": "KG",
+          "unidade": "PC",
+          "precoVenda": 15.5,
+          "precoDebitoCredito": 16.0
+        },
+        {
+          "codigo": "128",
+          "pesoValor": 25.0,
+          "pesoUnidade": "KG",
+          "unidade": "SC",
+          "precoVenda": 67.0,
+          "precoDebitoCredito": 69.0
+        }
+      ]
+    },
+    {
+      "id": "floco-de-milho",
+      "descricao": "FLOCÃO DE MILHO",
+      "categoria": "panificacao",
+      "imagem": "/images/panificacao/FLOCAO_DE_MILHO.jpg",
+      "variacoes": [
+        {
+          "codigo": "3086",
+          "pesoValor": 5.0,
+          "pesoUnidade": "KG",
+          "unidade": "PC",
+          "precoVenda": 22.5,
+          "precoDebitoCredito": 23.0
+        },
+        {
+          "codigo": "3085",
+          "pesoValor": 25.0,
+          "pesoUnidade": "KG",
+          "unidade": "SC",
+          "precoVenda": 102.0,
+          "precoDebitoCredito": 105.0
+        }
+      ]
+    },
+    {
+      "id": "flocao-de-arroz-coringa",
+      "descricao": "FLOCAO DE ARROZ CORINGA",
+      "categoria": "panificacao",
+      "imagem": "/images/panificacao/FLOCAO_DEA_ARROZ_CORINGA.jpg",
+      "variacoes": [
+        {
+          "codigo": "4558",
+          "pesoValor": 10.0,
+          "pesoUnidade": "X500G",
+          "unidade": "FD",
+          "precoVenda": 45.0,
+          "precoDebitoCredito": 46.5
+        }
+      ]
+    },
+    {
+      "id": "floco-de-milho-coringa",
+      "descricao": "FLOCÃO DE MILHO CORINGA",
+      "categoria": "panificacao",
+      "imagem": "/images/panificacao/FLOCAO_DE_MILHO_CORINGA.jpg",
+      "variacoes": [
+        {
+          "codigo": "4048",
+          "pesoValor": 20.0,
+          "pesoUnidade": "X500G",
+          "unidade": "FD",
+          "precoVenda": 55.0,
+          "precoDebitoCredito": 56.5
+        }
+      ]
+    },
+    {
+      "id": "gelatina-incolor",
+      "descricao": "GELATINA INCOLOR",
+      "categoria": "panificacao",
+      "imagem": "/images/panificacao/GELATINA_INCOLOR.jpg",
+      "variacoes": [
+        {
+          "codigo": "2525",
+          "pesoValor": 5.0,
+          "pesoUnidade": "KG",
+          "unidade": "PC",
+          "precoVenda": 275.0,
+          "precoDebitoCredito": 283.5
+        },
+        {
+          "codigo": "2519",
+          "pesoValor": 10.0,
+          "pesoUnidade": "KG",
+          "unidade": "SC",
+          "precoVenda": 530.0,
+          "precoDebitoCredito": 546.0
+        }
+      ]
+    },
+    {
+      "id": "levedo-de-cerveja",
+      "descricao": "LEVEDO DE CERVEJA",
+      "categoria": "panificacao",
+      "imagem": "/images/panificacao/LEVEDO_DE_CERVEJA.jpg",
+      "variacoes": [
+        {
+          "codigo": "3394",
+          "pesoValor": 5.0,
+          "pesoUnidade": "KG",
+          "unidade": "PC",
+          "precoVenda": 237.0,
+          "precoDebitoCredito": 244.0
+        },
+        {
+          "codigo": "3433",
+          "pesoValor": 25.0,
+          "pesoUnidade": "KG",
+          "unidade": "SC",
+          "precoVenda": 940.0,
+          "precoDebitoCredito": 968.0
+        }
+      ]
+    },
+    {
+      "id": "polvilho-azedo-brasil",
+      "descricao": "POLVILHO AZEDO BRASIL",
+      "categoria": "panificacao",
+      "imagem": "/images/panificacao/POLVILHO_AZEDO.jpg",
+      "variacoes": [
+        {
+          "codigo": "47",
+          "pesoValor": 25.0,
+          "pesoUnidade": "KG",
+          "unidade": "SC",
+          "precoVenda": 129.0,
+          "precoDebitoCredito": 133.0
+        }
+      ]
+    },
+    {
+      "id": "polvilho-doce-olinda",
+      "descricao": "POLVILHO DOCE OLINDA",
+      "categoria": "panificacao",
+      "imagem": "/images/panificacao/POLVILHO_DOCE.jpg",
+      "variacoes": [
+        {
+          "codigo": "46",
+          "pesoValor": 25.0,
+          "pesoUnidade": "KG",
+          "unidade": "SC",
+          "precoVenda": 129.0,
+          "precoDebitoCredito": 133.0
+        }
+      ]
+    },
+    {
+      "id": "prot-text-soja-bacon",
+      "descricao": "PROT TEXT SOJA BACON",
+      "categoria": "panificacao",
+      "imagem": "/images/panificacao/PROT_TEXT_SOJA_BACON.jpg",
+      "variacoes": [
+        {
+          "codigo": "3100",
+          "pesoValor": 10.0,
+          "pesoUnidade": "KG",
+          "unidade": "SC",
+          "precoVenda": 209.0,
+          "precoDebitoCredito": 215.5
+        }
+      ]
+    },
+    {
+      "id": "prot-text-soja-gran-car-10mm",
+      "descricao": "PROT TEXT SOJA GRAN CAR 10MM",
+      "categoria": "panificacao",
+      "imagem": "/images/panificacao/PROT_CAR_10MM.jpg",
+      "variacoes": [
+        {
+          "codigo": "3746",
+          "pesoValor": 15.0,
+          "pesoUnidade": "KG",
+          "unidade": "SC",
+          "precoVenda": 119.0,
+          "precoDebitoCredito": 122.5
+        }
+      ]
+    },
+    {
+      "id": "prot-text-soja-gran-car-35mm",
+      "descricao": "PROT TEXT SOJA GRAN CAR 35MM",
+      "categoria": "panificacao",
+      "imagem": "/images/panificacao/PROT_CAR_35MM.jpg",
+      "variacoes": [
+        {
+          "codigo": "3639",
+          "pesoValor": 15.0,
+          "pesoUnidade": "KG",
+          "unidade": "SC",
+          "precoVenda": 119.0,
+          "precoDebitoCredito": 122.5
+        }
+      ]
+    },
+    {
+      "id": "prot-text-soja-gran-car-48mm",
+      "descricao": "PROT TEXT SOJA GRAN CAR 4.8MM",
+      "categoria": "panificacao",
+      "imagem": "/images/panificacao/PROT_CAR_4,8MM.jpg",
+      "variacoes": [
+        {
+          "codigo": "2415",
+          "pesoValor": 20.0,
+          "pesoUnidade": "KG",
+          "unidade": "SC",
+          "precoVenda": 158.5,
+          "precoDebitoCredito": 163.5
+        }
+      ]
+    },
+    {
+      "id": "prot-text-soja-gran-nat-10mm",
+      "descricao": "PROT TEXT SOJA GRAN NAT 10MM",
+      "categoria": "panificacao",
+      "imagem": "/images/panificacao/PROT_NAT_10MM.jpg",
+      "variacoes": [
+        {
+          "codigo": "3747",
+          "pesoValor": 15.0,
+          "pesoUnidade": "KG",
+          "unidade": "SC",
+          "precoVenda": 119.0,
+          "precoDebitoCredito": 122.5
+        }
+      ]
+    },
+    {
+      "id": "prot-text-soja-gran-nat-35mm",
+      "descricao": "PROT TEXT SOJA GRAN NAT 35MM",
+      "categoria": "panificacao",
+      "imagem": "/images/panificacao/PROT_NAT_35MM.jpg",
+      "variacoes": [
+        {
+          "codigo": "3640",
+          "pesoValor": 15.0,
+          "pesoUnidade": "KG",
+          "unidade": "SC",
+          "precoVenda": 158.5,
+          "precoDebitoCredito": 163.5
+        }
+      ]
+    },
+    {
+      "id": "prot-text-soja-gran-nat-48mm",
+      "descricao": "PROT TEXT SOJA GRAN NAT 4.8MM",
+      "categoria": "panificacao",
+      "imagem": "/images/panificacao/PROT_NAT_4,8MM.jpg",
+      "variacoes": [
+        {
+          "codigo": "2416",
+          "pesoValor": 20.0,
+          "pesoUnidade": "KG",
+          "unidade": "SC",
+          "precoVenda": 153.5,
+          "precoDebitoCredito": 158.0
+        }
+      ]
+    },
+    {
+      "id": "sagu",
+      "descricao": "SAGU",
+      "categoria": "panificacao",
+      "imagem": "/images/panificacao/SAGU.jpg",
+      "variacoes": [
+        {
+          "codigo": "2533",
+          "pesoValor": 5.0,
+          "pesoUnidade": "KG",
+          "unidade": "PC",
+          "precoVenda": 36.0,
+          "precoDebitoCredito": 37.0
+        },
+        {
+          "codigo": "50",
+          "pesoValor": 25.0,
+          "pesoUnidade": "KG",
+          "unidade": "SC",
+          "precoVenda": 165.0,
+          "precoDebitoCredito": 170.0
+        }
+      ]
+    },
+    {
+      "id": "tapioca-granulada",
+      "descricao": "TAPIOCA GRANULADA",
+      "categoria": "panificacao",
+      "imagem": "/images/panificacao/TAPIOCA_GRANULADA.jpg",
+      "variacoes": [
+        {
+          "codigo": "2470",
+          "pesoValor": 5.0,
+          "pesoUnidade": "KG",
+          "unidade": "PC",
+          "precoVenda": 33.0,
+          "precoDebitoCredito": 34.0
+        },
+        {
+          "codigo": "52",
+          "pesoValor": 25.0,
+          "pesoUnidade": "KG",
+          "unidade": "SC",
+          "precoVenda": 165.0,
+          "precoDebitoCredito": 170.0
+        }
+      ]
+    },
+    {
+      "id": "tapioca-granulada-cassava",
+      "descricao": "TAPIOCA GRANULADA CASSAVA",
+      "categoria": "panificacao",
+      "imagem": "/images/panificacao/tapioca-granulada-cassava.jpg",
+      "variacoes": [
+        {
+          "codigo": "4671",
+          "pesoValor": 25.0,
+          "pesoUnidade": "KG",
+          "unidade": "SC",
+          "precoVenda": 164.0,
+          "precoDebitoCredito": 169.0
+        }
+      ]
+    },
+    {
+      "id": "trigo-p-kibe-marrocos",
+      "descricao": "TRIGO P/ KIBE MARROCOS",
+      "categoria": "panificacao",
+      "imagem": "/images/panificacao/TRIGO_P_KIBE.jpg",
+      "variacoes": [
+        {
+          "codigo": "2435",
+          "pesoValor": 5.0,
+          "pesoUnidade": "KG",
+          "unidade": "PC",
+          "precoVenda": 25.5,
+          "precoDebitoCredito": 26.5
+        },
+        {
+          "codigo": "53",
+          "pesoValor": 25.0,
+          "pesoUnidade": "KG",
+          "unidade": "SC",
+          "precoVenda": 118.0,
+          "precoDebitoCredito": 121.5
+        }
+      ]
+    }
+  ],
   "frutas": [
     {
       "id": "ameixa-scaroo",
@@ -7088,16 +7144,16 @@
           "pesoValor": 5.0,
           "pesoUnidade": "KG",
           "unidade": "PC",
-          "precoVenda": 38.0,
-          "precoDebitoCredito": 39.0
+          "precoVenda": 40.5,
+          "precoDebitoCredito": 41.5
         },
         {
           "codigo": "3365",
           "pesoValor": 25.0,
           "pesoUnidade": "KG",
           "unidade": "SC",
-          "precoVenda": 175.0,
-          "precoDebitoCredito": 180.5
+          "precoVenda": 187.5,
+          "precoDebitoCredito": 193.0
         }
       ]
     },
@@ -7786,8 +7842,8 @@
           "pesoValor": 5.0,
           "pesoUnidade": "KG",
           "unidade": "PC",
-          "precoVenda": 228.5,
-          "precoDebitoCredito": 235.5
+          "precoVenda": 190.0,
+          "precoDebitoCredito": 195.5
         }
       ]
     },

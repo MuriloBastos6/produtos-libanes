@@ -1,8 +1,8 @@
 {
   "summary": {
     "categorias": 20,
-    "produtos": 550,
-    "matched": 568,
+    "produtos": 553,
+    "matched": 571,
     "fallback": 0,
     "category_without_folder": 0
   },
@@ -780,6 +780,15 @@
       "status": "fixed-existing",
       "score": 999.0,
       "arquivo_sugerido": "CHA_ASHWAGANDHA.jpg"
+    },
+    {
+      "categoria": "cha",
+      "id": "ch-arruda",
+      "descricao": "CHÁ ARRUDA",
+      "imagem": "/images/cha/ch-arruda.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "ch-arruda.jpg"
     },
     {
       "categoria": "cha",
@@ -1817,240 +1826,6 @@
       "arquivo_sugerido": "TRIGO_EM_GRAO.jpg"
     },
     {
-      "categoria": "panificacao",
-      "id": "amido-de-milho-integrada",
-      "descricao": "AMIDO DE MILHO INTEGRADA",
-      "imagem": "/images/panificacao/AMIDO_DE_MILHO_INTEGRADA.jpg",
-      "status": "fixed-existing",
-      "score": 999.0,
-      "arquivo_sugerido": "AMIDO_DE_MILHO_INTEGRADA.jpg"
-    },
-    {
-      "categoria": "panificacao",
-      "id": "fecula-de-batata",
-      "descricao": "FECULA DE BATATA",
-      "imagem": "/images/panificacao/FECULA_DE_BATATA.jpg",
-      "status": "fixed-existing",
-      "score": 999.0,
-      "arquivo_sugerido": "FECULA_DE_BATATA.jpg"
-    },
-    {
-      "categoria": "panificacao",
-      "id": "fecula-mandioca-brasil",
-      "descricao": "FECULA MANDIOCA BRASIL",
-      "imagem": "/images/panificacao/FECULA_DE_MANDIOCA.jpg",
-      "status": "fixed-existing",
-      "score": 999.0,
-      "arquivo_sugerido": "FECULA_DE_MANDIOCA.jpg"
-    },
-    {
-      "categoria": "panificacao",
-      "id": "fecula-mandioca-brasom",
-      "descricao": "FECULA MANDIOCA BRASOM",
-      "imagem": "/images/panificacao/FECULA_DE_MANIDOCA_BRASOM.jpg",
-      "status": "fixed-existing",
-      "score": 999.0,
-      "arquivo_sugerido": "FECULA_DE_MANIDOCA_BRASOM.jpg"
-    },
-    {
-      "categoria": "panificacao",
-      "id": "fibra-de-maa-integral",
-      "descricao": "FIBRA DE MAÇA INTEGRAL",
-      "imagem": "/images/panificacao/FIBRA_DE_MACA_INTEGRAL.jpg",
-      "status": "fixed-existing",
-      "score": 999.0,
-      "arquivo_sugerido": "FIBRA_DE_MACA_INTEGRAL.jpg"
-    },
-    {
-      "categoria": "panificacao",
-      "id": "fibra-de-trigo-fina",
-      "descricao": "FIBRA DE TRIGO FINA",
-      "imagem": "/images/panificacao/FIBRA_DE_TRIGO_FINA.jpg",
-      "status": "fixed-existing",
-      "score": 999.0,
-      "arquivo_sugerido": "FIBRA_DE_TRIGO_FINA.jpg"
-    },
-    {
-      "categoria": "panificacao",
-      "id": "fibra-de-trigo-grossa",
-      "descricao": "FIBRA DE TRIGO GROSSA",
-      "imagem": "/images/panificacao/FIBRA_DE_TRIGO_GROSSA.jpg",
-      "status": "fixed-existing",
-      "score": 999.0,
-      "arquivo_sugerido": "FIBRA_DE_TRIGO_GROSSA.jpg"
-    },
-    {
-      "categoria": "panificacao",
-      "id": "fuba-italiano",
-      "descricao": "FUBA ITALIANO",
-      "imagem": "/images/panificacao/FUBA_ITALIANO.jpg",
-      "status": "fixed-existing",
-      "score": 999.0,
-      "arquivo_sugerido": "FUBA_ITALIANO.jpg"
-    },
-    {
-      "categoria": "panificacao",
-      "id": "fuba-mimoso-integrada",
-      "descricao": "FUBA MIMOSO INTEGRADA",
-      "imagem": "/images/panificacao/FUBA_MIMOSO.jpg",
-      "status": "fixed-existing",
-      "score": 999.0,
-      "arquivo_sugerido": "FUBA_MIMOSO.jpg"
-    },
-    {
-      "categoria": "panificacao",
-      "id": "floco-de-milho",
-      "descricao": "FLOCÃO DE MILHO",
-      "imagem": "/images/panificacao/FLOCAO_DE_MILHO.jpg",
-      "status": "fixed-existing",
-      "score": 999.0,
-      "arquivo_sugerido": "FLOCAO_DE_MILHO.jpg"
-    },
-    {
-      "categoria": "panificacao",
-      "id": "flocao-de-arroz-coringa",
-      "descricao": "FLOCAO DE ARROZ CORINGA",
-      "imagem": "/images/panificacao/FLOCAO_DEA_ARROZ_CORINGA.jpg",
-      "status": "fixed-existing",
-      "score": 999.0,
-      "arquivo_sugerido": "FLOCAO_DEA_ARROZ_CORINGA.jpg"
-    },
-    {
-      "categoria": "panificacao",
-      "id": "floco-de-milho-coringa",
-      "descricao": "FLOCÃO DE MILHO CORINGA",
-      "imagem": "/images/panificacao/FLOCAO_DE_MILHO_CORINGA.jpg",
-      "status": "fixed-existing",
-      "score": 999.0,
-      "arquivo_sugerido": "FLOCAO_DE_MILHO_CORINGA.jpg"
-    },
-    {
-      "categoria": "panificacao",
-      "id": "gelatina-incolor",
-      "descricao": "GELATINA INCOLOR",
-      "imagem": "/images/panificacao/GELATINA_INCOLOR.jpg",
-      "status": "fixed-existing",
-      "score": 999.0,
-      "arquivo_sugerido": "GELATINA_INCOLOR.jpg"
-    },
-    {
-      "categoria": "panificacao",
-      "id": "levedo-de-cerveja",
-      "descricao": "LEVEDO DE CERVEJA",
-      "imagem": "/images/panificacao/LEVEDO_DE_CERVEJA.jpg",
-      "status": "fixed-existing",
-      "score": 999.0,
-      "arquivo_sugerido": "LEVEDO_DE_CERVEJA.jpg"
-    },
-    {
-      "categoria": "panificacao",
-      "id": "polvilho-azedo-brasil",
-      "descricao": "POLVILHO AZEDO BRASIL",
-      "imagem": "/images/panificacao/POLVILHO_AZEDO.jpg",
-      "status": "fixed-existing",
-      "score": 999.0,
-      "arquivo_sugerido": "POLVILHO_AZEDO.jpg"
-    },
-    {
-      "categoria": "panificacao",
-      "id": "polvilho-doce-olinda",
-      "descricao": "POLVILHO DOCE OLINDA",
-      "imagem": "/images/panificacao/POLVILHO_DOCE.jpg",
-      "status": "fixed-existing",
-      "score": 999.0,
-      "arquivo_sugerido": "POLVILHO_DOCE.jpg"
-    },
-    {
-      "categoria": "panificacao",
-      "id": "prot-text-soja-bacon",
-      "descricao": "PROT TEXT SOJA BACON",
-      "imagem": "/images/panificacao/PROT_TEXT_SOJA_BACON.jpg",
-      "status": "fixed-existing",
-      "score": 999.0,
-      "arquivo_sugerido": "PROT_TEXT_SOJA_BACON.jpg"
-    },
-    {
-      "categoria": "panificacao",
-      "id": "prot-text-soja-gran-car-10mm",
-      "descricao": "PROT TEXT SOJA GRAN CAR 10MM",
-      "imagem": "/images/panificacao/PROT_CAR_10MM.jpg",
-      "status": "fixed-existing",
-      "score": 999.0,
-      "arquivo_sugerido": "PROT_CAR_10MM.jpg"
-    },
-    {
-      "categoria": "panificacao",
-      "id": "prot-text-soja-gran-car-35mm",
-      "descricao": "PROT TEXT SOJA GRAN CAR 35MM",
-      "imagem": "/images/panificacao/PROT_CAR_35MM.jpg",
-      "status": "fixed-existing",
-      "score": 999.0,
-      "arquivo_sugerido": "PROT_CAR_35MM.jpg"
-    },
-    {
-      "categoria": "panificacao",
-      "id": "prot-text-soja-gran-car-48mm",
-      "descricao": "PROT TEXT SOJA GRAN CAR 4.8MM",
-      "imagem": "/images/panificacao/PROT_CAR_4,8MM.jpg",
-      "status": "fixed-existing",
-      "score": 999.0,
-      "arquivo_sugerido": "PROT_CAR_4,8MM.jpg"
-    },
-    {
-      "categoria": "panificacao",
-      "id": "prot-text-soja-gran-nat-10mm",
-      "descricao": "PROT TEXT SOJA GRAN NAT 10MM",
-      "imagem": "/images/panificacao/PROT_NAT_10MM.jpg",
-      "status": "fixed-existing",
-      "score": 999.0,
-      "arquivo_sugerido": "PROT_NAT_10MM.jpg"
-    },
-    {
-      "categoria": "panificacao",
-      "id": "prot-text-soja-gran-nat-35mm",
-      "descricao": "PROT TEXT SOJA GRAN NAT 35MM",
-      "imagem": "/images/panificacao/PROT_NAT_35MM.jpg",
-      "status": "fixed-existing",
-      "score": 999.0,
-      "arquivo_sugerido": "PROT_NAT_35MM.jpg"
-    },
-    {
-      "categoria": "panificacao",
-      "id": "prot-text-soja-gran-nat-48mm",
-      "descricao": "PROT TEXT SOJA GRAN NAT 4.8MM",
-      "imagem": "/images/panificacao/PROT_NAT_4,8MM.jpg",
-      "status": "fixed-existing",
-      "score": 999.0,
-      "arquivo_sugerido": "PROT_NAT_4,8MM.jpg"
-    },
-    {
-      "categoria": "panificacao",
-      "id": "sagu",
-      "descricao": "SAGU",
-      "imagem": "/images/panificacao/SAGU.jpg",
-      "status": "fixed-existing",
-      "score": 999.0,
-      "arquivo_sugerido": "SAGU.jpg"
-    },
-    {
-      "categoria": "panificacao",
-      "id": "tapioca-granulada",
-      "descricao": "TAPIOCA GRANULADA",
-      "imagem": "/images/panificacao/TAPIOCA_GRANULADA.jpg",
-      "status": "fixed-existing",
-      "score": 999.0,
-      "arquivo_sugerido": "TAPIOCA_GRANULADA.jpg"
-    },
-    {
-      "categoria": "panificacao",
-      "id": "trigo-p-kibe-marrocos",
-      "descricao": "TRIGO P/ KIBE MARROCOS",
-      "imagem": "/images/panificacao/TRIGO_P_KIBE.jpg",
-      "status": "fixed-existing",
-      "score": 999.0,
-      "arquivo_sugerido": "TRIGO_P_KIBE.jpg"
-    },
-    {
       "categoria": "especiarias",
       "id": "alho-frito",
       "descricao": "ALHO FRITO",
@@ -2108,6 +1883,15 @@
       "categoria": "especiarias",
       "id": "bicarbonato-de-sodio-solvay",
       "descricao": "BICARBONATO DE SODIO SOLVAY",
+      "imagem": "/images/especiarias/BICARBONATO_DE_SODIO_SOLVAY.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "BICARBONATO_DE_SODIO_SOLVAY.jpg"
+    },
+    {
+      "categoria": "especiarias",
+      "id": "bicarbonato-de-sodio",
+      "descricao": "BICARBONATO DE SODIO",
       "imagem": "/images/especiarias/BICARBONATO_DE_SODIO_SOLVAY.jpg",
       "status": "fixed-existing",
       "score": 999.0,
@@ -2751,6 +2535,249 @@
       "status": "fixed-existing",
       "score": 999.0,
       "arquivo_sugerido": "TEMPERO_VINAGRETE.jpg"
+    },
+    {
+      "categoria": "panificacao",
+      "id": "amido-de-milho-integrada",
+      "descricao": "AMIDO DE MILHO INTEGRADA",
+      "imagem": "/images/panificacao/AMIDO_DE_MILHO_INTEGRADA.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "AMIDO_DE_MILHO_INTEGRADA.jpg"
+    },
+    {
+      "categoria": "panificacao",
+      "id": "fecula-de-batata",
+      "descricao": "FECULA DE BATATA",
+      "imagem": "/images/panificacao/FECULA_DE_BATATA.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "FECULA_DE_BATATA.jpg"
+    },
+    {
+      "categoria": "panificacao",
+      "id": "fecula-mandioca-brasil",
+      "descricao": "FECULA MANDIOCA BRASIL",
+      "imagem": "/images/panificacao/FECULA_DE_MANDIOCA.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "FECULA_DE_MANDIOCA.jpg"
+    },
+    {
+      "categoria": "panificacao",
+      "id": "fecula-mandioca-brasom",
+      "descricao": "FECULA MANDIOCA BRASOM",
+      "imagem": "/images/panificacao/FECULA_DE_MANIDOCA_BRASOM.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "FECULA_DE_MANIDOCA_BRASOM.jpg"
+    },
+    {
+      "categoria": "panificacao",
+      "id": "fibra-de-maa-integral",
+      "descricao": "FIBRA DE MAÇA INTEGRAL",
+      "imagem": "/images/panificacao/FIBRA_DE_MACA_INTEGRAL.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "FIBRA_DE_MACA_INTEGRAL.jpg"
+    },
+    {
+      "categoria": "panificacao",
+      "id": "fibra-de-trigo-fina",
+      "descricao": "FIBRA DE TRIGO FINA",
+      "imagem": "/images/panificacao/FIBRA_DE_TRIGO_FINA.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "FIBRA_DE_TRIGO_FINA.jpg"
+    },
+    {
+      "categoria": "panificacao",
+      "id": "fibra-de-trigo-grossa",
+      "descricao": "FIBRA DE TRIGO GROSSA",
+      "imagem": "/images/panificacao/FIBRA_DE_TRIGO_GROSSA.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "FIBRA_DE_TRIGO_GROSSA.jpg"
+    },
+    {
+      "categoria": "panificacao",
+      "id": "fuba-italiano",
+      "descricao": "FUBA ITALIANO",
+      "imagem": "/images/panificacao/FUBA_ITALIANO.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "FUBA_ITALIANO.jpg"
+    },
+    {
+      "categoria": "panificacao",
+      "id": "fuba-mimoso-integrada",
+      "descricao": "FUBA MIMOSO INTEGRADA",
+      "imagem": "/images/panificacao/FUBA_MIMOSO.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "FUBA_MIMOSO.jpg"
+    },
+    {
+      "categoria": "panificacao",
+      "id": "floco-de-milho",
+      "descricao": "FLOCÃO DE MILHO",
+      "imagem": "/images/panificacao/FLOCAO_DE_MILHO.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "FLOCAO_DE_MILHO.jpg"
+    },
+    {
+      "categoria": "panificacao",
+      "id": "flocao-de-arroz-coringa",
+      "descricao": "FLOCAO DE ARROZ CORINGA",
+      "imagem": "/images/panificacao/FLOCAO_DEA_ARROZ_CORINGA.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "FLOCAO_DEA_ARROZ_CORINGA.jpg"
+    },
+    {
+      "categoria": "panificacao",
+      "id": "floco-de-milho-coringa",
+      "descricao": "FLOCÃO DE MILHO CORINGA",
+      "imagem": "/images/panificacao/FLOCAO_DE_MILHO_CORINGA.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "FLOCAO_DE_MILHO_CORINGA.jpg"
+    },
+    {
+      "categoria": "panificacao",
+      "id": "gelatina-incolor",
+      "descricao": "GELATINA INCOLOR",
+      "imagem": "/images/panificacao/GELATINA_INCOLOR.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "GELATINA_INCOLOR.jpg"
+    },
+    {
+      "categoria": "panificacao",
+      "id": "levedo-de-cerveja",
+      "descricao": "LEVEDO DE CERVEJA",
+      "imagem": "/images/panificacao/LEVEDO_DE_CERVEJA.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "LEVEDO_DE_CERVEJA.jpg"
+    },
+    {
+      "categoria": "panificacao",
+      "id": "polvilho-azedo-brasil",
+      "descricao": "POLVILHO AZEDO BRASIL",
+      "imagem": "/images/panificacao/POLVILHO_AZEDO.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "POLVILHO_AZEDO.jpg"
+    },
+    {
+      "categoria": "panificacao",
+      "id": "polvilho-doce-olinda",
+      "descricao": "POLVILHO DOCE OLINDA",
+      "imagem": "/images/panificacao/POLVILHO_DOCE.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "POLVILHO_DOCE.jpg"
+    },
+    {
+      "categoria": "panificacao",
+      "id": "prot-text-soja-bacon",
+      "descricao": "PROT TEXT SOJA BACON",
+      "imagem": "/images/panificacao/PROT_TEXT_SOJA_BACON.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "PROT_TEXT_SOJA_BACON.jpg"
+    },
+    {
+      "categoria": "panificacao",
+      "id": "prot-text-soja-gran-car-10mm",
+      "descricao": "PROT TEXT SOJA GRAN CAR 10MM",
+      "imagem": "/images/panificacao/PROT_CAR_10MM.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "PROT_CAR_10MM.jpg"
+    },
+    {
+      "categoria": "panificacao",
+      "id": "prot-text-soja-gran-car-35mm",
+      "descricao": "PROT TEXT SOJA GRAN CAR 35MM",
+      "imagem": "/images/panificacao/PROT_CAR_35MM.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "PROT_CAR_35MM.jpg"
+    },
+    {
+      "categoria": "panificacao",
+      "id": "prot-text-soja-gran-car-48mm",
+      "descricao": "PROT TEXT SOJA GRAN CAR 4.8MM",
+      "imagem": "/images/panificacao/PROT_CAR_4,8MM.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "PROT_CAR_4,8MM.jpg"
+    },
+    {
+      "categoria": "panificacao",
+      "id": "prot-text-soja-gran-nat-10mm",
+      "descricao": "PROT TEXT SOJA GRAN NAT 10MM",
+      "imagem": "/images/panificacao/PROT_NAT_10MM.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "PROT_NAT_10MM.jpg"
+    },
+    {
+      "categoria": "panificacao",
+      "id": "prot-text-soja-gran-nat-35mm",
+      "descricao": "PROT TEXT SOJA GRAN NAT 35MM",
+      "imagem": "/images/panificacao/PROT_NAT_35MM.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "PROT_NAT_35MM.jpg"
+    },
+    {
+      "categoria": "panificacao",
+      "id": "prot-text-soja-gran-nat-48mm",
+      "descricao": "PROT TEXT SOJA GRAN NAT 4.8MM",
+      "imagem": "/images/panificacao/PROT_NAT_4,8MM.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "PROT_NAT_4,8MM.jpg"
+    },
+    {
+      "categoria": "panificacao",
+      "id": "sagu",
+      "descricao": "SAGU",
+      "imagem": "/images/panificacao/SAGU.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "SAGU.jpg"
+    },
+    {
+      "categoria": "panificacao",
+      "id": "tapioca-granulada",
+      "descricao": "TAPIOCA GRANULADA",
+      "imagem": "/images/panificacao/TAPIOCA_GRANULADA.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "TAPIOCA_GRANULADA.jpg"
+    },
+    {
+      "categoria": "panificacao",
+      "id": "tapioca-granulada-cassava",
+      "descricao": "TAPIOCA GRANULADA CASSAVA",
+      "imagem": "/images/panificacao/tapioca-granulada-cassava.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "tapioca-granulada-cassava.jpg"
+    },
+    {
+      "categoria": "panificacao",
+      "id": "trigo-p-kibe-marrocos",
+      "descricao": "TRIGO P/ KIBE MARROCOS",
+      "imagem": "/images/panificacao/TRIGO_P_KIBE.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "TRIGO_P_KIBE.jpg"
     },
     {
       "categoria": "frutas",
