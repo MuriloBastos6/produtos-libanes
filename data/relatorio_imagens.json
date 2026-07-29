@@ -1,10 +1,10 @@
 {
   "summary": {
     "categorias": 20,
-    "produtos": 553,
+    "produtos": 555,
     "matched": 571,
     "fallback": 0,
-    "category_without_folder": 0
+    "category_without_folder": 2
   },
   "details": [
     {
@@ -2880,6 +2880,15 @@
     },
     {
       "categoria": "frutas",
+      "id": "tamara-c-caroo-jumbo-ll",
+      "descricao": "TAMARA C/ CAROÇO JUMBO II",
+      "imagem": "/arroz.jpeg",
+      "status": "manual-default",
+      "score": 0.0,
+      "arquivo_sugerido": null
+    },
+    {
+      "categoria": "frutas",
       "id": "tamara-s-caroo",
       "descricao": "TAMARA S/ CAROÇO",
       "imagem": "/images/frutas/TAMARA_S_CAROCO.jpg",
@@ -3840,6 +3849,15 @@
       "status": "fixed-existing",
       "score": 999.0,
       "arquivo_sugerido": "ANEIS_DE_CEBOLA.jpg"
+    },
+    {
+      "categoria": "salgadinhos",
+      "id": "banana-palha",
+      "descricao": "BANANA PALHA",
+      "imagem": "/arroz.jpeg",
+      "status": "manual-default",
+      "score": 0.0,
+      "arquivo_sugerido": null
     },
     {
       "categoria": "salgadinhos",

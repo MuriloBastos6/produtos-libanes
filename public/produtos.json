@@ -694,8 +694,8 @@
           "pesoValor": 5.0,
           "pesoUnidade": "KG",
           "unidade": "PC",
-          "precoVenda": 54.0,
-          "precoDebitoCredito": 55.5
+          "precoVenda": 63.0,
+          "precoDebitoCredito": 65.0
         }
       ]
     },
@@ -710,8 +710,8 @@
           "pesoValor": 5.0,
           "pesoUnidade": "KG",
           "unidade": "PC",
-          "precoVenda": 62.0,
-          "precoDebitoCredito": 64.0
+          "precoVenda": 65.0,
+          "precoDebitoCredito": 67.0
         }
       ]
     },
@@ -726,8 +726,8 @@
           "pesoValor": 5.0,
           "pesoUnidade": "KG",
           "unidade": "PC",
-          "precoVenda": 52.0,
-          "precoDebitoCredito": 53.5
+          "precoVenda": 57.0,
+          "precoDebitoCredito": 58.5
         }
       ]
     },
@@ -7006,8 +7006,24 @@
           "pesoValor": 5.0,
           "pesoUnidade": "KG",
           "unidade": "CX",
-          "precoVenda": 250.0,
-          "precoDebitoCredito": 257.5
+          "precoVenda": 275.0,
+          "precoDebitoCredito": 283.5
+        }
+      ]
+    },
+    {
+      "id": "tamara-c-caroo-jumbo-ll",
+      "descricao": "TAMARA C/ CAROÇO JUMBO II",
+      "categoria": "frutas",
+      "imagem": "/images/frutas/TAMARA_C_CAROCO_JUMBO.jpg",
+      "variacoes": [
+        {
+          "codigo": "4674",
+          "pesoValor": 5.0,
+          "pesoUnidade": "KG",
+          "unidade": "CX",
+          "precoVenda": 245.0,
+          "precoDebitoCredito": 252.5
         }
       ]
     },
@@ -7424,16 +7440,16 @@
           "pesoValor": 5.0,
           "pesoUnidade": "KG",
           "unidade": "SC",
-          "precoVenda": 328.5,
-          "precoDebitoCredito": 338.5
+          "precoVenda": 353.5,
+          "precoDebitoCredito": 364.0
         },
         {
           "codigo": "4400",
           "pesoValor": 25.0,
           "pesoUnidade": "KG",
           "unidade": "SC",
-          "precoVenda": 1625.0,
-          "precoDebitoCredito": 1674.0
+          "precoVenda": 1750.0,
+          "precoDebitoCredito": 1802.5
         }
       ]
     },
@@ -9308,6 +9324,22 @@
           "unidade": "PC",
           "precoVenda": 22.0,
           "precoDebitoCredito": 22.5
+        }
+      ]
+    },
+    {
+      "id": "banana-palha",
+      "descricao": "BANANA PALHA",
+      "categoria": "salgadinhos",
+      "imagem": "/images/salgadinhos/banana-palha.jpg",
+      "variacoes": [
+        {
+          "codigo": "4672",
+          "pesoValor": 500.0,
+          "pesoUnidade": "G",
+          "unidade": "PC",
+          "precoVenda": 23.0,
+          "precoDebitoCredito": 23.5
         }
       ]
     },
