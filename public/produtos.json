@@ -7440,16 +7440,16 @@
           "pesoValor": 5.0,
           "pesoUnidade": "KG",
           "unidade": "SC",
-          "precoVenda": 353.5,
-          "precoDebitoCredito": 364.0
+          "precoVenda": 373.5,
+          "precoDebitoCredito": 384.5
         },
         {
           "codigo": "4400",
           "pesoValor": 25.0,
           "pesoUnidade": "KG",
           "unidade": "SC",
-          "precoVenda": 1750.0,
-          "precoDebitoCredito": 1802.5
+          "precoVenda": 1850.0,
+          "precoDebitoCredito": 1905.5
         }
       ]
     },

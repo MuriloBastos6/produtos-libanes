@@ -2,9 +2,9 @@
   "summary": {
     "categorias": 20,
     "produtos": 555,
-    "matched": 571,
+    "matched": 573,
     "fallback": 0,
-    "category_without_folder": 2
+    "category_without_folder": 0
   },
   "details": [
     {
@@ -2882,10 +2882,10 @@
       "categoria": "frutas",
       "id": "tamara-c-caroo-jumbo-ll",
       "descricao": "TAMARA C/ CAROÇO JUMBO II",
-      "imagem": "/arroz.jpeg",
-      "status": "manual-default",
-      "score": 0.0,
-      "arquivo_sugerido": null
+      "imagem": "/images/frutas/TAMARA_C_CAROCO_JUMBO.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "TAMARA_C_CAROCO_JUMBO.jpg"
     },
     {
       "categoria": "frutas",
@@ -3854,10 +3854,10 @@
       "categoria": "salgadinhos",
       "id": "banana-palha",
       "descricao": "BANANA PALHA",
-      "imagem": "/arroz.jpeg",
-      "status": "manual-default",
-      "score": 0.0,
-      "arquivo_sugerido": null
+      "imagem": "/images/salgadinhos/banana-palha.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "banana-palha.jpg"
     },
     {
       "categoria": "salgadinhos",
