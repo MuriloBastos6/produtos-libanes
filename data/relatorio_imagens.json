@@ -1,10 +1,10 @@
 {
   "summary": {
     "categorias": 20,
-    "produtos": 555,
+    "produtos": 556,
     "matched": 573,
     "fallback": 0,
-    "category_without_folder": 0
+    "category_without_folder": 1
   },
   "details": [
     {
@@ -186,6 +186,15 @@
       "status": "fixed-existing",
       "score": 999.0,
       "arquivo_sugerido": "amendoa-w4-t.jpg"
+    },
+    {
+      "categoria": "amendoim",
+      "id": "avela-s-casca-crua",
+      "descricao": "AVELÃ S/CASCA CRUA",
+      "imagem": "/arroz.jpeg",
+      "status": "manual-default",
+      "score": 0.0,
+      "arquivo_sugerido": null
     },
     {
       "categoria": "amendoim",

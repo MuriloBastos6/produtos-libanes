@@ -428,6 +428,30 @@
       ]
     },
     {
+      "id": "avela-s-casca-crua",
+      "descricao": "AVELÃ S/CASCA CRUA",
+      "categoria": "amendoim",
+      "imagem": "/images/amendoim/avela-s-casca-crua.webp",
+      "variacoes": [
+        {
+          "codigo": "4686",
+          "pesoValor": 5.0,
+          "pesoUnidade": "KG",
+          "unidade": "CX",
+          "precoVenda": 443.5,
+          "precoDebitoCredito": 457.0
+        },
+        {
+          "codigo": "4685",
+          "pesoValor": 10.0,
+          "pesoUnidade": "KG",
+          "unidade": "CX",
+          "precoVenda": 880.0,
+          "precoDebitoCredito": 906.5
+        }
+      ]
+    },
+    {
       "id": "amendoa-confeitada-colorida",
       "descricao": "AMENDOA CONFEITADA COLORIDA",
       "categoria": "amendoim",
@@ -3832,16 +3856,16 @@
           "pesoValor": 5.0,
           "pesoUnidade": "KG",
           "unidade": "PC",
-          "precoVenda": 100.5,
-          "precoDebitoCredito": 103.5
+          "precoVenda": 93.5,
+          "precoDebitoCredito": 96.5
         },
         {
           "codigo": "4545",
           "pesoValor": 30.0,
           "pesoUnidade": "KG",
           "unidade": "SC",
-          "precoVenda": 590.0,
-          "precoDebitoCredito": 607.5
+          "precoVenda": 540.0,
+          "precoDebitoCredito": 556.0
         }
       ]
     },
@@ -3856,16 +3880,16 @@
           "pesoValor": 5.0,
           "pesoUnidade": "KG",
           "unidade": "PC",
-          "precoVenda": 92.0,
-          "precoDebitoCredito": 95.0
+          "precoVenda": 86.0,
+          "precoDebitoCredito": 88.5
         },
         {
           "codigo": "2482",
           "pesoValor": 30.0,
           "pesoUnidade": "KG",
           "unidade": "SC",
-          "precoVenda": 540.0,
-          "precoDebitoCredito": 556.0
+          "precoVenda": 495.0,
+          "precoDebitoCredito": 510.0
         }
       ]
     },
@@ -3880,16 +3904,16 @@
           "pesoValor": 5.0,
           "pesoUnidade": "KG",
           "unidade": "SC",
-          "precoVenda": 92.0,
-          "precoDebitoCredito": 95.0
+          "precoVenda": 86.0,
+          "precoDebitoCredito": 88.5
         },
         {
           "codigo": "89",
           "pesoValor": 30.0,
           "pesoUnidade": "KG",
           "unidade": "PC",
-          "precoVenda": 540.0,
-          "precoDebitoCredito": 556.0
+          "precoVenda": 495.0,
+          "precoDebitoCredito": 510.0
         }
       ]
     },
@@ -3904,16 +3928,16 @@
           "pesoValor": 5.0,
           "pesoUnidade": "KG",
           "unidade": "PC",
-          "precoVenda": 92.0,
-          "precoDebitoCredito": 95.0
+          "precoVenda": 86.0,
+          "precoDebitoCredito": 88.5
         },
         {
           "codigo": "2486",
           "pesoValor": 30.0,
           "pesoUnidade": "KG",
           "unidade": "SC",
-          "precoVenda": 540.0,
-          "precoDebitoCredito": 556.0
+          "precoVenda": 495.0,
+          "precoDebitoCredito": 510.0
         }
       ]
     },
@@ -3928,16 +3952,16 @@
           "pesoValor": 5.0,
           "pesoUnidade": "KG",
           "unidade": "PC",
-          "precoVenda": 92.0,
-          "precoDebitoCredito": 95.0
+          "precoVenda": 86.0,
+          "precoDebitoCredito": 88.5
         },
         {
           "codigo": "2487",
           "pesoValor": 30.0,
           "pesoUnidade": "KG",
           "unidade": "SC",
-          "precoVenda": 540.0,
-          "precoDebitoCredito": 556.0
+          "precoVenda": 495.0,
+          "precoDebitoCredito": 510.0
         }
       ]
     },
