@@ -2,9 +2,9 @@
   "summary": {
     "categorias": 20,
     "produtos": 556,
-    "matched": 573,
+    "matched": 574,
     "fallback": 0,
-    "category_without_folder": 1
+    "category_without_folder": 0
   },
   "details": [
     {
@@ -191,10 +191,10 @@
       "categoria": "amendoim",
       "id": "avela-s-casca-crua",
       "descricao": "AVELÃ S/CASCA CRUA",
-      "imagem": "/arroz.jpeg",
-      "status": "manual-default",
-      "score": 0.0,
-      "arquivo_sugerido": null
+      "imagem": "/images/amendoim/avela-s-casca-crua.webp",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "avela-s-casca-crua.webp"
     },
     {
       "categoria": "amendoim",
@@ -4483,7 +4483,7 @@
     {
       "categoria": "doces",
       "id": "doce-de-leite-c-cocosouvenir",
-      "descricao": "DOCE DE LEITE C/COCOSUVENIR",
+      "descricao": "DOCE DE LEITE C/COCOSOUVENIR",
       "imagem": "/images/doces/doce-de-leite-c-cocosouvenir.jpg",
       "status": "fixed-existing",
       "score": 999.0,
