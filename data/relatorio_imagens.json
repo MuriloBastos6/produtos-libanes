@@ -1,8 +1,8 @@
 {
   "summary": {
     "categorias": 20,
-    "produtos": 556,
-    "matched": 574,
+    "produtos": 551,
+    "matched": 569,
     "fallback": 0,
     "category_without_folder": 0
   },
@@ -533,51 +533,6 @@
       "categoria": "amendoim",
       "id": "crocante-natural-balsamo",
       "descricao": "CROCANTE NATURAL BALSAMO",
-      "imagem": "/images/amendoim/CROCANTE_NATURAL.jpg",
-      "status": "fixed-existing",
-      "score": 999.0,
-      "arquivo_sugerido": "CROCANTE_NATURAL.jpg"
-    },
-    {
-      "categoria": "amendoim",
-      "id": "crocante-vp-bacon",
-      "descricao": "CROCANTE VP BACON",
-      "imagem": "/images/amendoim/CROCANTE_BACON.jpg",
-      "status": "fixed-existing",
-      "score": 999.0,
-      "arquivo_sugerido": "CROCANTE_BACON.jpg"
-    },
-    {
-      "categoria": "amendoim",
-      "id": "crocante-vp-com-pimenta",
-      "descricao": "CROCANTE VP COM PIMENTA",
-      "imagem": "/images/amendoim/CROCANTE_PIMENTA.jpg",
-      "status": "fixed-existing",
-      "score": 999.0,
-      "arquivo_sugerido": "CROCANTE_PIMENTA.jpg"
-    },
-    {
-      "categoria": "amendoim",
-      "id": "crocante-vp-com-salsa",
-      "descricao": "CROCANTE VP COM SALSA",
-      "imagem": "/images/amendoim/CROCANTE_SALSA.jpg",
-      "status": "fixed-existing",
-      "score": 999.0,
-      "arquivo_sugerido": "CROCANTE_SALSA.jpg"
-    },
-    {
-      "categoria": "amendoim",
-      "id": "crocante-vp-japones",
-      "descricao": "CROCANTE VP JAPONES",
-      "imagem": "/images/amendoim/CROCANTE_JAPONES.jpg",
-      "status": "fixed-existing",
-      "score": 999.0,
-      "arquivo_sugerido": "CROCANTE_JAPONES.jpg"
-    },
-    {
-      "categoria": "amendoim",
-      "id": "crocante-vp-natural",
-      "descricao": "CROCANTE VP NATURAL",
       "imagem": "/images/amendoim/CROCANTE_NATURAL.jpg",
       "status": "fixed-existing",
       "score": 999.0,
