@@ -2442,6 +2442,22 @@
       ]
     },
     {
+      "id": "ch-melao",
+      "descricao": "CHÁ MELÃO SÃO CAETANO",
+      "categoria": "cha",
+      "imagem": "/images/cha/ch-melao.webp",
+      "variacoes": [
+        {
+          "codigo": "4689",
+          "pesoValor": 1.0,
+          "pesoUnidade": "KG",
+          "unidade": "PC",
+          "precoVenda": 33.0,
+          "precoDebitoCredito": 34.0
+        }
+      ]
+    },
+    {
       "id": "ch-melissa",
       "descricao": "CHÁ MELISSA",
       "categoria": "cha",
@@ -3896,16 +3912,16 @@
           "pesoValor": 5.0,
           "pesoUnidade": "KG",
           "unidade": "SC",
-          "precoVenda": 68.0,
-          "precoDebitoCredito": 70.0
+          "precoVenda": 56.5,
+          "precoDebitoCredito": 58.0
         },
         {
           "codigo": "2260",
           "pesoValor": 30.0,
           "pesoUnidade": "KG",
           "unidade": "SC",
-          "precoVenda": 390.0,
-          "precoDebitoCredito": 401.5
+          "precoVenda": 320.0,
+          "precoDebitoCredito": 329.5
         }
       ]
     },
@@ -3920,16 +3936,16 @@
           "pesoValor": 5.0,
           "pesoUnidade": "KG",
           "unidade": "PC",
-          "precoVenda": 73.0,
-          "precoDebitoCredito": 75.0
+          "precoVenda": 69.0,
+          "precoDebitoCredito": 71.0
         },
         {
           "codigo": "4664",
           "pesoValor": 25.0,
           "pesoUnidade": "KG",
           "unidade": "SC",
-          "precoVenda": 350.0,
-          "precoDebitoCredito": 360.5
+          "precoVenda": 330.0,
+          "precoDebitoCredito": 340.0
         }
       ]
     },
