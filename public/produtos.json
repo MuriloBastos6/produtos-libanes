@@ -9060,8 +9060,8 @@
           "pesoValor": 12.0,
           "pesoUnidade": "X1LT",
           "unidade": "FD",
-          "precoVenda": 82.0,
-          "precoDebitoCredito": 84.5
+          "precoVenda": 86.0,
+          "precoDebitoCredito": 88.5
         }
       ]
     },
@@ -9076,8 +9076,8 @@
           "pesoValor": 6.0,
           "pesoUnidade": "X310ML",
           "unidade": "FD",
-          "precoVenda": 25.5,
-          "precoDebitoCredito": 26.5
+          "precoVenda": 26.5,
+          "precoDebitoCredito": 27.5
         }
       ]
     },
