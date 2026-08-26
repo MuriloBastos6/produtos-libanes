@@ -1,8 +1,8 @@
 {
   "summary": {
     "categorias": 20,
-    "produtos": 552,
-    "matched": 570,
+    "produtos": 553,
+    "matched": 571,
     "fallback": 0,
     "category_without_folder": 0
   },
@@ -411,6 +411,15 @@
       "status": "fixed-existing",
       "score": 999.0,
       "arquivo_sugerido": "castanha-de-caju-caramelizada-acai.jpg"
+    },
+    {
+      "categoria": "amendoim",
+      "id": "castanha-de-caju-caramelizada-ninho",
+      "descricao": "CASTANHA DE CAJU CARAM NINHO",
+      "imagem": "/images/amendoim/castanha-de-caju-caramelizada-ninho.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "castanha-de-caju-caramelizada-ninho.jpg"
     },
     {
       "categoria": "amendoim",
