@@ -1198,16 +1198,16 @@
           "pesoValor": 5.0,
           "pesoUnidade": "KG",
           "unidade": "PC",
-          "precoVenda": 281.0,
-          "precoDebitoCredito": 289.5
+          "precoVenda": 313.5,
+          "precoDebitoCredito": 323.0
         },
         {
           "codigo": "3532",
           "pesoValor": 20.0,
           "pesoUnidade": "KG",
           "unidade": "CX",
-          "precoVenda": 1110.0,
-          "precoDebitoCredito": 1143.5
+          "precoVenda": 1240.0,
+          "precoDebitoCredito": 1277.0
         }
       ]
     },
@@ -4810,8 +4810,8 @@
           "pesoValor": 25.0,
           "pesoUnidade": "KG",
           "unidade": "SC",
-          "precoVenda": 130.0,
-          "precoDebitoCredito": 134.0
+          "precoVenda": 125.0,
+          "precoDebitoCredito": 129.0
         }
       ]
     },
@@ -4826,8 +4826,8 @@
           "pesoValor": 25.0,
           "pesoUnidade": "KG",
           "unidade": "SC",
-          "precoVenda": 127.0,
-          "precoDebitoCredito": 131.0
+          "precoVenda": 130.0,
+          "precoDebitoCredito": 134.0
         }
       ]
     },
@@ -6292,8 +6292,8 @@
           "pesoValor": 25.0,
           "pesoUnidade": "KG",
           "unidade": "SC",
-          "precoVenda": 110.0,
-          "precoDebitoCredito": 113.5
+          "precoVenda": 125.0,
+          "precoDebitoCredito": 129.0
         }
       ]
     },
@@ -6308,8 +6308,8 @@
           "pesoValor": 25.0,
           "pesoUnidade": "KG",
           "unidade": "SC",
-          "precoVenda": 99.0,
-          "precoDebitoCredito": 102.0
+          "precoVenda": 105.0,
+          "precoDebitoCredito": 108.0
         }
       ]
     },
@@ -6532,8 +6532,8 @@
           "pesoValor": 25.0,
           "pesoUnidade": "KG",
           "unidade": "SC",
-          "precoVenda": 129.0,
-          "precoDebitoCredito": 133.0
+          "precoVenda": 139.0,
+          "precoDebitoCredito": 143.0
         }
       ]
     },
@@ -6548,8 +6548,8 @@
           "pesoValor": 25.0,
           "pesoUnidade": "KG",
           "unidade": "SC",
-          "precoVenda": 129.0,
-          "precoDebitoCredito": 133.0
+          "precoVenda": 135.0,
+          "precoDebitoCredito": 139.0
         }
       ]
     },
@@ -6676,16 +6676,16 @@
           "pesoValor": 5.0,
           "pesoUnidade": "KG",
           "unidade": "PC",
-          "precoVenda": 36.0,
-          "precoDebitoCredito": 37.0
+          "precoVenda": 37.0,
+          "precoDebitoCredito": 38.0
         },
         {
           "codigo": "50",
           "pesoValor": 25.0,
           "pesoUnidade": "KG",
           "unidade": "SC",
-          "precoVenda": 165.0,
-          "precoDebitoCredito": 170.0
+          "precoVenda": 170.0,
+          "precoDebitoCredito": 175.0
         }
       ]
     },
@@ -6700,16 +6700,16 @@
           "pesoValor": 5.0,
           "pesoUnidade": "KG",
           "unidade": "PC",
-          "precoVenda": 33.0,
-          "precoDebitoCredito": 34.0
+          "precoVenda": 37.0,
+          "precoDebitoCredito": 38.0
         },
         {
           "codigo": "52",
           "pesoValor": 25.0,
           "pesoUnidade": "KG",
           "unidade": "SC",
-          "precoVenda": 165.0,
-          "precoDebitoCredito": 170.0
+          "precoVenda": 170.0,
+          "precoDebitoCredito": 175.0
         }
       ]
     },
