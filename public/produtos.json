@@ -3422,16 +3422,16 @@
           "pesoValor": 5.0,
           "pesoUnidade": "KG",
           "unidade": "PC",
-          "precoVenda": 28.0,
-          "precoDebitoCredito": 29.0
+          "precoVenda": 29.0,
+          "precoDebitoCredito": 30.0
         },
         {
           "codigo": "4089",
           "pesoValor": 25.0,
           "pesoUnidade": "KG",
           "unidade": "SC",
-          "precoVenda": 122.0,
-          "precoDebitoCredito": 125.5
+          "precoVenda": 130.0,
+          "precoDebitoCredito": 134.0
         }
       ]
     },
@@ -4376,16 +4376,16 @@
           "pesoValor": 5.0,
           "pesoUnidade": "KG",
           "unidade": "PC",
-          "precoVenda": 40.5,
-          "precoDebitoCredito": 41.5
+          "precoVenda": 50.5,
+          "precoDebitoCredito": 52.0
         },
         {
           "codigo": "3670",
           "pesoValor": 30.0,
           "pesoUnidade": "KG",
           "unidade": "SC",
-          "precoVenda": 225.0,
-          "precoDebitoCredito": 232.0
+          "precoVenda": 285.0,
+          "precoDebitoCredito": 293.5
         }
       ]
     },
@@ -6458,6 +6458,22 @@
       ]
     },
     {
+      "id": "floco-de-arroz",
+      "descricao": "FLOCOS DE ARROZ",
+      "categoria": "panificacao",
+      "imagem": "/images/panificacao/flocos-de-arroz.jpg",
+      "variacoes": [
+        {
+          "codigo": "4697",
+          "pesoValor": 1.0,
+          "pesoUnidade": "KG",
+          "unidade": "PC",
+          "precoVenda": 14.0,
+          "precoDebitoCredito": 14.5
+        }
+      ]
+    },
+    {
       "id": "floco-de-milho-coringa",
       "descricao": "FLOCÃO DE MILHO CORINGA",
       "categoria": "panificacao",
@@ -6740,16 +6756,16 @@
           "pesoValor": 5.0,
           "pesoUnidade": "KG",
           "unidade": "PC",
-          "precoVenda": 25.5,
-          "precoDebitoCredito": 26.5
+          "precoVenda": 28.0,
+          "precoDebitoCredito": 29.0
         },
         {
           "codigo": "53",
           "pesoValor": 25.0,
           "pesoUnidade": "KG",
           "unidade": "SC",
-          "precoVenda": 118.0,
-          "precoDebitoCredito": 121.5
+          "precoVenda": 125.0,
+          "precoDebitoCredito": 129.0
         }
       ]
     }
