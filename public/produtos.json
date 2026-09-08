@@ -1414,24 +1414,16 @@
           "pesoValor": 5.0,
           "pesoUnidade": "KG",
           "unidade": "PC",
-          "precoVenda": 267.0,
-          "precoDebitoCredito": 275.0
+          "precoVenda": 293.5,
+          "precoDebitoCredito": 302.5
         },
         {
           "codigo": "263",
           "pesoValor": 10.0,
           "pesoUnidade": "KG",
           "unidade": "CX",
-          "precoVenda": 530.0,
-          "precoDebitoCredito": 546.0
-        },
-        {
-          "codigo": "3093",
-          "pesoValor": 11.0,
-          "pesoUnidade": "KG",
-          "unidade": "CX",
-          "precoVenda": 583.0,
-          "precoDebitoCredito": 600.5
+          "precoVenda": 580.0,
+          "precoDebitoCredito": 597.5
         }
       ]
     },
@@ -4380,12 +4372,12 @@
           "precoDebitoCredito": 52.0
         },
         {
-          "codigo": "3670",
-          "pesoValor": 30.0,
+          "codigo": "3740",
+          "pesoValor": 25.0,
           "pesoUnidade": "KG",
           "unidade": "SC",
-          "precoVenda": 285.0,
-          "precoDebitoCredito": 293.5
+          "precoVenda": 237.5,
+          "precoDebitoCredito": 244.5
         }
       ]
     },
