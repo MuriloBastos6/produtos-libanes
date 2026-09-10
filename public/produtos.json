@@ -1820,16 +1820,16 @@
           "pesoValor": 2.5,
           "pesoUnidade": "KG",
           "unidade": "PC",
-          "precoVenda": 114.0,
-          "precoDebitoCredito": 117.5
+          "precoVenda": 95.5,
+          "precoDebitoCredito": 98.5
         },
         {
           "codigo": "3440",
           "pesoValor": 10.0,
           "pesoUnidade": "KG",
           "unidade": "CX",
-          "precoVenda": 448.0,
-          "precoDebitoCredito": 461.5
+          "precoVenda": 375.0,
+          "precoDebitoCredito": 386.5
         }
       ]
     },
@@ -2372,16 +2372,24 @@
           "pesoValor": 1.0,
           "pesoUnidade": "KG",
           "unidade": "PC",
-          "precoVenda": 31.0,
-          "precoDebitoCredito": 32.0
+          "precoVenda": 26.0,
+          "precoDebitoCredito": 27.0
+        },
+        {
+          "codigo": "3869",
+          "pesoValor": 20.0,
+          "pesoUnidade": "KG",
+          "unidade": "SC",
+          "precoVenda": 520.0,
+          "precoDebitoCredito": 535.5
         },
         {
           "codigo": "2248",
           "pesoValor": 25.0,
           "pesoUnidade": "KG",
           "unidade": "SC",
-          "precoVenda": 775.0,
-          "precoDebitoCredito": 798.5
+          "precoVenda": 625.0,
+          "precoDebitoCredito": 644.0
         }
       ]
     },
@@ -5034,16 +5042,16 @@
           "pesoValor": 1.0,
           "pesoUnidade": "KG",
           "unidade": "PC",
-          "precoVenda": 26.0,
-          "precoDebitoCredito": 27.0
+          "precoVenda": 25.0,
+          "precoDebitoCredito": 26.0
         },
         {
           "codigo": "2492",
           "pesoValor": 12.0,
           "pesoUnidade": "KG",
           "unidade": "SC",
-          "precoVenda": 300.0,
-          "precoDebitoCredito": 309.0
+          "precoVenda": 288.0,
+          "precoDebitoCredito": 296.5
         }
       ]
     },
@@ -6136,6 +6144,30 @@
       ]
     },
     {
+      "id": "tempero-pimenta-calabresa-po",
+      "descricao": "TEMPERO PIMENTA CALABRESA",
+      "categoria": "especiarias",
+      "imagem": "/images/especiarias/tempero-pimenta-calabresa-po.jpg",
+      "variacoes": [
+        {
+          "codigo": "4701",
+          "pesoValor": 5.0,
+          "pesoUnidade": "KG",
+          "unidade": "SC",
+          "precoVenda": 88.0,
+          "precoDebitoCredito": 90.5
+        },
+        {
+          "codigo": "4702",
+          "pesoValor": 10.0,
+          "pesoUnidade": "KG",
+          "unidade": "SC",
+          "precoVenda": 170.0,
+          "precoDebitoCredito": 175.0
+        }
+      ]
+    },
+    {
       "id": "pimenta-do-reino-em-gros",
       "descricao": "PIMENTA DO REINO EM GRÃOS",
       "categoria": "especiarias",
@@ -6913,6 +6945,14 @@
       "categoria": "frutas",
       "imagem": "/images/frutas/MORANGO_CHIPS.jpg",
       "variacoes": [
+        {
+          "codigo": "4700",
+          "pesoValor": 1.0,
+          "pesoUnidade": "KG",
+          "unidade": "PC",
+          "precoVenda": 280.0,
+          "precoDebitoCredito": 288.5
+        },
         {
           "codigo": "4585",
           "pesoValor": 2.0,
@@ -10550,6 +10590,22 @@
           "unidade": "PC",
           "precoVenda": 48.0,
           "precoDebitoCredito": 49.5
+        }
+      ]
+    },
+    {
+      "id": "doce-de-leite-chup-chup",
+      "descricao": "DOCE DE LEITE CHUP CHUP",
+      "categoria": "doces",
+      "imagem": "/images/doces/doce-de-leite-chup-chup.jpg",
+      "variacoes": [
+        {
+          "codigo": "4699",
+          "pesoValor": 50.0,
+          "pesoUnidade": "X30G",
+          "unidade": "FD",
+          "precoVenda": 30.0,
+          "precoDebitoCredito": 31.0
         }
       ]
     },

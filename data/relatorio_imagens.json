@@ -1,8 +1,8 @@
 {
   "summary": {
     "categorias": 20,
-    "produtos": 554,
-    "matched": 572,
+    "produtos": 556,
+    "matched": 574,
     "fallback": 0,
     "category_without_folder": 0
   },
@@ -2475,6 +2475,15 @@
     },
     {
       "categoria": "especiarias",
+      "id": "tempero-pimenta-calabresa-po",
+      "descricao": "TEMPERO PIMENTA CALABRESA",
+      "imagem": "/images/especiarias/tempero-pimenta-calabresa-po.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "tempero-pimenta-calabresa-po.jpg"
+    },
+    {
+      "categoria": "especiarias",
       "id": "pimenta-do-reino-em-gros",
       "descricao": "PIMENTA DO REINO EM GRÃOS",
       "imagem": "/images/especiarias/PIMENTA_DO_REINO_EM_GRAO.jpg",
@@ -4452,6 +4461,15 @@
       "status": "fixed-existing",
       "score": 999.0,
       "arquivo_sugerido": "doce-pingo-bel.jpg"
+    },
+    {
+      "categoria": "doces",
+      "id": "doce-de-leite-chup-chup",
+      "descricao": "DOCE DE LEITE CHUP CHUP",
+      "imagem": "/images/doces/doce-de-leite-chup-chup.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "doce-de-leite-chup-chup.jpg"
     },
     {
       "categoria": "doces",
