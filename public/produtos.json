@@ -4256,24 +4256,24 @@
           "pesoValor": 5.0,
           "pesoUnidade": "KG",
           "unidade": "PC",
-          "precoVenda": 30.5,
-          "precoDebitoCredito": 31.5
+          "precoVenda": 32.0,
+          "precoDebitoCredito": 33.0
         },
         {
           "codigo": "190",
           "pesoValor": 30.0,
           "pesoUnidade": "KG",
           "unidade": "SC",
-          "precoVenda": 165.0,
-          "precoDebitoCredito": 170.0
+          "precoVenda": 175.0,
+          "precoDebitoCredito": 180.5
         },
         {
           "codigo": "3478",
           "pesoValor": 60.0,
           "pesoUnidade": "KG",
           "unidade": "SC",
-          "precoVenda": 330.0,
-          "precoDebitoCredito": 340.0
+          "precoVenda": 350.0,
+          "precoDebitoCredito": 360.5
         }
       ]
     },
@@ -5866,16 +5866,16 @@
           "pesoValor": 5.0,
           "pesoUnidade": "KG",
           "unidade": "PC",
-          "precoVenda": 38.5,
-          "precoDebitoCredito": 39.5
+          "precoVenda": 43.5,
+          "precoDebitoCredito": 45.0
         },
         {
           "codigo": "2417",
           "pesoValor": 25.0,
           "pesoUnidade": "KG",
           "unidade": "SC",
-          "precoVenda": 182.0,
-          "precoDebitoCredito": 187.5
+          "precoVenda": 202.0,
+          "precoDebitoCredito": 208.0
         }
       ]
     },
@@ -7006,16 +7006,16 @@
           "pesoValor": 2.0,
           "pesoUnidade": "X2.5KG",
           "unidade": "CX",
-          "precoVenda": 337.5,
-          "precoDebitoCredito": 347.5
+          "precoVenda": 675.5,
+          "precoDebitoCredito": 696.0
         },
         {
           "codigo": "4492",
           "pesoValor": 2.5,
           "pesoUnidade": "KG",
           "unidade": "PC",
-          "precoVenda": 675.5,
-          "precoDebitoCredito": 696.0
+          "precoVenda": 337.5,
+          "precoDebitoCredito": 347.5
         }
       ]
     },
@@ -10614,14 +10614,6 @@
           "unidade": "CX",
           "precoVenda": 97.5,
           "precoDebitoCredito": 100.5
-        },
-        {
-          "codigo": "4629",
-          "pesoValor": 12.0,
-          "pesoUnidade": "X400G",
-          "unidade": "CX",
-          "precoVenda": 195.0,
-          "precoDebitoCredito": 201.0
         }
       ]
     },
@@ -10638,14 +10630,6 @@
           "unidade": "CX",
           "precoVenda": 64.0,
           "precoDebitoCredito": 66.0
-        },
-        {
-          "codigo": "4630",
-          "pesoValor": 12.0,
-          "pesoUnidade": "X400G",
-          "unidade": "CX",
-          "precoVenda": 127.5,
-          "precoDebitoCredito": 131.5
         }
       ]
     },
@@ -10657,11 +10641,11 @@
       "variacoes": [
         {
           "codigo": "4644",
-          "pesoValor": 12.0,
+          "pesoValor": 6.0,
           "pesoUnidade": "X400G",
           "unidade": "CX",
-          "precoVenda": 113.0,
-          "precoDebitoCredito": 116.5
+          "precoVenda": 57.0,
+          "precoDebitoCredito": 58.5
         }
       ]
     },
