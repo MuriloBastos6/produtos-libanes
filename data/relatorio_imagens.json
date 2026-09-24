@@ -1,10 +1,10 @@
 {
   "summary": {
     "categorias": 20,
-    "produtos": 556,
+    "produtos": 557,
     "matched": 574,
     "fallback": 0,
-    "category_without_folder": 0
+    "category_without_folder": 1
   },
   "details": [
     {
@@ -582,6 +582,15 @@
       "status": "fixed-existing",
       "score": 999.0,
       "arquivo_sugerido": "NOZES_QUARTS.jpg"
+    },
+    {
+      "categoria": "amendoim",
+      "id": "nozes-moscada",
+      "descricao": "NOZ MOSCADA EM PÓ",
+      "imagem": "/arroz.jpeg",
+      "status": "manual-default",
+      "score": 0.0,
+      "arquivo_sugerido": null
     },
     {
       "categoria": "amendoim",
