@@ -2,9 +2,9 @@
   "summary": {
     "categorias": 20,
     "produtos": 557,
-    "matched": 574,
+    "matched": 575,
     "fallback": 0,
-    "category_without_folder": 1
+    "category_without_folder": 0
   },
   "details": [
     {
@@ -587,10 +587,10 @@
       "categoria": "amendoim",
       "id": "nozes-moscada",
       "descricao": "NOZ MOSCADA EM PÓ",
-      "imagem": "/arroz.jpeg",
-      "status": "manual-default",
-      "score": 0.0,
-      "arquivo_sugerido": null
+      "imagem": "/images/amendoim/nozes-moscada-po.jpeg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "nozes-moscada-po.jpeg"
     },
     {
       "categoria": "amendoim",
