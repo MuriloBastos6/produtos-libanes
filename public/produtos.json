@@ -7376,16 +7376,16 @@
           "pesoValor": 5.0,
           "pesoUnidade": "KG",
           "unidade": "PC",
-          "precoVenda": 19.0,
-          "precoDebitoCredito": 19.5
+          "precoVenda": 23.0,
+          "precoDebitoCredito": 23.5
         },
         {
           "codigo": "653",
           "pesoValor": 25.0,
           "pesoUnidade": "KG",
           "unidade": "SC",
-          "precoVenda": 95.0,
-          "precoDebitoCredito": 98.0
+          "precoVenda": 122.5,
+          "precoDebitoCredito": 126.0
         }
       ]
     },
@@ -7512,16 +7512,16 @@
           "pesoValor": 5.0,
           "pesoUnidade": "KG",
           "unidade": "PC",
-          "precoVenda": 66.5,
-          "precoDebitoCredito": 68.5
+          "precoVenda": 58.0,
+          "precoDebitoCredito": 59.5
         },
         {
           "codigo": "571",
           "pesoValor": 25.0,
           "pesoUnidade": "KG",
           "unidade": "SC",
-          "precoVenda": 312.5,
-          "precoDebitoCredito": 322.0
+          "precoVenda": 275.0,
+          "precoDebitoCredito": 283.5
         }
       ]
     },
