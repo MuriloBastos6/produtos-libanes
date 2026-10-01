@@ -2116,16 +2116,16 @@
           "pesoValor": 1.0,
           "pesoUnidade": "KG",
           "unidade": "PC",
-          "precoVenda": 20.0,
-          "precoDebitoCredito": 20.5
+          "precoVenda": 25.0,
+          "precoDebitoCredito": 26.0
         },
         {
           "codigo": "3040",
           "pesoValor": 15.0,
           "pesoUnidade": "KG",
           "unidade": "SC",
-          "precoVenda": 300.0,
-          "precoDebitoCredito": 309.0
+          "precoVenda": 375.0,
+          "precoDebitoCredito": 386.5
         }
       ]
     },
