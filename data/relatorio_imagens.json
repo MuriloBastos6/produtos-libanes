@@ -3268,7 +3268,7 @@
     {
       "categoria": "produtosnaturais",
       "id": "farofa-flocada-torresmo",
-      "descricao": "FAROFA FLOCADA TORRESMO",
+      "descricao": "FAROFA SABOR TORRESMO",
       "imagem": "/images/produtosnaturais/farofa.jpg",
       "status": "fixed-existing",
       "score": 999.0,
@@ -3277,7 +3277,7 @@
     {
       "categoria": "produtosnaturais",
       "id": "farofa-flocada-gourmet",
-      "descricao": "FAROFA FLOCADA GOURMET",
+      "descricao": "FAROFA SABOR PICANHA C/ALHO",
       "imagem": "/images/produtosnaturais/farofa.jpg",
       "status": "fixed-existing",
       "score": 999.0,
@@ -3286,7 +3286,7 @@
     {
       "categoria": "produtosnaturais",
       "id": "farofa-fina-tradicional",
-      "descricao": "FAROFA FINA TRADICIONAL",
+      "descricao": "FAROFA TRADICIONAL",
       "imagem": "/images/produtosnaturais/farofa.jpg",
       "status": "fixed-existing",
       "score": 999.0,
@@ -3295,7 +3295,7 @@
     {
       "categoria": "produtosnaturais",
       "id": "farofa-fina-c-pimenta",
-      "descricao": "FAROFA FINA C/ PIMENTA",
+      "descricao": "FAROFA COM PIMENTA",
       "imagem": "/images/produtosnaturais/farofa.jpg",
       "status": "fixed-existing",
       "score": 999.0,

@@ -7352,16 +7352,16 @@
           "pesoValor": 2.0,
           "pesoUnidade": "X2.5KG",
           "unidade": "CX",
-          "precoVenda": 325.0,
-          "precoDebitoCredito": 335.0
+          "precoVenda": 295.0,
+          "precoDebitoCredito": 304.0
         },
         {
           "codigo": "4202",
           "pesoValor": 2.5,
           "pesoUnidade": "KG",
           "unidade": "PC",
-          "precoVenda": 162.5,
-          "precoDebitoCredito": 167.5
+          "precoVenda": 147.5,
+          "precoDebitoCredito": 152.0
         }
       ]
     },
@@ -8009,7 +8009,7 @@
     },
     {
       "id": "farofa-flocada-torresmo",
-      "descricao": "FAROFA FLOCADA TORRESMO",
+      "descricao": "FAROFA SABOR TORRESMO",
       "categoria": "produtosnaturais",
       "imagem": "/images/produtosnaturais/farofa.jpg",
       "variacoes": [
@@ -8018,14 +8018,14 @@
           "pesoValor": 3.0,
           "pesoUnidade": "KG",
           "unidade": "PC",
-          "precoVenda": 39.0,
-          "precoDebitoCredito": 40.0
+          "precoVenda": 69.0,
+          "precoDebitoCredito": 71.0
         }
       ]
     },
     {
       "id": "farofa-flocada-gourmet",
-      "descricao": "FAROFA FLOCADA GOURMET",
+      "descricao": "FAROFA SABOR PICANHA C/ALHO",
       "categoria": "produtosnaturais",
       "imagem": "/images/produtosnaturais/farofa.jpg",
       "variacoes": [
@@ -8034,14 +8034,14 @@
           "pesoValor": 3.0,
           "pesoUnidade": "KG",
           "unidade": "PC",
-          "precoVenda": 39.0,
-          "precoDebitoCredito": 40.0
+          "precoVenda": 69.0,
+          "precoDebitoCredito": 71.0
         }
       ]
     },
     {
       "id": "farofa-fina-tradicional",
-      "descricao": "FAROFA FINA TRADICIONAL",
+      "descricao": "FAROFA TRADICIONAL",
       "categoria": "produtosnaturais",
       "imagem": "/images/produtosnaturais/farofa.jpg",
       "variacoes": [
@@ -8050,14 +8050,14 @@
           "pesoValor": 3.0,
           "pesoUnidade": "KG",
           "unidade": "PC",
-          "precoVenda": 39.0,
-          "precoDebitoCredito": 40.0
+          "precoVenda": 69.0,
+          "precoDebitoCredito": 71.0
         }
       ]
     },
     {
       "id": "farofa-fina-c-pimenta",
-      "descricao": "FAROFA FINA C/ PIMENTA",
+      "descricao": "FAROFA COM PIMENTA",
       "categoria": "produtosnaturais",
       "imagem": "/images/produtosnaturais/farofa.jpg",
       "variacoes": [
@@ -8066,8 +8066,8 @@
           "pesoValor": 3.0,
           "pesoUnidade": "KG",
           "unidade": "PC",
-          "precoVenda": 39.0,
-          "precoDebitoCredito": 40.0
+          "precoVenda": 69.0,
+          "precoDebitoCredito": 71.0
         }
       ]
     },
@@ -10292,8 +10292,8 @@
           "pesoValor": 5.0,
           "pesoUnidade": "KG",
           "unidade": "PC",
-          "precoVenda": 65.0,
-          "precoDebitoCredito": 67.0
+          "precoVenda": 67.5,
+          "precoDebitoCredito": 69.5
         }
       ]
     },
@@ -10332,8 +10332,8 @@
           "pesoValor": 5.0,
           "pesoUnidade": "KG",
           "unidade": "PC",
-          "precoVenda": 65.0,
-          "precoDebitoCredito": 67.0
+          "precoVenda": 67.5,
+          "precoDebitoCredito": 69.5
         }
       ]
     },
@@ -10348,8 +10348,8 @@
           "pesoValor": 5.0,
           "pesoUnidade": "KG",
           "unidade": "PC",
-          "precoVenda": 65.0,
-          "precoDebitoCredito": 67.0
+          "precoVenda": 67.5,
+          "precoDebitoCredito": 69.5
         }
       ]
     },
@@ -10801,8 +10801,8 @@
       "variacoes": [
         {
           "codigo": "4308",
-          "pesoValor": 10.0,
-          "pesoUnidade": "X250G",
+          "pesoValor": 20.0,
+          "pesoUnidade": "X37.5G",
           "unidade": "PC",
           "precoVenda": 68.5,
           "precoDebitoCredito": 70.5
