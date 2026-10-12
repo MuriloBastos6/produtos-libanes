@@ -195,8 +195,8 @@
           "pesoValor": 10.0,
           "pesoUnidade": "KG",
           "unidade": "CX",
-          "precoVenda": 155.0,
-          "precoDebitoCredito": 160.0
+          "precoVenda": 130.0,
+          "precoDebitoCredito": 134.0
         }
       ]
     },
@@ -1448,6 +1448,14 @@
           "unidade": "CX",
           "precoVenda": 480.0,
           "precoDebitoCredito": 494.5
+        },
+        {
+          "codigo": "4291",
+          "pesoValor": 11.0,
+          "pesoUnidade": "KG",
+          "unidade": "CX",
+          "precoVenda": 528.0,
+          "precoDebitoCredito": 544.0
         }
       ]
     },
@@ -4978,8 +4986,8 @@
           "pesoValor": 5.0,
           "pesoUnidade": "KG",
           "unidade": "PC",
-          "precoVenda": 170.0,
-          "precoDebitoCredito": 175.0
+          "precoVenda": 140.0,
+          "precoDebitoCredito": 144.0
         }
       ]
     },
@@ -7118,8 +7126,8 @@
           "pesoValor": 10.0,
           "pesoUnidade": "KG",
           "unidade": "CX",
-          "precoVenda": 340.0,
-          "precoDebitoCredito": 350.0
+          "precoVenda": 400.0,
+          "precoDebitoCredito": 412.0
         }
       ]
     },
@@ -7134,8 +7142,8 @@
           "pesoValor": 10.0,
           "pesoUnidade": "KG",
           "unidade": "CX",
-          "precoVenda": 155.0,
-          "precoDebitoCredito": 159.5
+          "precoVenda": 130.0,
+          "precoDebitoCredito": 134.0
         }
       ]
     }
@@ -8394,16 +8402,16 @@
           "pesoValor": 5.0,
           "pesoUnidade": "KG",
           "unidade": "PC",
-          "precoVenda": 182.0,
-          "precoDebitoCredito": 187.5
+          "precoVenda": 198.5,
+          "precoDebitoCredito": 204.5
         },
         {
           "codigo": "4556",
           "pesoValor": 25.0,
           "pesoUnidade": "KG",
           "unidade": "SC",
-          "precoVenda": 900.0,
-          "precoDebitoCredito": 927.0
+          "precoVenda": 975.0,
+          "precoDebitoCredito": 1004.5
         }
       ]
     },
