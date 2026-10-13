@@ -1450,7 +1450,7 @@
           "precoDebitoCredito": 494.5
         },
         {
-          "codigo": "4291",
+          "codigo": "4179",
           "pesoValor": 11.0,
           "pesoUnidade": "KG",
           "unidade": "CX",
@@ -6162,22 +6162,22 @@
           "pesoValor": 5.0,
           "pesoUnidade": "KG",
           "unidade": "PC",
-          "precoVenda": 65.0,
-          "precoDebitoCredito": 67.0
+          "precoVenda": 70.0,
+          "precoDebitoCredito": 72.0
         },
         {
           "codigo": "3355",
           "pesoValor": 25.0,
           "pesoUnidade": "KG",
           "unidade": "SC",
-          "precoVenda": 315.0,
-          "precoDebitoCredito": 324.5
+          "precoVenda": 335.0,
+          "precoDebitoCredito": 345.0
         }
       ]
     },
     {
       "id": "tempero-pimenta-calabresa-po",
-      "descricao": "TEMPERO PIMENTA CALABRESA",
+      "descricao": "TEMPERO PIMENTA CALABRESA EM PÓ",
       "categoria": "especiarias",
       "imagem": "/images/especiarias/tempero-pimenta-calabresa-po.jpg",
       "variacoes": [
@@ -7122,8 +7122,16 @@
       "imagem": "/images/frutas/UVA_PASSA_BRANCA.jpg",
       "variacoes": [
         {
-          "codigo": "2406",
+          "codigo": "3111",
           "pesoValor": 10.0,
+          "pesoUnidade": "KG",
+          "unidade": "CX",
+          "precoVenda": 320.0,
+          "precoDebitoCredito": 329.5
+        },
+        {
+          "codigo": "2406",
+          "pesoValor": 12.5,
           "pesoUnidade": "KG",
           "unidade": "CX",
           "precoVenda": 400.0,
