@@ -1640,16 +1640,16 @@
           "pesoValor": 5.0,
           "pesoUnidade": "KG",
           "unidade": "PC",
-          "precoVenda": 133.5,
-          "precoDebitoCredito": 137.5
+          "precoVenda": 138.5,
+          "precoDebitoCredito": 142.5
         },
         {
           "codigo": "94",
           "pesoValor": 25.0,
           "pesoUnidade": "KG",
           "unidade": "SC",
-          "precoVenda": 650.0,
-          "precoDebitoCredito": 669.5
+          "precoVenda": 675.0,
+          "precoDebitoCredito": 695.5
         }
       ]
     },
@@ -4826,8 +4826,8 @@
           "pesoValor": 20.0,
           "pesoUnidade": "X1KG",
           "unidade": "FD",
-          "precoVenda": 290.0,
-          "precoDebitoCredito": 298.5
+          "precoVenda": 250.0,
+          "precoDebitoCredito": 257.5
         }
       ]
     },
@@ -7504,16 +7504,16 @@
           "pesoValor": 5.0,
           "pesoUnidade": "KG",
           "unidade": "SC",
-          "precoVenda": 348.5,
-          "precoDebitoCredito": 359.0
+          "precoVenda": 323.5,
+          "precoDebitoCredito": 333.0
         },
         {
           "codigo": "4400",
           "pesoValor": 25.0,
           "pesoUnidade": "KG",
           "unidade": "SC",
-          "precoVenda": 1725.0,
-          "precoDebitoCredito": 1777.0
+          "precoVenda": 1600.0,
+          "precoDebitoCredito": 1648.0
         }
       ]
     },
@@ -8778,24 +8778,24 @@
           "pesoValor": 3.0,
           "pesoUnidade": "KG",
           "unidade": "PC",
-          "precoVenda": 46.0,
-          "precoDebitoCredito": 47.5
+          "precoVenda": 33.0,
+          "precoDebitoCredito": 34.0
         },
         {
           "codigo": "2805",
           "pesoValor": 10.0,
           "pesoUnidade": "KG",
           "unidade": "SC",
-          "precoVenda": 150.0,
-          "precoDebitoCredito": 154.5
+          "precoVenda": 105.0,
+          "precoDebitoCredito": 108.0
         },
         {
           "codigo": "3637",
           "pesoValor": 25.0,
           "pesoUnidade": "KG",
           "unidade": "SC",
-          "precoVenda": 375.0,
-          "precoDebitoCredito": 386.5
+          "precoVenda": 262.5,
+          "precoDebitoCredito": 270.5
         }
       ]
     },
