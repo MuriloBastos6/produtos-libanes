@@ -7392,8 +7392,8 @@
           "pesoValor": 5.0,
           "pesoUnidade": "KG",
           "unidade": "PC",
-          "precoVenda": 23.0,
-          "precoDebitoCredito": 23.5
+          "precoVenda": 27.5,
+          "precoDebitoCredito": 28.5
         },
         {
           "codigo": "653",
@@ -9288,32 +9288,32 @@
           "pesoValor": 10.0,
           "pesoUnidade": "X1KG",
           "unidade": "FD",
-          "precoVenda": 55.0,
-          "precoDebitoCredito": 56.5
+          "precoVenda": 56.0,
+          "precoDebitoCredito": 57.5
         },
         {
           "codigo": "2264",
           "pesoValor": 10.0,
           "pesoUnidade": "X1KG",
           "unidade": "CX",
-          "precoVenda": 58.0,
-          "precoDebitoCredito": 59.5
+          "precoVenda": 59.0,
+          "precoDebitoCredito": 61.0
         },
         {
           "codigo": "3083",
           "pesoValor": 20.0,
           "pesoUnidade": "X500G",
           "unidade": "FD",
-          "precoVenda": 56.0,
-          "precoDebitoCredito": 57.5
+          "precoVenda": 57.0,
+          "precoDebitoCredito": 58.5
         },
         {
           "codigo": "2355",
           "pesoValor": 20.0,
           "pesoUnidade": "X500G",
           "unidade": "CX",
-          "precoVenda": 59.0,
-          "precoDebitoCredito": 61.0
+          "precoVenda": 60.0,
+          "precoDebitoCredito": 62.0
         }
       ]
     },
