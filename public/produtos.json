@@ -4632,8 +4632,8 @@
           "pesoValor": 25.0,
           "pesoUnidade": "KG",
           "unidade": "SC",
-          "precoVenda": 87.0,
-          "precoDebitoCredito": 89.5
+          "precoVenda": 90.0,
+          "precoDebitoCredito": 92.5
         }
       ]
     },
@@ -6878,8 +6878,8 @@
           "pesoValor": 5.0,
           "pesoUnidade": "KG",
           "unidade": "CX",
-          "precoVenda": 450.0,
-          "precoDebitoCredito": 463.5
+          "precoVenda": 415.0,
+          "precoDebitoCredito": 427.5
         }
       ]
     },
@@ -8514,16 +8514,16 @@
           "pesoValor": 5.0,
           "pesoUnidade": "KG",
           "unidade": "PC",
-          "precoVenda": 63.0,
-          "precoDebitoCredito": 65.0
+          "precoVenda": 65.5,
+          "precoDebitoCredito": 67.5
         },
         {
           "codigo": "195",
           "pesoValor": 25.0,
           "pesoUnidade": "KG",
           "unidade": "SC",
-          "precoVenda": 300.0,
-          "precoDebitoCredito": 309.0
+          "precoVenda": 312.5,
+          "precoDebitoCredito": 322.0
         }
       ]
     },
