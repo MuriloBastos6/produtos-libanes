@@ -9544,6 +9544,22 @@
       ]
     },
     {
+      "id": "biscoito-polvilho",
+      "descricao": "BISCOITO DE POLVILHO C/QUEIJO",
+      "categoria": "salgadinhos",
+      "imagem": "/images/salgadinhos/biscoito-polvilho.jpeg",
+      "variacoes": [
+        {
+          "codigo": "4244",
+          "pesoValor": 20.0,
+          "pesoUnidade": "X180G",
+          "unidade": "SC",
+          "precoVenda": 200.0,
+          "precoDebitoCredito": 206.0
+        }
+      ]
+    },
+    {
       "id": "mix-batata-doce-chips",
       "descricao": "MIX BATATA DOCE CHIPS",
       "categoria": "salgadinhos",
