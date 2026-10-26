@@ -2,9 +2,9 @@
   "summary": {
     "categorias": 20,
     "produtos": 558,
-    "matched": 575,
+    "matched": 576,
     "fallback": 0,
-    "category_without_folder": 1
+    "category_without_folder": 0
   },
   "details": [
     {
@@ -3953,10 +3953,10 @@
       "categoria": "salgadinhos",
       "id": "biscoito-polvilho",
       "descricao": "BISCOITO DE POLVILHO C/QUEIJO",
-      "imagem": "/arroz.jpeg",
-      "status": "manual-default",
-      "score": 0.0,
-      "arquivo_sugerido": null
+      "imagem": "/images/salgadinhos/biscoito-polvilho.jpeg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "biscoito-polvilho.jpeg"
     },
     {
       "categoria": "salgadinhos",
