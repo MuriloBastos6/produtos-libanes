@@ -1,4 +1,5 @@
 import React from "react";
+import { urlImagemProduto } from "../dados.js";
 
 function formatarPreco(valor) {
   return Number(valor || 0).toLocaleString("pt-BR", {
@@ -33,7 +34,7 @@ function removerExtensao(arquivo = "") {
 }
 
 function montarCandidatosImagem(caminhoImagem = "") {
-  const caminhoLimpo = String(caminhoImagem || "").trim();
+  const caminhoLimpo = urlImagemProduto(caminhoImagem);
   if (!caminhoLimpo) {
     return ["/arroz.jpeg"];
   }

@@ -2,6 +2,7 @@ import { useEffect, useMemo, useState } from "react";
 import { Link } from "react-router-dom";
 import { useSearchParams } from "react-router-dom";
 import ProdutosGrid from "../components/ProdutosGrid";
+import { buscarProdutos } from "../dados.js";
 import "./produtoPage.css";
 
 const ordemCategorias = [
@@ -101,12 +102,7 @@ function BuscaPage() {
 
     async function carregarProdutos() {
       try {
-        const response = await fetch("/produtos.json");
-        if (!response.ok) {
-          throw new Error("Falha ao carregar produtos");
-        }
-
-        const dadosPorCategoria = await response.json();
+        const dadosPorCategoria = await buscarProdutos();
         if (!dadosPorCategoria || typeof dadosPorCategoria !== "object") {
           throw new Error("Formato de produtos invalido");
         }

@@ -2,6 +2,7 @@ import { useEffect, useMemo, useState } from "react";
 import { Link, Navigate, useParams } from "react-router-dom";
 import "./produtoPage.css";
 import ProdutosGrid from "../components/ProdutosGrid";
+import { buscarProdutos } from "../dados.js";
 
 const ordemCategorias = [
   "amendoim",
@@ -109,13 +110,7 @@ function CategoriaPage() {
     setCarregando(true);
     setErro("");
 
-    fetch("/produtos.json")
-      .then((response) => {
-        if (!response.ok) {
-          throw new Error("Falha ao buscar produtos");
-        }
-        return response.json();
-      })
+    buscarProdutos()
       .then((data) => {
         if (!cancelado) {
           const produtosCategoria = Array.isArray(data?.[slug])

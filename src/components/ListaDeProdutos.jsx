@@ -1,5 +1,6 @@
 import { useEffect, useState } from "react";
 import ProdutosGrid from "./ProdutosGrid.jsx";
+import { buscarProdutos } from "../dados.js";
 
 function normalizarCategoria(valor = "") {
   return String(valor)
@@ -65,12 +66,7 @@ function ListaDeProdutos() {
 
     async function carregarProdutos() {
       try {
-        const response = await fetch("/produtos.json");
-        if (!response.ok) {
-          throw new Error("Falha ao carregar produtos");
-        }
-
-        const dados = await response.json();
+        const dados = await buscarProdutos();
         const promo =
           (Array.isArray(dados?.promoçoes) && dados.promoçoes) ||
           (Array.isArray(dados?.promoções) && dados.promoções) ||
