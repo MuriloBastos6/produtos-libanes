@@ -35,8 +35,8 @@
           "pesoValor": 25.0,
           "pesoUnidade": "KG",
           "unidade": "SC",
-          "precoVenda": 87.0,
-          "precoDebitoCredito": 89.5
+          "precoVenda": 90.0,
+          "precoDebitoCredito": 92.5
         }
       ]
     },
@@ -179,8 +179,8 @@
           "pesoValor": 5.0,
           "pesoUnidade": "KG",
           "unidade": "CX",
-          "precoVenda": 250.0,
-          "precoDebitoCredito": 258.0
+          "precoVenda": 275.0,
+          "precoDebitoCredito": 283.5
         }
       ]
     },
@@ -211,16 +211,16 @@
           "pesoValor": 5.0,
           "pesoUnidade": "KG",
           "unidade": "SC",
-          "precoVenda": 378.5,
-          "precoDebitoCredito": 390.0
+          "precoVenda": 323.5,
+          "precoDebitoCredito": 333.0
         },
         {
           "codigo": "4400",
           "pesoValor": 25.0,
           "pesoUnidade": "KG",
           "unidade": "SC",
-          "precoVenda": 1875.0,
-          "precoDebitoCredito": 1931.0
+          "precoVenda": 1600.0,
+          "precoDebitoCredito": 1648.0
         }
       ]
     },
@@ -1880,7 +1880,7 @@
       "imagem": "/images/cha/ch-arruda.jpg",
       "variacoes": [
         {
-          "codigo": "4668",
+          "codigo": "4667",
           "pesoValor": 1.0,
           "pesoUnidade": "KG",
           "unidade": "PC",
@@ -1888,7 +1888,7 @@
           "precoDebitoCredito": 79.5
         },
         {
-          "codigo": "4667",
+          "codigo": "4668",
           "pesoValor": 10.0,
           "pesoUnidade": "KG",
           "unidade": "SC",
@@ -2424,7 +2424,7 @@
       "imagem": "/images/cha/cha-de-hortela.jpg",
       "variacoes": [
         {
-          "codigo": "2465",
+          "codigo": "4622",
           "pesoValor": 2.0,
           "pesoUnidade": "KG",
           "unidade": "PC",
@@ -2432,7 +2432,7 @@
           "precoDebitoCredito": 64.0
         },
         {
-          "codigo": "2466",
+          "codigo": "4623",
           "pesoValor": 25.0,
           "pesoUnidade": "KG",
           "unidade": "SC",
@@ -3632,8 +3632,8 @@
           "pesoValor": 5.0,
           "pesoUnidade": "KG",
           "unidade": "PC",
-          "precoVenda": 16.0,
-          "precoDebitoCredito": 16.5
+          "precoVenda": 16.5,
+          "precoDebitoCredito": 17.0
         },
         {
           "codigo": "11",
@@ -3656,16 +3656,16 @@
           "pesoValor": 5.0,
           "pesoUnidade": "KG",
           "unidade": "PC",
-          "precoVenda": 31.5,
-          "precoDebitoCredito": 32.5
+          "precoVenda": 38.0,
+          "precoDebitoCredito": 39.0
         },
         {
           "codigo": "3472",
           "pesoValor": 30.0,
           "pesoUnidade": "KG",
           "unidade": "SC",
-          "precoVenda": 170.0,
-          "precoDebitoCredito": 175.0
+          "precoVenda": 210.0,
+          "precoDebitoCredito": 216.5
         }
       ]
     },
@@ -4160,8 +4160,8 @@
           "pesoValor": 25.0,
           "pesoUnidade": "KG",
           "unidade": "SC",
-          "precoVenda": 115.0,
-          "precoDebitoCredito": 118.5
+          "precoVenda": 120.0,
+          "precoDebitoCredito": 123.5
         },
         {
           "codigo": "2834",
@@ -5098,16 +5098,16 @@
           "pesoValor": 10.0,
           "pesoUnidade": "KG",
           "unidade": "SC",
-          "precoVenda": 29.0,
-          "precoDebitoCredito": 30.0
+          "precoVenda": 35.0,
+          "precoDebitoCredito": 36.0
         },
         {
           "codigo": "3101",
           "pesoValor": 25.0,
           "pesoUnidade": "KG",
           "unidade": "SC",
-          "precoVenda": 73.0,
-          "precoDebitoCredito": 75.0
+          "precoVenda": 87.5,
+          "precoDebitoCredito": 90.0
         }
       ]
     },
@@ -6716,8 +6716,8 @@
           "pesoValor": 15.0,
           "pesoUnidade": "KG",
           "unidade": "SC",
-          "precoVenda": 158.5,
-          "precoDebitoCredito": 163.5
+          "precoVenda": 119.0,
+          "precoDebitoCredito": 122.5
         }
       ]
     },
@@ -6732,8 +6732,8 @@
           "pesoValor": 20.0,
           "pesoUnidade": "KG",
           "unidade": "SC",
-          "precoVenda": 153.5,
-          "precoDebitoCredito": 158.0
+          "precoVenda": 158.5,
+          "precoDebitoCredito": 163.5
         }
       ]
     },
@@ -7038,8 +7038,8 @@
           "pesoValor": 2.0,
           "pesoUnidade": "X2.5KG",
           "unidade": "CX",
-          "precoVenda": 675.5,
-          "precoDebitoCredito": 696.0
+          "precoVenda": 675.0,
+          "precoDebitoCredito": 695.5
         },
         {
           "codigo": "4492",
@@ -7304,8 +7304,8 @@
           "pesoValor": 20.0,
           "pesoUnidade": "KG",
           "unidade": "PC",
-          "precoVenda": 136.5,
-          "precoDebitoCredito": 140.5
+          "precoVenda": 155.0,
+          "precoDebitoCredito": 159.5
         }
       ]
     },
@@ -7866,16 +7866,16 @@
           "pesoValor": 5.0,
           "pesoUnidade": "KG",
           "unidade": "PC",
-          "precoVenda": 142.0,
-          "precoDebitoCredito": 146.5
+          "precoVenda": 155.0,
+          "precoDebitoCredito": 159.5
         },
         {
           "codigo": "3489",
           "pesoValor": 25.0,
           "pesoUnidade": "KG",
           "unidade": "SC",
-          "precoVenda": 700.0,
-          "precoDebitoCredito": 721.0
+          "precoVenda": 765.0,
+          "precoDebitoCredito": 788.0
         }
       ]
     },
@@ -8010,8 +8010,8 @@
           "pesoValor": 3.0,
           "pesoUnidade": "KG",
           "unidade": "PC",
-          "precoVenda": 16.0,
-          "precoDebitoCredito": 16.5
+          "precoVenda": 16.5,
+          "precoDebitoCredito": 17.0
         },
         {
           "codigo": "565",
@@ -9218,7 +9218,7 @@
           "precoDebitoCredito": 176.5
         },
         {
-          "codigo": "3644",
+          "codigo": "3642",
           "pesoValor": 12.0,
           "pesoUnidade": "X1LT",
           "unidade": "FD",
@@ -10604,8 +10604,8 @@
           "pesoValor": 15.0,
           "pesoUnidade": "X37,5G",
           "unidade": "PC",
-          "precoVenda": 28.0,
-          "precoDebitoCredito": 29.0
+          "precoVenda": 38.5,
+          "precoDebitoCredito": 39.5
         }
       ]
     },
@@ -11370,7 +11370,7 @@
       "imagem": "/images/doces/bolacha-kishow-limao.webp",
       "variacoes": [
         {
-          "codigo": "2205",
+          "codigo": "4662",
           "pesoValor": 2.5,
           "pesoUnidade": "KG",
           "unidade": "PC",
@@ -11624,8 +11624,8 @@
           "pesoValor": 12.0,
           "pesoUnidade": "UN",
           "unidade": "CX",
-          "precoVenda": 714.5,
-          "precoDebitoCredito": 736.0
+          "precoVenda": 714.0,
+          "precoDebitoCredito": 735.5
         }
       ]
     },
